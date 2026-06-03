@@ -1,0 +1,38 @@
+{
+  "status": "ready",
+  "counts": {
+    "market_rows": 12,
+    "company_rows": 108,
+    "total_rows": 120
+  },
+  "files": [
+    {
+      "county": "Galway",
+      "kind": "market",
+      "rows": 6,
+      "csv": "tmp/public-dashboard-build/collection_packs/galway-market.csv",
+      "markdown": "tmp/public-dashboard-build/collection_packs/galway-market.md"
+    },
+    {
+      "county": "Galway",
+      "kind": "company",
+      "rows": 54,
+      "csv": "tmp/public-dashboard-build/collection_packs/galway-company.csv",
+      "markdown": "tmp/public-dashboard-build/collection_packs/galway-company.md"
+    },
+    {
+      "county": "Dublin",
+      "kind": "market",
+      "rows": 6,
+      "csv": "tmp/public-dashboard-build/collection_packs/dublin-market.csv",
+      "markdown": "tmp/public-dashboard-build/collection_packs/dublin-market.md"
+    },
+    {
+      "county": "Dublin",
+      "kind": "company",
+      "rows": 54,
+      "csv": "tmp/public-dashboard-build/collection_packs/dublin-company.csv",
+      "markdown": "tmp/public-dashboard-build/collection_packs/dublin-company.md"
+    }
+  ]
+}

@@ -19,6 +19,14 @@
   "source_acquisition_matrix": "source_acquisition_matrix.json",
   "source_acquisition_matrix_report": "source_acquisition_matrix.md",
   "source_acquisition_matrix_csv": "source_acquisition_matrix.csv",
+  "collection_pack": "collection_packs/collection_pack_manifest.json",
+  "collection_pack_index": "collection_packs/index.md",
   "public_repo": ".",
-  "source_acquisition_matrix_status": "source_rows_needed"
+  "source_acquisition_matrix_status": "source_rows_needed",
+  "collection_pack_status": "ready",
+  "collection_pack_counts": {
+    "market_rows": 12,
+    "company_rows": 108,
+    "total_rows": 120
+  }
 }
