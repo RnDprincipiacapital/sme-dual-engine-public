@@ -1,0 +1,78 @@
+{
+  "status": "collection_in_progress",
+  "market_data_path": "samples/galway-dublin-market-data-sample.csv",
+  "company_data_path": "samples/galway-dublin-company-universe-sample.csv",
+  "overall": {
+    "expected_rows": 120,
+    "approved_rows": 0,
+    "approved_pct": 0.0,
+    "gap_count": 120
+  },
+  "source_types": {
+    "market": {
+      "expected_rows": 12,
+      "loaded_rows": 6,
+      "approved_rows": 0,
+      "placeholder_rows": 6,
+      "rows_missing_approval": 6,
+      "loaded_pct": 50.0,
+      "approved_pct": 0.0
+    },
+    "company_universe": {
+      "expected_rows": 108,
+      "loaded_rows": 8,
+      "approved_rows": 0,
+      "placeholder_rows": 8,
+      "rows_missing_approval": 8,
+      "loaded_pct": 7.4,
+      "approved_pct": 0.0
+    }
+  },
+  "by_county": [
+    {
+      "county": "Galway",
+      "market_expected_rows": 6,
+      "market_loaded_rows": 3,
+      "market_approved_rows": 0,
+      "market_approved_pct": 0.0,
+      "company_expected_rows": 54,
+      "company_loaded_rows": 4,
+      "company_approved_rows": 0,
+      "company_approved_pct": 0.0
+    },
+    {
+      "county": "Dublin",
+      "market_expected_rows": 6,
+      "market_loaded_rows": 3,
+      "market_approved_rows": 0,
+      "market_approved_pct": 0.0,
+      "company_expected_rows": 54,
+      "company_loaded_rows": 4,
+      "company_approved_rows": 0,
+      "company_approved_pct": 0.0
+    }
+  ],
+  "by_source": [
+    {
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "market_rows": 0,
+      "company_universe_rows": 8,
+      "approved_rows": 0,
+      "placeholder_rows": 8
+    },
+    {
+      "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+      "market_rows": 3,
+      "company_universe_rows": 0,
+      "approved_rows": 0,
+      "placeholder_rows": 3
+    },
+    {
+      "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+      "market_rows": 3,
+      "company_universe_rows": 0,
+      "approved_rows": 0,
+      "placeholder_rows": 3
+    }
+  ]
+}

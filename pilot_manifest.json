@@ -21,6 +21,8 @@
   "source_acquisition_matrix_csv": "source_acquisition_matrix.csv",
   "collection_pack": "collection_packs/collection_pack_manifest.json",
   "collection_pack_index": "collection_packs/index.md",
+  "collection_progress": "collection_progress.json",
+  "collection_progress_report": "collection_progress.md",
   "public_repo": ".",
   "source_acquisition_matrix_status": "source_rows_needed",
   "collection_pack_status": "ready",
@@ -28,5 +30,7 @@
     "market_rows": 12,
     "company_rows": 108,
     "total_rows": 120
-  }
+  },
+  "collection_progress_status": "collection_in_progress",
+  "collection_progress_pct": 0.0
 }
