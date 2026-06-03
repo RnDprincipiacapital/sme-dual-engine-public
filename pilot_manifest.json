@@ -15,5 +15,6 @@
     "company universe source notes still indicate sample or placeholder data"
   ],
   "dashboard": "index.html",
+  "county_coverage": "county_coverage.json",
   "public_repo": "."
 }
