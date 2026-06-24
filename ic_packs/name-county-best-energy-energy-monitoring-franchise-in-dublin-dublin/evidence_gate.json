@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:best energy energy monitoring franchise in dublin:dublin",
+  "target_name": "Best.Energy - Energy Monitoring Franchise in Dublin",
+  "readiness": "blocked",
+  "score": 29.0,
+  "evidence_gap_count": 5,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

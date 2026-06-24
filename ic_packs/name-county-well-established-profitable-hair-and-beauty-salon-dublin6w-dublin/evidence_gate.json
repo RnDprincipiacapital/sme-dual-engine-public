@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:well established profitable hair and beauty salon dublin6w:dublin",
+  "target_name": "Well Established Profitable Hair And Beauty Salon Dublin6w",
+  "readiness": "watch_memo_only",
+  "score": 48.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

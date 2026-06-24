@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:ireland construction 1 in category highly profitable w growth opportunity:dublin",
+  "target_name": "Ireland Construction - #1 in Category - Highly Profitable w/ Growth Opportunity",
+  "readiness": "watch_memo_only",
+  "score": 55.4,
+  "evidence_gap_count": 5,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

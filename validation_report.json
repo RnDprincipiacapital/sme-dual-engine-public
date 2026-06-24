@@ -1,6 +1,6 @@
 {
   "raw": {
-    "target_count": 130,
+    "target_count": 152,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
@@ -8,59 +8,62 @@
     "with_strong_identity": 66,
     "source_counts": {
       "cro_open_services": 56,
+      "businessesforsale_ie": 48,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 130
+      "Galway": 127,
+      "Dublin": 25
     },
     "field_issue_counts": {},
     "issues": []
   },
   "enriched": {
-    "target_count": 130,
+    "target_count": 152,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 130,
-    "with_strong_identity": 130,
+    "with_contact_evidence": 152,
+    "with_strong_identity": 152,
     "source_counts": {
       "cro_open_services": 56,
+      "businessesforsale_ie": 48,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 130
+      "Galway": 127,
+      "Dublin": 25
     },
     "field_issue_counts": {},
     "issues": []
   },
   "canonical": {
-    "target_count": 115,
+    "target_count": 137,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 115,
-    "with_strong_identity": 115,
+    "with_contact_evidence": 137,
+    "with_strong_identity": 137,
     "source_counts": {
+      "businessesforsale_ie": 48,
       "cro_open_services": 41,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 115
+      "Galway": 112,
+      "Dublin": 25
     },
     "field_issue_counts": {},
     "issues": []

@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:yoga studio for sale dublin 15 60 000:dublin",
+  "target_name": "Yoga Studio For Sale Dublin 15 | €60,000",
+  "readiness": "research_memo_ready",
+  "score": 61.4,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

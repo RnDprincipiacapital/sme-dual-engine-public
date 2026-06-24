@@ -1,69 +1,95 @@
 {
-  "assessment_count": 115,
+  "assessment_count": 137,
   "component_stats": {
     "succession_fit": {
-      "count": 115,
-      "mean": 49.1,
-      "median": 46.8,
+      "count": 137,
+      "mean": 44.7,
+      "median": 40.0,
       "min": 0.0,
       "max": 98.2
     },
     "business_quality": {
-      "count": 115,
-      "mean": 51.5,
-      "median": 42.0,
+      "count": 137,
+      "mean": 48.2,
+      "median": 37.0,
       "min": 12.0,
       "max": 100.0
     },
     "deal_readiness": {
-      "count": 115,
-      "mean": 56.6,
-      "median": 46.0,
+      "count": 137,
+      "mean": 58.5,
+      "median": 58.0,
       "min": 38.0,
       "max": 98.0
     },
     "macro_policy": {
-      "count": 115,
-      "mean": 51.1,
+      "count": 137,
+      "mean": 51.3,
       "median": 52.0,
       "min": 37.0,
       "max": 97.0
     },
     "combined": {
-      "count": 115,
-      "mean": 51.7,
-      "median": 49.8,
+      "count": 137,
+      "mean": 49.8,
+      "median": 48.0,
       "min": 23.6,
       "max": 84.2
     }
   },
   "weakest_component_counts": {
-    "business_quality": 44,
+    "business_quality": 46,
     "deal_readiness": 32,
     "macro_policy": 13,
-    "succession_fit": 26
+    "succession_fit": 46
   },
   "by_county": [
     {
-      "county": "Galway",
-      "count": 115,
+      "county": "Dublin",
+      "count": 25,
       "combined": {
-        "count": 115,
-        "mean": 51.7,
+        "count": 25,
+        "mean": 39.3,
+        "median": 39.3,
+        "min": 23.6,
+        "max": 61.4
+      },
+      "succession_fit": {
+        "count": 25,
+        "mean": 20.6,
+        "median": 27.0,
+        "min": 0.0,
+        "max": 55.0
+      },
+      "macro_policy": {
+        "count": 25,
+        "mean": 53.2,
+        "median": 52.0,
+        "min": 37.0,
+        "max": 82.0
+      },
+      "top_target": "Yoga Studio For Sale Dublin 15 | €60,000"
+    },
+    {
+      "county": "Galway",
+      "count": 112,
+      "combined": {
+        "count": 112,
+        "mean": 52.2,
         "median": 49.8,
         "min": 23.6,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 115,
-        "mean": 49.1,
-        "median": 46.8,
+        "count": 112,
+        "mean": 50.1,
+        "median": 47.9,
         "min": 0.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 115,
-        "mean": 51.1,
+        "count": 112,
+        "mean": 50.9,
         "median": 52.0,
         "min": 37.0,
         "max": 97.0
@@ -74,50 +100,50 @@
   "by_sector": [
     {
       "sector": "Automotive",
-      "count": 4,
+      "count": 5,
       "combined": {
-        "count": 4,
-        "mean": 60.1,
-        "median": 58.9,
-        "min": 50.5,
+        "count": 5,
+        "mean": 56.0,
+        "median": 50.5,
+        "min": 39.3,
         "max": 72.3
       },
       "succession_fit": {
-        "count": 4,
-        "mean": 63.1,
-        "median": 62.3,
-        "min": 46.8,
+        "count": 5,
+        "mean": 55.9,
+        "median": 46.8,
+        "min": 27.0,
         "max": 81.2
       },
       "macro_policy": {
-        "count": 4,
-        "mean": 52.0,
+        "count": 5,
+        "mean": 49.0,
         "median": 52.0,
-        "min": 52.0,
+        "min": 37.0,
         "max": 52.0
       },
       "top_target": "Galway Truck Centre Limited"
     },
     {
       "sector": "Business Services",
-      "count": 23,
+      "count": 35,
       "combined": {
-        "count": 23,
-        "mean": 53.9,
-        "median": 60.5,
+        "count": 35,
+        "mean": 46.6,
+        "median": 45.3,
         "min": 23.6,
         "max": 73.0
       },
       "succession_fit": {
-        "count": 23,
-        "mean": 49.7,
-        "median": 56.8,
+        "count": 35,
+        "mean": 35.7,
+        "median": 35.0,
         "min": 0.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 23,
-        "mean": 56.6,
+        "count": 35,
+        "mean": 55.9,
         "median": 52.0,
         "min": 37.0,
         "max": 82.0
@@ -178,23 +204,23 @@
     },
     {
       "sector": "Construction & Built Environment",
-      "count": 7,
+      "count": 9,
       "combined": {
-        "count": 7,
-        "mean": 70.2,
+        "count": 9,
+        "mean": 67.5,
         "median": 62.2,
-        "min": 62.2,
+        "min": 55.4,
         "max": 84.0
       },
       "succession_fit": {
-        "count": 7,
-        "mean": 76.0,
+        "count": 9,
+        "mean": 70.4,
         "median": 61.8,
-        "min": 61.8,
+        "min": 47.0,
         "max": 97.5
       },
       "macro_policy": {
-        "count": 7,
+        "count": 9,
         "mean": 67.0,
         "median": 67.0,
         "min": 67.0,
@@ -308,24 +334,24 @@
     },
     {
       "sector": "Food & Agribusiness",
-      "count": 5,
+      "count": 6,
       "combined": {
-        "count": 5,
-        "mean": 63.5,
-        "median": 62.4,
-        "min": 52.0,
+        "count": 6,
+        "mean": 61.5,
+        "median": 60.8,
+        "min": 51.9,
         "max": 79.1
       },
       "succession_fit": {
-        "count": 5,
-        "mean": 57.5,
-        "median": 52.5,
-        "min": 37.0,
+        "count": 6,
+        "mean": 53.8,
+        "median": 51.9,
+        "min": 35.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 5,
-        "mean": 64.0,
+        "count": 6,
+        "mean": 62.0,
         "median": 67.0,
         "min": 52.0,
         "max": 67.0
@@ -386,23 +412,23 @@
     },
     {
       "sector": "Hospitality & Tourism",
-      "count": 9,
+      "count": 12,
       "combined": {
-        "count": 9,
-        "mean": 44.1,
-        "median": 44.7,
+        "count": 12,
+        "mean": 45.0,
+        "median": 46.0,
         "min": 28.7,
         "max": 59.5
       },
       "succession_fit": {
-        "count": 9,
-        "mean": 32.0,
-        "median": 30.0,
+        "count": 12,
+        "mean": 33.2,
+        "median": 35.0,
         "min": 7.0,
         "max": 66.2
       },
       "macro_policy": {
-        "count": 9,
+        "count": 12,
         "mean": 47.0,
         "median": 52.0,
         "min": 37.0,
@@ -542,25 +568,25 @@
     },
     {
       "sector": "Retail & Consumer",
-      "count": 4,
+      "count": 7,
       "combined": {
-        "count": 4,
-        "mean": 50.0,
-        "median": 43.7,
+        "count": 7,
+        "mean": 47.9,
+        "median": 47.0,
         "min": 38.6,
         "max": 74.2
       },
       "succession_fit": {
-        "count": 4,
-        "mean": 41.8,
-        "median": 35.1,
+        "count": 7,
+        "mean": 37.7,
+        "median": 35.0,
         "min": 17.0,
         "max": 80.0
       },
       "macro_policy": {
-        "count": 4,
-        "mean": 44.5,
-        "median": 44.5,
+        "count": 7,
+        "mean": 45.6,
+        "median": 52.0,
         "min": 37.0,
         "max": 52.0
       },
@@ -844,8 +870,86 @@
       "weakest_component": "succession_fit"
     },
     {
+      "name": "Young Engineers Franchise in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Evoglide Automotive Franchise in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Four Star Pizza in Balbriggan",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Gecko Hospitality Recruitment Franchise in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
       "name": "Signarama International Master Franchise Opportunities",
-      "county": "Galway",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Specialist Glass Repairs - Glass & Acrylic Repair Franchise in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "WeddingBox Event Planning Franchise in Dublin",
+      "county": "Dublin",
       "local_area": "Unknown",
       "sector": "Business Services",
       "next_action": "defer_until_new_evidence",
@@ -858,7 +962,7 @@
     },
     {
       "name": "Multi-Site Fitness Franchise Portfolio – Ireland",
-      "county": "Galway",
+      "county": "Dublin",
       "local_area": "Unknown",
       "sector": "Business Services",
       "next_action": "defer_until_new_evidence",
@@ -881,84 +985,6 @@
       "macro_policy": 52.0,
       "combined": 28.7,
       "weakest_component": "succession_fit"
-    },
-    {
-      "name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
-      "county": "Galway",
-      "local_area": "UNIT 204",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 26.8,
-      "business_quality": 19.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 30.8,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "3D VENTURES LIMITED",
-      "county": "Galway",
-      "local_area": "TRUSKEY WEST",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 26.8,
-      "business_quality": 19.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 30.8,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
-      "county": "Galway",
-      "local_area": "18 FORSTER PLACE",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 26.8,
-      "business_quality": 19.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 30.8,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "KD ECO+ Laminates - Services Franchise in Galway",
-      "county": "Galway",
-      "local_area": "Unknown",
-      "sector": "Business Services",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 82.0,
-      "combined": 31.7,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "GARDEN GREEN ENERGY LIMITED",
-      "county": "Galway",
-      "local_area": "MICHAEL MANNION",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 26.8,
-      "business_quality": 19.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 52.0,
-      "combined": 33.5,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "40 DEGREES LIMITED",
-      "county": "Galway",
-      "local_area": "GALWAY",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 29.8,
-      "business_quality": 27.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 33.9,
-      "weakest_component": "business_quality"
     }
   ],
   "recommendations": [

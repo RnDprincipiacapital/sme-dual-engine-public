@@ -4,10 +4,10 @@
   "input": "samples/galway-sme-dashboard-expanded-public.json",
   "market_data": "docs/approved-data/cso-allocated-market-data-2022.csv",
   "company_data": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
-  "target_count": 130,
-  "entity_count": 115,
-  "assessment_count": 115,
-  "review_queue_count": 115,
+  "target_count": 152,
+  "entity_count": 137,
+  "assessment_count": 137,
+  "review_queue_count": 137,
   "readiness_status": "sample_or_incomplete",
   "readiness_score": 84,
   "readiness_issues": [
@@ -51,6 +51,6 @@
   "collection_progress_status": "collection_in_progress",
   "collection_progress_pct": 22.5,
   "sale_listing_refresh_status": "ok",
-  "sale_listing_refresh_rows": 27,
-  "sale_listing_refreshed_rows": 23
+  "sale_listing_refresh_rows": 49,
+  "sale_listing_refreshed_rows": 48
 }

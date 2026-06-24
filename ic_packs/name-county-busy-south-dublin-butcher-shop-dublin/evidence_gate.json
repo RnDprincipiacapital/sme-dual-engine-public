@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:busy south dublin butcher shop:dublin",
+  "target_name": "Busy South Dublin Butcher Shop",
+  "readiness": "watch_memo_only",
+  "score": 51.9,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

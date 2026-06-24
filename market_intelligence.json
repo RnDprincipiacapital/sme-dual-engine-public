@@ -116,7 +116,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 67,
+      "company_count": 66,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -160,7 +160,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 10,
+      "company_count": 9,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -202,7 +202,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 8,
+      "company_count": 7,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -246,7 +246,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 12,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -267,7 +267,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 5,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -288,7 +288,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 2,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -309,7 +309,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 2,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -330,7 +330,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 3,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -653,8 +653,8 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 115,
-        "review_queue_count": 115,
+        "target_count": 112,
+        "review_queue_count": 112,
         "sector_spend_rows": 6,
         "company_universe_rows": 6,
         "company_universe_total_companies": 44,
@@ -672,11 +672,10 @@
       "Dublin": {
         "status": "missing_inputs",
         "missing": [
-          "targets",
           "director_age"
         ],
-        "target_count": 0,
-        "review_queue_count": 0,
+        "target_count": 25,
+        "review_queue_count": 25,
         "sector_spend_rows": 6,
         "company_universe_rows": 9,
         "company_universe_total_companies": 425,
@@ -695,7 +694,7 @@
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 115,
+    "unknown_count": 137,
     "supported_thresholds": [
       50,
       55,
@@ -783,15 +782,21 @@
   "sale_listing_refresh": {
     "status": "ok",
     "observed_at": "2026-06-24",
-    "row_count": 27,
-    "refreshed_row_count": 23,
-    "kept_existing_rows": 27,
+    "row_count": 49,
+    "refreshed_row_count": 48,
+    "kept_existing_rows": 49,
     "sources": [
       {
         "source": "businessesforsale_ie",
         "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
         "status": "ok",
         "rows": 23
+      },
+      {
+        "source": "businessesforsale_ie",
+        "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
+        "status": "ok",
+        "rows": 25
       }
     ]
   }

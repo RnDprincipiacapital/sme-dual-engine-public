@@ -2,15 +2,21 @@
   "status": "ok",
   "observed_at": "2026-06-24",
   "output": "galway-live-sale-listings-public.csv",
-  "row_count": 27,
-  "refreshed_row_count": 23,
-  "kept_existing_rows": 27,
+  "row_count": 49,
+  "refreshed_row_count": 48,
+  "kept_existing_rows": 49,
   "sources": [
     {
       "source": "businessesforsale_ie",
       "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
       "status": "ok",
       "rows": 23
+    },
+    {
+      "source": "businessesforsale_ie",
+      "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
+      "status": "ok",
+      "rows": 25
     }
   ]
 }

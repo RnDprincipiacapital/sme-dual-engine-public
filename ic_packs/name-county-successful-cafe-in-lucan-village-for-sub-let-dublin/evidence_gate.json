@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:successful cafe in lucan village for sub let:dublin",
+  "target_name": "Successful Cafe In Lucan Village For Sub Let",
+  "readiness": "watch_memo_only",
+  "score": 47.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

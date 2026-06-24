@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:hair and beauty salon in dublin city centre:dublin",
+  "target_name": "Hair And Beauty Salon In Dublin City Centre",
+  "readiness": "watch_memo_only",
+  "score": 48.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

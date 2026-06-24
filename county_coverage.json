@@ -12,8 +12,8 @@
       "missing": [
         "director_age"
       ],
-      "target_count": 115,
-      "review_queue_count": 115,
+      "target_count": 112,
+      "review_queue_count": 112,
       "sector_spend_rows": 6,
       "company_universe_rows": 6,
       "company_universe_total_companies": 44,
@@ -31,11 +31,10 @@
     "Dublin": {
       "status": "missing_inputs",
       "missing": [
-        "targets",
         "director_age"
       ],
-      "target_count": 0,
-      "review_queue_count": 0,
+      "target_count": 25,
+      "review_queue_count": 25,
       "sector_spend_rows": 6,
       "company_universe_rows": 9,
       "company_universe_total_companies": 425,

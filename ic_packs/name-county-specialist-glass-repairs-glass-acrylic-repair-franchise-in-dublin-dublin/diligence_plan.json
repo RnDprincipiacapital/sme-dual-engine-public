@@ -1,0 +1,68 @@
+{
+  "target_identity": "Specialist Glass Repairs - Glass & Acrylic Repair Franchise in Dublin",
+  "stage": "defer",
+  "decision_gate": "do not spend partner time without materially better evidence",
+  "evidence_gaps": [
+    "CRO/company number not linked",
+    "direct contact route missing",
+    "company age unavailable",
+    "registered address unavailable",
+    "no asking price or valuation anchor"
+  ],
+  "questions": [
+    {
+      "category": "corporate_identity",
+      "question": "Confirm legal entity, CRO number, status, directors, filings, and group structure.",
+      "priority": "high",
+      "evidence_needed": [
+        "CRO profile",
+        "latest annual return",
+        "director list"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "seller_access",
+      "question": "Find a verified phone, email, owner/director contact, or advisor route.",
+      "priority": "high",
+      "evidence_needed": [
+        "phone",
+        "email",
+        "director LinkedIn",
+        "advisor/listing page"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "valuation",
+      "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+      "priority": "medium",
+      "evidence_needed": [
+        "employee estimate",
+        "revenue proxy",
+        "asset base",
+        "sector multiple"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "thesis_fit",
+      "question": "Confirm this is an operating SME succession target, not a franchise, passive property, or generic opportunity.",
+      "priority": "high",
+      "evidence_needed": [
+        "listing text",
+        "asset description",
+        "seller notes"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "defer_until_new_evidence",
+    "do not spend partner time without materially better evidence",
+    "close evidence gap: CRO/company number not linked",
+    "close evidence gap: direct contact route missing",
+    "close evidence gap: company age unavailable",
+    "close evidence gap: registered address unavailable"
+  ]
+}
