@@ -1,10 +1,10 @@
 {
-  "pack_count": 101,
+  "pack_count": 115,
   "readiness_counts": {
-    "blocked": 34,
+    "blocked": 46,
     "ic_ready": 9,
     "research_memo_ready": 31,
-    "watch_memo_only": 27
+    "watch_memo_only": 29
   },
   "packs": [
     {
@@ -762,23 +762,6 @@
       }
     },
     {
-      "identity_key": "name_county:established hair salon in galway city centre:galway",
-      "target_name": "Established Hair Salon In Galway City Centre",
-      "slug": "name-county-established-hair-salon-in-galway-city-centre-galway",
-      "readiness": "watch_memo_only",
-      "score": 59.0,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.html"
-      }
-    },
-    {
       "identity_key": "name_county:traditional irish pub in galway city:galway",
       "target_name": "Traditional Irish Pub in Galway City",
       "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
@@ -793,6 +776,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:candle making business in galway city:galway",
+      "target_name": "Candle Making Business In Galway City",
+      "slug": "name-county-candle-making-business-in-galway-city-galway",
+      "readiness": "watch_memo_only",
+      "score": 57.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-candle-making-business-in-galway-city-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-candle-making-business-in-galway-city-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-candle-making-business-in-galway-city-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-candle-making-business-in-galway-city-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-candle-making-business-in-galway-city-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-candle-making-business-in-galway-city-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-candle-making-business-in-galway-city-galway/ic_draft.html"
       }
     },
     {
@@ -827,23 +827,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-222180/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:fully equipped gelato business eyre square galway:galway",
-      "target_name": "Fully Equipped Gelato Business Eyre Square Galway",
-      "slug": "name-county-fully-equipped-gelato-business-eyre-square-galway-galway",
-      "readiness": "watch_memo_only",
-      "score": 55.6,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/ic_draft.html"
       }
     },
     {
@@ -929,6 +912,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:leading importer and distributor of high quality natural stone and porcelain tiles:galway",
+      "target_name": "Leading Importer and Distributor of High-Quality Natural Stone and Porcelain Tiles",
+      "slug": "name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g",
+      "readiness": "watch_memo_only",
+      "score": 52.0,
+      "evidence_gap_count": 5,
+      "relative_html": "ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles-g/ic_draft.html"
       }
     },
     {
@@ -1034,6 +1034,23 @@
       }
     },
     {
+      "identity_key": "name_county:established barbers business in a prime central location:galway",
+      "target_name": "Established Barbers Business In A Prime Central Location",
+      "slug": "name-county-established-barbers-business-in-a-prime-central-location-galway",
+      "readiness": "watch_memo_only",
+      "score": 49.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-barbers-business-in-a-prime-central-location-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "cro:711992",
       "target_name": "1ST PORT OF GALWAY SEA SCOUTS COMPANY LIMITED BY GUARANTEE",
       "slug": "cro-711992",
@@ -1099,6 +1116,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-28525/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-28525/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-28525/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established hair salon in galway city centre:galway",
+      "target_name": "Established Hair Salon In Galway City Centre",
+      "slug": "name-county-established-hair-salon-in-galway-city-centre-galway",
+      "readiness": "watch_memo_only",
+      "score": 47.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-hair-salon-in-galway-city-centre-galway/ic_draft.html"
       }
     },
     {
@@ -1219,6 +1253,38 @@
       }
     },
     {
+      "identity_key": "name_county:light manufactoring business:galway",
+      "target_name": "Light Manufactoring Business",
+      "slug": "name-county-light-manufactoring-business-galway",
+      "readiness": "blocked",
+      "score": 44.7,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-light-manufactoring-business-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-light-manufactoring-business-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-light-manufactoring-business-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-light-manufactoring-business-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-light-manufactoring-business-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:freehold commercial residential accommodation l 88 400 pa rental:galway",
+      "target_name": "Freehold Commercial Residential Accommodation l €88,400 PA Rental",
+      "slug": "name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:hotel in ireland with 135 keys & lakefront:galway",
       "target_name": "Hotel In Ireland With 135 Keys & Lakefront",
       "slug": "name-county-hotel-in-ireland-with-135-keys-lakefront-galway",
@@ -1235,6 +1301,38 @@
       }
     },
     {
+      "identity_key": "name_county:barbers for sale city centre location:galway",
+      "target_name": "Barbers For Sale – City Centre Location",
+      "slug": "name-county-barbers-for-sale-city-centre-location-galway",
+      "readiness": "blocked",
+      "score": 43.7,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-barbers-for-sale-city-centre-location-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-barbers-for-sale-city-centre-location-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-barbers-for-sale-city-centre-location-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-barbers-for-sale-city-centre-location-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-barbers-for-sale-city-centre-location-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:fully equipped gelato business eyre square galway:galway",
+      "target_name": "Fully Equipped Gelato Business, Eyre Square Galway",
+      "slug": "name-county-fully-equipped-gelato-business-eyre-square-galway-galway",
+      "readiness": "blocked",
+      "score": 43.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-fully-equipped-gelato-business-eyre-square-galway-galway/watch_note.md"
+      }
+    },
+    {
       "identity_key": "cro:359827",
       "target_name": "A.E.D. SECURITY INSTALLATIONS LIMITED",
       "slug": "cro-359827",
@@ -1248,6 +1346,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-359827/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-359827/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-359827/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:integrated security solutions:galway",
+      "target_name": "Integrated Security Solutions",
+      "slug": "name-county-integrated-security-solutions-galway",
+      "readiness": "blocked",
+      "score": 43.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-integrated-security-solutions-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-security-solutions-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-security-solutions-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-security-solutions-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-integrated-security-solutions-galway/watch_note.md"
       }
     },
     {
@@ -1299,6 +1413,54 @@
       }
     },
     {
+      "identity_key": "name_county:bonordic in galway:galway",
+      "target_name": "Bonordic in Galway",
+      "slug": "name-county-bonordic-in-galway-galway",
+      "readiness": "blocked",
+      "score": 40.4,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-bonordic-in-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:established pizzeria killarney:galway",
+      "target_name": "Established Pizzeria Killarney",
+      "slug": "name-county-established-pizzeria-killarney-galway",
+      "readiness": "blocked",
+      "score": 39.3,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-established-pizzeria-killarney-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-pizzeria-killarney-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-pizzeria-killarney-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-pizzeria-killarney-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-established-pizzeria-killarney-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:woodford garden centre:galway",
+      "target_name": "Woodford Garden Centre",
+      "slug": "name-county-woodford-garden-centre-galway",
+      "readiness": "blocked",
+      "score": 38.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-woodford-garden-centre-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-woodford-garden-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-woodford-garden-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-woodford-garden-centre-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-woodford-garden-centre-galway/watch_note.md"
+      }
+    },
+    {
       "identity_key": "cro:72100",
       "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
       "slug": "cro-72100",
@@ -1312,22 +1474,6 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-72100/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-72100/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-72100/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:bonordic in galway:galway",
-      "target_name": "Bonordic in Galway",
-      "slug": "name-county-bonordic-in-galway-galway",
-      "readiness": "blocked",
-      "score": 37.1,
-      "evidence_gap_count": 6,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-bonordic-in-galway-galway/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-galway-galway/watch_note.md"
       }
     },
     {
@@ -1683,6 +1829,22 @@
       }
     },
     {
+      "identity_key": "name_county:kd eco laminates services franchise in galway:galway",
+      "target_name": "KD ECO+ Laminates - Services Franchise in Galway",
+      "slug": "name-county-kd-eco-laminates-services-franchise-in-galway-galway",
+      "readiness": "blocked",
+      "score": 31.7,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-kd-eco-laminates-services-franchise-in-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-kd-eco-laminates-services-franchise-in-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-kd-eco-laminates-services-franchise-in-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-kd-eco-laminates-services-franchise-in-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-kd-eco-laminates-services-franchise-in-galway-galway/watch_note.md"
+      }
+    },
+    {
       "identity_key": "cro:462330",
       "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
       "slug": "cro-462330",
@@ -1728,6 +1890,70 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-465159/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-465159/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-465159/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:franchise pizzeria restaurant l 3 bed apartment galway:galway",
+      "target_name": "Franchise Pizzeria Restaurant l 3 Bed Apartment Galway",
+      "slug": "name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway",
+      "readiness": "blocked",
+      "score": 28.7,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:multi site fitness franchise portfolio ireland:galway",
+      "target_name": "Multi-Site Fitness Franchise Portfolio – Ireland",
+      "slug": "name-county-multi-site-fitness-franchise-portfolio-ireland-galway",
+      "readiness": "blocked",
+      "score": 27.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-multi-site-fitness-franchise-portfolio-ireland-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-site-fitness-franchise-portfolio-ireland-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-site-fitness-franchise-portfolio-ireland-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-site-fitness-franchise-portfolio-ireland-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-multi-site-fitness-franchise-portfolio-ireland-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:signarama international master franchise opportunities:galway",
+      "target_name": "Signarama International Master Franchise Opportunities",
+      "slug": "name-county-signarama-international-master-franchise-opportunities-galway",
+      "readiness": "blocked",
+      "score": 26.3,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-signarama-international-master-franchise-opportunities-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-signarama-international-master-franchise-opportunities-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-signarama-international-master-franchise-opportunities-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-signarama-international-master-franchise-opportunities-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-signarama-international-master-franchise-opportunities-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in galway:galway",
+      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
+      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway",
+      "readiness": "blocked",
+      "score": 23.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md"
       }
     }
   ]

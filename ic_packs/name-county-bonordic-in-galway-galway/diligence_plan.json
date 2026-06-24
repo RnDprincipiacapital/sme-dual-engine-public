@@ -7,7 +7,6 @@
     "direct contact route missing",
     "company age unavailable",
     "registered address unavailable",
-    "qualitative business description missing",
     "no asking price or valuation anchor"
   ],
   "questions": [
@@ -19,18 +18,6 @@
         "CRO profile",
         "latest annual return",
         "director list"
-      ],
-      "owner": "analyst"
-    },
-    {
-      "category": "business_model",
-      "question": "Summarise products/services, customer type, geography, and trading proof.",
-      "priority": "high",
-      "evidence_needed": [
-        "website",
-        "directory listing",
-        "customer reviews",
-        "public case studies"
       ],
       "owner": "analyst"
     },

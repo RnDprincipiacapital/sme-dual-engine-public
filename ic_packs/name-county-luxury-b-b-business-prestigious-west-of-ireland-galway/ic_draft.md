@@ -6,7 +6,7 @@
 
 - Name: Luxury B&B Business – Prestigious West Of Ireland
 - Location: unknown, Galway
-- Sector: unknown
+- Sector: Hospitality & Tourism
 - Company status: unknown
 - Company age: unknown
 - Origination score: 53.6
@@ -61,14 +61,18 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): target
 - `fit_score` from businessesforsale_ie (inferred, confidence 0.7): 70.0
+- `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_property_only` from businessesforsale_ie (observed, confidence 1.0): False
 - `name` from businessesforsale_ie (observed, confidence 1.0): Luxury B&B Business – Prestigious West Of Ireland
 - `normalized_name` from businessesforsale_ie (observed, confidence 1.0): luxury b&b business prestigious west of ireland
 - `price_text` from businessesforsale_ie (observed, confidence 1.0): Undisclosed
+- `sector` from local_enrichment (inferred, confidence 0.55): Hospitality & Tourism
 - `source` from businessesforsale_ie (observed, confidence 1.0): businessesforsale_ie
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): luxury-bed-and-breakfast-business-prestigious-west-of-ireland
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): brokered_targets
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/luxury-bed-and-breakfast-business-prestigious-west-of-ireland.aspx
 - `summary` from businessesforsale_ie (observed, confidence 1.0): Established Luxury B&B Business – Prime West of Ireland Town Centre. An exceptional opportunity to acquire a well-established, high-end Bed & Breakfast business operating from well established properties o
-- `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/luxury-bed-and-breakfast-business-prestigious-west-of-ireland.aspx

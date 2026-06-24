@@ -1,6 +1,6 @@
 {
   "raw": {
-    "target_count": 116,
+    "target_count": 130,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
@@ -9,58 +9,58 @@
     "source_counts": {
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 12,
+      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 116
+      "Galway": 130
     },
     "field_issue_counts": {},
     "issues": []
   },
   "enriched": {
-    "target_count": 116,
+    "target_count": 130,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 116,
-    "with_strong_identity": 116,
+    "with_contact_evidence": 130,
+    "with_strong_identity": 130,
     "source_counts": {
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 12,
+      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 116
+      "Galway": 130
     },
     "field_issue_counts": {},
     "issues": []
   },
   "canonical": {
-    "target_count": 101,
+    "target_count": 115,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 101,
-    "with_strong_identity": 101,
+    "with_contact_evidence": 115,
+    "with_strong_identity": 115,
     "source_counts": {
       "cro_open_services": 41,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 12,
+      "businessesforsale_ie": 26,
       "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 101
+      "Galway": 115
     },
     "field_issue_counts": {},
     "issues": []

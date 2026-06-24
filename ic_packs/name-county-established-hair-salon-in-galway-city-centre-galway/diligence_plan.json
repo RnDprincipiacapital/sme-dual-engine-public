@@ -5,6 +5,7 @@
   "evidence_gaps": [
     "CRO/company number not linked",
     "direct contact route missing",
+    "company age unavailable",
     "registered address unavailable"
   ],
   "questions": [
@@ -37,6 +38,7 @@
     "monitor until new transaction or company evidence appears",
     "close evidence gap: CRO/company number not linked",
     "close evidence gap: direct contact route missing",
+    "close evidence gap: company age unavailable",
     "close evidence gap: registered address unavailable"
   ]
 }

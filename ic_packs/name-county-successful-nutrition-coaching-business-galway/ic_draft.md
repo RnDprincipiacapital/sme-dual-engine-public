@@ -5,8 +5,8 @@
 ## Company Overview
 
 - Name: Successful Nutrition Coaching Business
-- Location: unknown, Galway
-- Sector: unknown
+- Location: Galway, Galway, Ireland, Galway
+- Sector: Business Services
 - Company status: unknown
 - Company age: unknown
 - Origination score: 51.4
@@ -62,14 +62,18 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 60000 BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): target
 - `fit_score` from businessesforsale_ie (inferred, confidence 0.7): 75.0
+- `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_property_only` from businessesforsale_ie (observed, confidence 1.0): False
 - `name` from businessesforsale_ie (observed, confidence 1.0): Successful Nutrition Coaching Business
 - `normalized_name` from businessesforsale_ie (observed, confidence 1.0): successful nutrition coaching business
 - `price_text` from businessesforsale_ie (observed, confidence 1.0): €60,000
+- `price_value` from businessesforsale_ie (observed, confidence 1.0): 60000.0
+- `sector` from local_enrichment (inferred, confidence 0.55): Business Services
 - `source` from businessesforsale_ie (observed, confidence 1.0): businessesforsale_ie
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): successful-nutrition-coaching-business
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): brokered_targets
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/successful-nutrition-coaching-business.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): An established and reputable health and nutrition coaching business is now available for acquisition, built over the past 14 years with a strong foundation of client trust, results-driven programmes, and c
-- `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/successful-nutrition-coaching-business.aspx

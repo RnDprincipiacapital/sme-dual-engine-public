@@ -1,13 +1,12 @@
 # Watch Note: Bonordic in Galway
 
 Readiness: blocked
-Score: 37.1
+Score: 40.4
 
 ## Required Before IC
 
 - confirm legal entity/CRO number
 - verify phone, email, advisor, or owner route
-- write concise business model description
 - add valuation anchor before investment discussion
 
 ## Blockers

@@ -1,69 +1,69 @@
 {
-  "assessment_count": 101,
+  "assessment_count": 115,
   "component_stats": {
     "succession_fit": {
-      "count": 101,
-      "mean": 53.4,
-      "median": 52.5,
-      "min": 11.0,
+      "count": 115,
+      "mean": 49.1,
+      "median": 46.8,
+      "min": 0.0,
       "max": 98.2
     },
     "business_quality": {
-      "count": 101,
-      "mean": 54.6,
-      "median": 52.0,
-      "min": 19.0,
+      "count": 115,
+      "mean": 51.5,
+      "median": 42.0,
+      "min": 12.0,
       "max": 100.0
     },
     "deal_readiness": {
-      "count": 101,
-      "mean": 55.2,
+      "count": 115,
+      "mean": 56.6,
       "median": 46.0,
       "min": 38.0,
       "max": 98.0
     },
     "macro_policy": {
-      "count": 101,
-      "mean": 50.8,
+      "count": 115,
+      "mean": 51.1,
       "median": 52.0,
       "min": 37.0,
       "max": 97.0
     },
     "combined": {
-      "count": 101,
-      "mean": 53.7,
-      "median": 53.0,
-      "min": 30.8,
+      "count": 115,
+      "mean": 51.7,
+      "median": 49.8,
+      "min": 23.6,
       "max": 84.2
     }
   },
   "weakest_component_counts": {
-    "business_quality": 43,
+    "business_quality": 44,
     "deal_readiness": 32,
     "macro_policy": 13,
-    "succession_fit": 13
+    "succession_fit": 26
   },
   "by_county": [
     {
       "county": "Galway",
-      "count": 101,
+      "count": 115,
       "combined": {
-        "count": 101,
-        "mean": 53.7,
-        "median": 53.0,
-        "min": 30.8,
+        "count": 115,
+        "mean": 51.7,
+        "median": 49.8,
+        "min": 23.6,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 101,
-        "mean": 53.4,
-        "median": 52.5,
-        "min": 11.0,
+        "count": 115,
+        "mean": 49.1,
+        "median": 46.8,
+        "min": 0.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 101,
-        "mean": 50.8,
+        "count": 115,
+        "mean": 51.1,
         "median": 52.0,
         "min": 37.0,
         "max": 97.0
@@ -100,27 +100,27 @@
     },
     {
       "sector": "Business Services",
-      "count": 14,
+      "count": 23,
       "combined": {
-        "count": 14,
-        "mean": 64.1,
-        "median": 64.6,
-        "min": 50.5,
+        "count": 23,
+        "mean": 53.9,
+        "median": 60.5,
+        "min": 23.6,
         "max": 73.0
       },
       "succession_fit": {
-        "count": 14,
-        "mean": 69.5,
-        "median": 71.7,
-        "min": 46.8,
+        "count": 23,
+        "mean": 49.7,
+        "median": 56.8,
+        "min": 0.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 14,
-        "mean": 58.4,
+        "count": 23,
+        "mean": 56.6,
         "median": 52.0,
-        "min": 52.0,
-        "max": 67.0
+        "min": 37.0,
+        "max": 82.0
       },
       "top_target": "Greaney Glass Products Limited"
     },
@@ -308,26 +308,26 @@
     },
     {
       "sector": "Food & Agribusiness",
-      "count": 2,
+      "count": 5,
       "combined": {
-        "count": 2,
-        "mean": 71.9,
-        "median": 71.9,
-        "min": 64.7,
+        "count": 5,
+        "mean": 63.5,
+        "median": 62.4,
+        "min": 52.0,
         "max": 79.1
       },
       "succession_fit": {
-        "count": 2,
-        "mean": 73.5,
-        "median": 73.5,
-        "min": 63.8,
+        "count": 5,
+        "mean": 57.5,
+        "median": 52.5,
+        "min": 37.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 2,
-        "mean": 67.0,
+        "count": 5,
+        "mean": 64.0,
         "median": 67.0,
-        "min": 67.0,
+        "min": 52.0,
         "max": 67.0
       },
       "top_target": "Galway Stationery Supplies Limited"
@@ -386,52 +386,52 @@
     },
     {
       "sector": "Hospitality & Tourism",
-      "count": 3,
+      "count": 9,
       "combined": {
-        "count": 3,
-        "mean": 50.2,
-        "median": 55.6,
-        "min": 35.5,
+        "count": 9,
+        "mean": 44.1,
+        "median": 44.7,
+        "min": 28.7,
         "max": 59.5
       },
       "succession_fit": {
-        "count": 3,
-        "mean": 41.7,
-        "median": 48.0,
-        "min": 11.0,
+        "count": 9,
+        "mean": 32.0,
+        "median": 30.0,
+        "min": 7.0,
         "max": 66.2
       },
       "macro_policy": {
-        "count": 3,
-        "mean": 52.0,
+        "count": 9,
+        "mean": 47.0,
         "median": 52.0,
-        "min": 52.0,
-        "max": 52.0
+        "min": 37.0,
+        "max": 67.0
       },
       "top_target": "Galway Catering Company Limited"
     },
     {
       "sector": "Industrials & Engineering",
-      "count": 5,
+      "count": 6,
       "combined": {
-        "count": 5,
-        "mean": 81.1,
-        "median": 81.4,
-        "min": 78.7,
+        "count": 6,
+        "mean": 77.1,
+        "median": 80.4,
+        "min": 57.0,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 5,
-        "mean": 93.0,
-        "median": 92.2,
-        "min": 89.2,
+        "count": 6,
+        "mean": 85.8,
+        "median": 91.7,
+        "min": 50.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 5,
-        "mean": 73.0,
+        "count": 6,
+        "mean": 69.5,
         "median": 67.0,
-        "min": 67.0,
+        "min": 52.0,
         "max": 82.0
       },
       "top_target": "Airflow Air Refrigeration (Galway) Limited"
@@ -542,26 +542,26 @@
     },
     {
       "sector": "Retail & Consumer",
-      "count": 2,
+      "count": 4,
       "combined": {
-        "count": 2,
-        "mean": 66.6,
-        "median": 66.6,
-        "min": 59.0,
+        "count": 4,
+        "mean": 50.0,
+        "median": 43.7,
+        "min": 38.6,
         "max": 74.2
       },
       "succession_fit": {
-        "count": 2,
-        "mean": 69.0,
-        "median": 69.0,
-        "min": 58.0,
+        "count": 4,
+        "mean": 41.8,
+        "median": 35.1,
+        "min": 17.0,
         "max": 80.0
       },
       "macro_policy": {
-        "count": 2,
-        "mean": 52.0,
-        "median": 52.0,
-        "min": 52.0,
+        "count": 4,
+        "mean": 44.5,
+        "median": 44.5,
+        "min": 37.0,
         "max": 52.0
       },
       "top_target": "Profitable Commercial Nursery for Sale in Galway"
@@ -620,24 +620,24 @@
     },
     {
       "sector": "Unknown",
-      "count": 40,
+      "count": 35,
       "combined": {
-        "count": 40,
-        "mean": 40.3,
+        "count": 35,
+        "mean": 39.3,
         "median": 36.0,
         "min": 30.8,
         "max": 56.2
       },
       "succession_fit": {
-        "count": 40,
-        "mean": 36.3,
+        "count": 35,
+        "mean": 35.9,
         "median": 35.8,
         "min": 26.8,
         "max": 53.2
       },
       "macro_policy": {
-        "count": 40,
-        "mean": 38.5,
+        "count": 35,
+        "mean": 38.3,
         "median": 37.0,
         "min": 37.0,
         "max": 52.0
@@ -646,26 +646,26 @@
     },
     {
       "sector": "agri_food",
-      "count": 3,
+      "count": 1,
       "combined": {
-        "count": 3,
-        "mean": 62.1,
-        "median": 62.4,
-        "min": 59.2,
+        "count": 1,
+        "mean": 64.6,
+        "median": 64.6,
+        "min": 64.6,
         "max": 64.6
       },
       "succession_fit": {
-        "count": 3,
-        "mean": 51.6,
+        "count": 1,
+        "mean": 51.2,
         "median": 51.2,
         "min": 51.2,
-        "max": 52.5
+        "max": 51.2
       },
       "macro_policy": {
-        "count": 3,
-        "mean": 67.0,
-        "median": 67.0,
-        "min": 52.0,
+        "count": 1,
+        "mean": 82.0,
+        "median": 82.0,
+        "min": 82.0,
         "max": 82.0
       },
       "top_target": "O'Connor Fuels, 2 St Endas Avenue, Tuam, Galway"
@@ -831,6 +831,58 @@
   ],
   "low_confidence_targets": [
     {
+      "name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Signarama International Master Franchise Opportunities",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 26.3,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Multi-Site Fitness Franchise Portfolio – Ireland",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 2.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 27.0,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Franchise Pizzeria Restaurant l 3 Bed Apartment Galway",
+      "county": "Galway",
+      "local_area": "Galway City, Galway, Ireland",
+      "sector": "Hospitality & Tourism",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 7.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 52.0,
+      "combined": 28.7,
+      "weakest_component": "succession_fit"
+    },
+    {
       "name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
       "county": "Galway",
       "local_area": "UNIT 204",
@@ -870,6 +922,19 @@
       "weakest_component": "business_quality"
     },
     {
+      "name": "KD ECO+ Laminates - Services Franchise in Galway",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 82.0,
+      "combined": 31.7,
+      "weakest_component": "succession_fit"
+    },
+    {
       "name": "GARDEN GREEN ENERGY LIMITED",
       "county": "Galway",
       "local_area": "MICHAEL MANNION",
@@ -894,71 +959,6 @@
       "macro_policy": 37.0,
       "combined": 33.9,
       "weakest_component": "business_quality"
-    },
-    {
-      "name": "4D SOFTWARE LIMITED",
-      "county": "Galway",
-      "local_area": "26 WOOD QUAY",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 29.8,
-      "business_quality": 27.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 33.9,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "A J D DEVELOPMENTS LIMITED",
-      "county": "Galway",
-      "local_area": "GLENREAVAGH",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 29.8,
-      "business_quality": 27.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 33.9,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "A.M. & D. HOLDINGS LIMITED",
-      "county": "Galway",
-      "local_area": "GALWAY",
-      "sector": "Unknown",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 29.8,
-      "business_quality": 27.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 37.0,
-      "combined": 33.9,
-      "weakest_component": "business_quality"
-    },
-    {
-      "name": "Catering Business Equity Stake For Sale in Galway",
-      "county": "Galway",
-      "local_area": "Galway, Ireland",
-      "sector": "Hospitality & Tourism",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 11.0,
-      "business_quality": 20.0,
-      "deal_readiness": 78.0,
-      "macro_policy": 52.0,
-      "combined": 35.5,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "FinTech Company Equity Stake For Sale in Galway",
-      "county": "Galway",
-      "local_area": "Galway, Ireland",
-      "sector": "Technology & IT Services",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 11.0,
-      "business_quality": 20.0,
-      "deal_readiness": 78.0,
-      "macro_policy": 52.0,
-      "combined": 35.5,
-      "weakest_component": "succession_fit"
     }
   ],
   "recommendations": [

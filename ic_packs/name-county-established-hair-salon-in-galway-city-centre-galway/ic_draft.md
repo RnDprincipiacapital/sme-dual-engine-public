@@ -8,13 +8,12 @@
 - Location: Galway City, Galway, Ireland, Galway
 - Sector: Retail & Consumer
 - Company status: unknown
-- Company age: 10.0
-- Origination score: 59.0
+- Company age: unknown
+- Origination score: 47.0
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
-- established company age supports succession screening
 - public asking price enables early deal-structure screening
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
@@ -23,7 +22,7 @@
 
 ## Financial Snapshot
 
-- Asking price: €30,000
+- Asking price: EUR 30000
 - Known financials: not yet available
 - Required financials:
 - three years revenue and EBITDA
@@ -33,7 +32,7 @@
 
 ## Macro Exposure
 
-- Macro score: 52.0
+- Macro score: 37.0
 - Matched sectors: none
 - Cash-flow scenario: policy_tailwind
 
@@ -47,6 +46,7 @@
 
 ## Risks
 
+- company age unavailable; succession signal is incomplete
 - company status unavailable
 - sector not yet mapped to a policy theme
 
@@ -56,23 +56,24 @@
 - monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
+- close evidence gap: company age unavailable
 - close evidence gap: registered address unavailable
 
 ## Source Evidence
 
-- `company_age_years` from businessesforsale_ie (observed, confidence 1.0): 10.0
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing €30,000 Advertised asking price and public listing page observed 2026-06-24.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 30000 BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_property_only` from businessesforsale_ie (observed, confidence 1.0): False
 - `name` from businessesforsale_ie (observed, confidence 1.0): Established Hair Salon In Galway City Centre
 - `normalized_name` from businessesforsale_ie (observed, confidence 1.0): established hair salon in galway city centre
-- `price_text` from businessesforsale_ie (observed, confidence 1.0): €30,000
+- `price_text` from businessesforsale_ie (observed, confidence 1.0): EUR 30000
 - `price_value` from businessesforsale_ie (observed, confidence 1.0): 30000.0
 - `sector` from local_enrichment (inferred, confidence 0.55): Retail & Consumer
 - `source` from businessesforsale_ie (observed, confidence 1.0): businessesforsale_ie
-- `source_key` from businessesforsale_ie (observed, confidence 1.0): fd6ddd548d7eb0d4
+- `source_key` from businessesforsale_ie (observed, confidence 1.0): 186b05aa6736bcaf
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
-- `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/search/businesses-for-sale
+- `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/established-hair-salon-in-galway-city-centre.aspx
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Established Hair salon for sale. Galway city centre. Car parking. Fully equipped. Big clientele. 10 years trading. 4 staff members. Lease in place. Great location, walk-in clientele and. full record... BusinessesForSale.ie JSON-LD listing observed 2026-06-24.

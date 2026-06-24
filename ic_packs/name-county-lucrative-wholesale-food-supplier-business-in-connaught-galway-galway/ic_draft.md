@@ -5,8 +5,8 @@
 ## Company Overview
 
 - Name: Lucrative Wholesale Food Supplier Business In Connaught Galway
-- Location: unknown, Galway
-- Sector: agri_food
+- Location: Galway, Galway, Ireland, Galway
+- Sector: Food & Agribusiness
 - Company status: unknown
 - Company age: unknown
 - Origination score: 62.4
@@ -62,15 +62,18 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): target
 - `fit_score` from businessesforsale_ie (inferred, confidence 0.7): 75.0
+- `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
+- `is_property_only` from businessesforsale_ie (observed, confidence 1.0): False
 - `name` from businessesforsale_ie (observed, confidence 1.0): Lucrative Wholesale Food Supplier Business In Connaught Galway
 - `normalized_name` from businessesforsale_ie (observed, confidence 1.0): lucrative wholesale food supplier business in connaught galway
 - `price_text` from businessesforsale_ie (observed, confidence 1.0): €250K - €500K
-- `sector` from local_enrichment (inferred, confidence 0.55): agri_food
+- `sector` from local_enrichment (inferred, confidence 0.55): Food & Agribusiness
 - `source` from businessesforsale_ie (observed, confidence 1.0): businessesforsale_ie
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): lucrative-wholesale-food-supplier-business-in-connaught-galway
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): brokered_targets
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/lucrative-wholesale-food-supplier-business-in-connaught-galway.aspx
 - `summary` from businessesforsale_ie (observed, confidence 1.0): We at Dealchasers are delighted to bring this superb fully relocatable opportunity to purchase a long-established, and well known brand wholesale snack food business supplying to major supermarkets and gro
-- `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/lucrative-wholesale-food-supplier-business-in-connaught-galway.aspx

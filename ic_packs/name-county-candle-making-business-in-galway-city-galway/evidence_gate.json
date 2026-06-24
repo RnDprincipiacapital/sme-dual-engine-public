@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:candle making business in galway city:galway",
+  "target_name": "Candle Making Business In Galway City",
+  "readiness": "watch_memo_only",
+  "score": 57.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

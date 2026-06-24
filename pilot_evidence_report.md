@@ -5,10 +5,10 @@
 - Input: `samples/galway-sme-dashboard-expanded-public.json`
 - Market data: `docs/approved-data/cso-allocated-market-data-2022.csv`
 - Company universe data: `docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv`
-- Target rows loaded: 116
-- Deduplicated entities: 101
-- Ranked assessments: 101
-- Review queue rows: 101
+- Target rows loaded: 130
+- Deduplicated entities: 115
+- Ranked assessments: 115
+- Review queue rows: 115
 
 ## Data Readiness
 

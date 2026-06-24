@@ -2,15 +2,14 @@
   "identity_key": "name_county:bonordic in galway:galway",
   "target_name": "Bonordic in Galway",
   "readiness": "blocked",
-  "score": 37.1,
-  "evidence_gap_count": 6,
+  "score": 40.4,
+  "evidence_gap_count": 5,
   "blockers": [
     "combined score below review threshold"
   ],
   "required_before_ic": [
     "confirm legal entity/CRO number",
     "verify phone, email, advisor, or owner route",
-    "write concise business model description",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [

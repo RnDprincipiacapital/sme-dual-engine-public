@@ -116,7 +116,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 62,
+      "company_count": 67,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -139,7 +139,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 7,
+      "company_count": 10,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -160,7 +160,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 9,
+      "company_count": 10,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -181,7 +181,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 5,
+      "company_count": 6,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -202,7 +202,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 7,
+      "company_count": 8,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -653,8 +653,8 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 101,
-        "review_queue_count": 101,
+        "target_count": 115,
+        "review_queue_count": 115,
         "sector_spend_rows": 6,
         "company_universe_rows": 6,
         "company_universe_total_companies": 44,
@@ -695,7 +695,7 @@
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 101,
+    "unknown_count": 115,
     "supported_thresholds": [
       50,
       55,
