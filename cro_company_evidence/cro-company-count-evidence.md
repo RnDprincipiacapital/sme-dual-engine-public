@@ -2,9 +2,9 @@
 
 - Status: `ready`
 - Source: [CRO Company Records](https://opendata.cro.ie/dataset/companies)
-- Source date: 2026-06-04
+- Source date: 2026-06-24
 - Output rows: 15
-- Total company count: 469
+- Total company count: 471
 
 ## Approval Blockers
 

@@ -1,7 +1,7 @@
 {
   "status": "source_rows_needed",
   "market_data_path": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data_path": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
+  "company_data_path": "docs/evidence/cro-company-count-evidence-2026-06-24/cro-company-count-evidence.csv",
   "summary": {
     "total_rows": 120,
     "by_status": {

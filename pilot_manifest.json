@@ -3,7 +3,7 @@
   "mode": "public_galway_dublin_dashboard",
   "input": "samples/galway-sme-dashboard-expanded-public.json",
   "market_data": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
+  "company_data": "docs/evidence/cro-company-count-evidence-2026-06-24/cro-company-count-evidence.csv",
   "target_count": 326,
   "entity_count": 310,
   "assessment_count": 310,
