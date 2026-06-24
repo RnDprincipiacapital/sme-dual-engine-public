@@ -1,11 +1,11 @@
 {
   "status": "sample_or_incomplete",
-  "score": 75,
+  "score": 84,
   "issues": [
-    "company universe source notes still indicate sample or placeholder data"
+    "Approved source collection is 27 of 120 rows."
   ],
   "warnings": [
-    "some company universe rows are missing source_url, source_date, or approved_by"
+    "some company universe rows are missing director-age threshold counts"
   ],
   "coverage": {
     "required_counties": [
@@ -21,7 +21,7 @@
       "Galway"
     ],
     "sector_spend_rows": 12,
-    "company_universe_rows": 8,
-    "company_universe_total_companies": 538
+    "company_universe_rows": 15,
+    "company_universe_total_companies": 469
   }
 }

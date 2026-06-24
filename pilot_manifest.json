@@ -3,15 +3,15 @@
   "mode": "public_galway_dublin_dashboard",
   "input": "samples/galway-sme-dashboard-expanded-public.json",
   "market_data": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data": "samples/galway-dublin-company-universe-sample.csv",
-  "target_count": 75,
-  "entity_count": 62,
-  "assessment_count": 62,
-  "review_queue_count": 62,
+  "company_data": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
+  "target_count": 110,
+  "entity_count": 97,
+  "assessment_count": 97,
+  "review_queue_count": 97,
   "readiness_status": "sample_or_incomplete",
-  "readiness_score": 75,
+  "readiness_score": 84,
   "readiness_issues": [
-    "company universe source notes still indicate sample or placeholder data"
+    "Approved source collection is 27 of 120 rows."
   ],
   "dashboard": "index.html",
   "county_coverage": "county_coverage.json",
@@ -47,5 +47,5 @@
     }
   },
   "collection_progress_status": "collection_in_progress",
-  "collection_progress_pct": 10.0
+  "collection_progress_pct": 22.5
 }

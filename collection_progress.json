@@ -1,11 +1,11 @@
 {
   "status": "collection_in_progress",
   "market_data_path": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data_path": "samples/galway-dublin-company-universe-sample.csv",
+  "company_data_path": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
   "overall": {
     "expected_rows": 120,
-    "approved_rows": 12,
-    "approved_pct": 10.0,
+    "approved_rows": 27,
+    "approved_pct": 22.5,
     "gap_count": 108
   },
   "source_types": {
@@ -20,12 +20,12 @@
     },
     "company_universe": {
       "expected_rows": 108,
-      "loaded_rows": 8,
-      "approved_rows": 0,
-      "placeholder_rows": 8,
-      "rows_missing_approval": 8,
-      "loaded_pct": 7.4,
-      "approved_pct": 0.0
+      "loaded_rows": 15,
+      "approved_rows": 15,
+      "placeholder_rows": 0,
+      "rows_missing_approval": 0,
+      "loaded_pct": 13.9,
+      "approved_pct": 13.9
     }
   },
   "by_county": [
@@ -36,9 +36,9 @@
       "market_approved_rows": 6,
       "market_approved_pct": 100.0,
       "company_expected_rows": 54,
-      "company_loaded_rows": 4,
-      "company_approved_rows": 0,
-      "company_approved_pct": 0.0
+      "company_loaded_rows": 6,
+      "company_approved_rows": 6,
+      "company_approved_pct": 11.1
     },
     {
       "county": "Dublin",
@@ -47,25 +47,25 @@
       "market_approved_rows": 6,
       "market_approved_pct": 100.0,
       "company_expected_rows": 54,
-      "company_loaded_rows": 4,
-      "company_approved_rows": 0,
-      "company_approved_pct": 0.0
+      "company_loaded_rows": 9,
+      "company_approved_rows": 9,
+      "company_approved_pct": 16.7
     }
   ],
   "by_source": [
+    {
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "market_rows": 0,
+      "company_universe_rows": 15,
+      "approved_rows": 15,
+      "placeholder_rows": 0
+    },
     {
       "source_note": "CSO allocated market estimate: 2022 national turnover from AIA30/ANA13/BAA14 allocated to Galway/Dublin by 2023 BRA34 active-enterprise share and mapped to SME Dual Engine starter sectors.",
       "market_rows": 12,
       "company_universe_rows": 0,
       "approved_rows": 12,
       "placeholder_rows": 0
-    },
-    {
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "market_rows": 0,
-      "company_universe_rows": 8,
-      "approved_rows": 0,
-      "placeholder_rows": 8
     }
   ]
 }

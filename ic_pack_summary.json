@@ -1,12 +1,174 @@
 {
-  "pack_count": 62,
+  "pack_count": 97,
   "readiness_counts": {
     "blocked": 30,
-    "ic_ready": 1,
-    "research_memo_ready": 8,
-    "watch_memo_only": 23
+    "ic_ready": 8,
+    "research_memo_ready": 31,
+    "watch_memo_only": 28
   },
   "packs": [
+    {
+      "identity_key": "name_county:airflow air refrigeration galway:galway",
+      "target_name": "Airflow Air Refrigeration (Galway) Limited",
+      "slug": "name-county-airflow-air-refrigeration-galway-galway",
+      "readiness": "ic_ready",
+      "score": 84.2,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:pat kelly plumbing and heating contractors galway:galway",
+      "target_name": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited",
+      "slug": "name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway",
+      "readiness": "ic_ready",
+      "score": 84.0,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:coen steel:galway",
+      "target_name": "Coen Steel Limited",
+      "slug": "name-county-coen-steel-galway",
+      "readiness": "ic_ready",
+      "score": 81.8,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-coen-steel-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-coen-steel-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway ideal installation & construction:galway",
+      "target_name": "Galway Ideal Installation & Construction Co. Limited",
+      "slug": "name-county-galway-ideal-installation-construction-galway",
+      "readiness": "research_memo_ready",
+      "score": 81.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:kevin walsh plumbing galway:galway",
+      "target_name": "Kevin Walsh Plumbing (Galway) Limited",
+      "slug": "name-county-kevin-walsh-plumbing-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 79.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway stainless steel:galway",
+      "target_name": "Galway Stainless Steel Limited",
+      "slug": "name-county-galway-stainless-steel-galway",
+      "readiness": "research_memo_ready",
+      "score": 79.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway stationery supplies:galway",
+      "target_name": "Galway Stationery Supplies Limited",
+      "slug": "name-county-galway-stationery-supplies-galway",
+      "readiness": "ic_ready",
+      "score": 79.1,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:bellville building & construction galway:galway",
+      "target_name": "Bellville Building & Construction Galway Limited",
+      "slug": "name-county-bellville-building-construction-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 78.7,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:spellman construction claregalway:galway",
+      "target_name": "Spellman Construction Claregalway Limited",
+      "slug": "name-county-spellman-construction-claregalway-galway",
+      "readiness": "research_memo_ready",
+      "score": 78.7,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.tex"
+      }
+    },
     {
       "identity_key": "name_county:nightingale nursing home lowville ahascragh ballinasloe county galway:galway",
       "target_name": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
@@ -23,6 +185,168 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-nightingale-nursing-home-lowville-ahascragh-ballinasloe-county-galway-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-nightingale-nursing-home-lowville-ahascragh-ballinasloe-county-galway-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-nightingale-nursing-home-lowville-ahascragh-ballinasloe-county-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:greaney glass products:galway",
+      "target_name": "Greaney Glass Products Limited",
+      "slug": "name-county-greaney-glass-products-galway",
+      "readiness": "ic_ready",
+      "score": 73.0,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway tool and mould:galway",
+      "target_name": "Galway Tool and Mould Limited",
+      "slug": "name-county-galway-tool-and-mould-galway",
+      "readiness": "ic_ready",
+      "score": 72.8,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway truck centre:galway",
+      "target_name": "Galway Truck Centre Limited",
+      "slug": "name-county-galway-truck-centre-galway",
+      "readiness": "ic_ready",
+      "score": 72.3,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:primary care galway city east health centre:galway",
+      "target_name": "Primary Care (Galway City East Health Centre) Limited",
+      "slug": "name-county-primary-care-galway-city-east-health-centre-galway",
+      "readiness": "research_memo_ready",
+      "score": 71.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway car care:galway",
+      "target_name": "Galway Car Care Limited",
+      "slug": "name-county-galway-car-care-galway",
+      "readiness": "research_memo_ready",
+      "score": 70.0,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-car-care-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-car-care-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:james cunningham heating contractors galway:galway",
+      "target_name": "James Cunningham Heating Contractors (Galway) Limited",
+      "slug": "name-county-james-cunningham-heating-contractors-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 67.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:desmond murphy truck sales galway:galway",
+      "target_name": "Desmond Murphy Truck Sales (Galway ) Limited",
+      "slug": "name-county-desmond-murphy-truck-sales-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 67.3,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:j o toole & sons galway:galway",
+      "target_name": "J. O'Toole & Sons (Galway) Limited",
+      "slug": "name-county-j-o-toole-sons-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 67.3,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:healy electrical galway:galway",
+      "target_name": "Healy Electrical Galway Limited",
+      "slug": "name-county-healy-electrical-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 67.0,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.tex"
       }
     },
     {
@@ -59,6 +383,60 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:grealish gas & fuel galway:galway",
+      "target_name": "Grealish Gas & Fuel Galway Limited",
+      "slug": "name-county-grealish-gas-fuel-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 64.7,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway fuel supplies:galway",
+      "target_name": "Galway Fuel Supplies Limited",
+      "slug": "name-county-galway-fuel-supplies-galway",
+      "readiness": "research_memo_ready",
+      "score": 64.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway oven cleaning:galway",
+      "target_name": "Galway Oven Cleaning Company Limited",
+      "slug": "name-county-galway-oven-cleaning-galway",
+      "readiness": "research_memo_ready",
+      "score": 64.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.tex"
       }
     },
     {
@@ -134,6 +512,42 @@
       }
     },
     {
+      "identity_key": "name_county:galway maintenance:galway",
+      "target_name": "Galway Maintenance Limited",
+      "slug": "name-county-galway-maintenance-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-maintenance-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway specsavers hearcare:galway",
+      "target_name": "Galway Specsavers Hearcare Limited",
+      "slug": "name-county-galway-specsavers-hearcare-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:lucrative wholesale food supplier business in connaught galway:galway",
       "target_name": "Lucrative Wholesale Food Supplier Business In Connaught Galway",
       "slug": "name-county-lucrative-wholesale-food-supplier-business-in-connaught-galway-galway",
@@ -152,6 +566,132 @@
       }
     },
     {
+      "identity_key": "name_county:claregalway logistics:galway",
+      "target_name": "Claregalway Logistics Limited",
+      "slug": "name-county-claregalway-logistics-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:east galway quality tool hire:galway",
+      "target_name": "East Galway Quality Tool Hire Limited",
+      "slug": "name-county-east-galway-quality-tool-hire-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway complete roofing:galway",
+      "target_name": "Galway Complete Roofing Limited",
+      "slug": "name-county-galway-complete-roofing-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway l zinc roofing:galway",
+      "target_name": "Galway L-Zinc Roofing Limited",
+      "slug": "name-county-galway-l-zinc-roofing-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:o malley construction claregalway no 1:galway",
+      "target_name": "O'Malley Construction (Claregalway No 1) Limited",
+      "slug": "name-county-o-malley-construction-claregalway-no-1-galway",
+      "readiness": "research_memo_ready",
+      "score": 62.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway tool & mould innovations:galway",
+      "target_name": "Galway Tool & Mould Innovations Limited",
+      "slug": "name-county-galway-tool-mould-innovations-galway",
+      "readiness": "research_memo_ready",
+      "score": 61.8,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:iclean professional cleaning services:galway",
+      "target_name": "Iclean Professional Cleaning Services Limited",
+      "slug": "name-county-iclean-professional-cleaning-services-galway",
+      "readiness": "research_memo_ready",
+      "score": 60.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "cro:59625",
       "target_name": "A. HARTMANN & SON LIMITED",
       "slug": "cro-59625",
@@ -167,6 +707,23 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-59625/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-59625/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/cro-59625/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway catering:galway",
+      "target_name": "Galway Catering Company Limited",
+      "slug": "name-county-galway-catering-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-catering-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-catering-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.html"
       }
     },
     {
@@ -272,6 +829,23 @@
       }
     },
     {
+      "identity_key": "name_county:tuam road galway service station:galway",
+      "target_name": "Tuam Road Galway Service Station Limited",
+      "slug": "name-county-tuam-road-galway-service-station-galway",
+      "readiness": "watch_memo_only",
+      "score": 53.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:established pizzeria restaurant l 3 bed apartment galway:galway",
       "target_name": "Established Pizzeria Restaurant l 3 Bed Apartment Galway",
       "slug": "name-county-established-pizzeria-restaurant-l-3-bed-apartment-galway-galway",
@@ -354,6 +928,57 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-nutrition-coaching-business-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-successful-nutrition-coaching-business-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-successful-nutrition-coaching-business-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:east galway tyres:galway",
+      "target_name": "East Galway Tyres Limited",
+      "slug": "name-county-east-galway-tyres-galway",
+      "readiness": "watch_memo_only",
+      "score": 50.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway electrical services:galway",
+      "target_name": "Galway Electrical Services Limited",
+      "slug": "name-county-galway-electrical-services-galway",
+      "readiness": "watch_memo_only",
+      "score": 50.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway truck and van testing centre:galway",
+      "target_name": "Galway Truck and Van Testing Centre Limited",
+      "slug": "name-county-galway-truck-and-van-testing-centre-galway",
+      "readiness": "watch_memo_only",
+      "score": 50.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html"
       }
     },
     {

@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:greaney glass products:galway",
+  "target_name": "Greaney Glass Products Limited",
+  "readiness": "ic_ready",
+  "score": 73.0,
+  "evidence_gap_count": 2,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex",
+    "pdf_candidate"
+  ]
+}

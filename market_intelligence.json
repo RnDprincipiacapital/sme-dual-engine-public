@@ -116,7 +116,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 43,
+      "company_count": 61,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -139,7 +139,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 2,
+      "company_count": 6,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -160,7 +160,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 8,
+      "company_count": 9,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -181,7 +181,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 2,
+      "company_count": 5,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -202,7 +202,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 4,
+      "company_count": 5,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -357,150 +357,269 @@
   ],
   "company_universe": [
     {
-      "county": "Galway",
-      "local_area": "Galway City",
-      "region_label": "Galway / Galway City",
+      "county": "Dublin",
+      "local_area": "Blanchardstown / West Dublin",
+      "region_label": "Dublin / Blanchardstown / West Dublin",
       "gics_sector": "Industrials",
-      "gics_industry_group": "Capital Goods & Commercial Services",
-      "company_count": 84,
-      "director_50_plus_count": 49,
-      "director_55_plus_count": 37,
-      "director_60_plus_count": 24,
-      "director_65_plus_count": 13,
-      "director_70_plus_count": 6,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
-    },
-    {
-      "county": "Galway",
-      "local_area": "Galway City",
-      "region_label": "Galway / Galway City",
-      "gics_sector": "Consumer Discretionary",
-      "gics_industry_group": "Consumer Services",
-      "company_count": 73,
-      "director_50_plus_count": 42,
-      "director_55_plus_count": 31,
-      "director_60_plus_count": 19,
-      "director_65_plus_count": 10,
-      "director_70_plus_count": 4,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
-    },
-    {
-      "county": "Galway",
-      "local_area": "Oranmore",
-      "region_label": "Galway / Oranmore",
-      "gics_sector": "Consumer Staples",
-      "gics_industry_group": "Food, Beverage & Tobacco",
-      "company_count": 22,
-      "director_50_plus_count": 14,
-      "director_55_plus_count": 10,
-      "director_60_plus_count": 7,
-      "director_65_plus_count": 4,
-      "director_70_plus_count": 1,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
-    },
-    {
-      "county": "Galway",
-      "local_area": "Oranmore",
-      "region_label": "Galway / Oranmore",
-      "gics_sector": "Industrials",
-      "gics_industry_group": "Capital Goods & Commercial Services",
-      "company_count": 31,
-      "director_50_plus_count": 18,
-      "director_55_plus_count": 13,
-      "director_60_plus_count": 9,
-      "director_65_plus_count": 5,
-      "director_70_plus_count": 2,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 12,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
     },
     {
       "county": "Dublin",
       "local_area": "Dublin 2 / Docklands",
       "region_label": "Dublin / Dublin 2 / Docklands",
-      "gics_sector": "Information Technology",
-      "gics_industry_group": "Software & Services",
-      "company_count": 126,
-      "director_50_plus_count": 63,
-      "director_55_plus_count": 45,
-      "director_60_plus_count": 27,
-      "director_65_plus_count": 14,
-      "director_70_plus_count": 5,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 172,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
     },
     {
       "county": "Dublin",
-      "local_area": "Dublin 2 / Docklands",
-      "region_label": "Dublin / Dublin 2 / Docklands",
-      "gics_sector": "Financials",
-      "gics_industry_group": "Financial Services",
-      "company_count": 108,
-      "director_50_plus_count": 61,
-      "director_55_plus_count": 46,
-      "director_60_plus_count": 29,
-      "director_65_plus_count": 16,
-      "director_70_plus_count": 7,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
-    },
-    {
-      "county": "Dublin",
-      "local_area": "Dublin 6 / Rathmines",
-      "region_label": "Dublin / Dublin 6 / Rathmines",
-      "gics_sector": "Health Care",
-      "gics_industry_group": "Health Care Equipment & Services",
-      "company_count": 39,
-      "director_50_plus_count": 24,
-      "director_55_plus_count": 18,
-      "director_60_plus_count": 12,
-      "director_65_plus_count": 6,
-      "director_70_plus_count": 2,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
+      "local_area": "Dublin 4 / Ballsbridge",
+      "region_label": "Dublin / Dublin 4 / Ballsbridge",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 38,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
     },
     {
       "county": "Dublin",
       "local_area": "Dublin 6 / Rathmines",
       "region_label": "Dublin / Dublin 6 / Rathmines",
-      "gics_sector": "Consumer Discretionary",
-      "gics_industry_group": "Consumer Services",
-      "company_count": 55,
-      "director_50_plus_count": 31,
-      "director_55_plus_count": 23,
-      "director_60_plus_count": 15,
-      "director_65_plus_count": 8,
-      "director_70_plus_count": 3,
-      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-      "source_url": null,
-      "source_date": null,
-      "approved_by": null
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 16,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 8 / Liberties",
+      "region_label": "Dublin / Dublin 8 / Liberties",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 19,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin City Centre",
+      "region_label": "Dublin / Dublin City Centre",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 155,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dun Laoghaire / South County",
+      "region_label": "Dublin / Dun Laoghaire / South County",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 9,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Swords / North County",
+      "region_label": "Dublin / Swords / North County",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 3,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Tallaght / South West",
+      "region_label": "Dublin / Tallaght / South West",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 1,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 25,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Gort",
+      "region_label": "Galway / Gort",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 1,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Loughrea",
+      "region_label": "Galway / Loughrea",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 1,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Oranmore",
+      "region_label": "Galway / Oranmore",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 7,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Salthill",
+      "region_label": "Galway / Salthill",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 3,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Tuam",
+      "region_label": "Galway / Tuam",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Commercial & Professional Services",
+      "company_count": 7,
+      "director_50_plus_count": null,
+      "director_55_plus_count": null,
+      "director_60_plus_count": null,
+      "director_65_plus_count": null,
+      "director_70_plus_count": null,
+      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_date": "2026-06-04",
+      "approved_by": "Benjamin Falkenburg"
     }
   ],
   "data_readiness": {
     "status": "sample_or_incomplete",
-    "score": 75,
+    "score": 84,
     "issues": [
-      "company universe source notes still indicate sample or placeholder data"
+      "Approved source collection is 27 of 120 rows."
     ],
     "warnings": [
-      "some company universe rows are missing source_url, source_date, or approved_by"
+      "some company universe rows are missing director-age threshold counts"
     ],
     "coverage": {
       "required_counties": [
@@ -516,19 +635,17 @@
         "Galway"
       ],
       "sector_spend_rows": 12,
-      "company_universe_rows": 8,
-      "company_universe_total_companies": 538
+      "company_universe_rows": 15,
+      "company_universe_total_companies": 469
     }
   },
   "county_coverage": {
     "status": "sample_or_incomplete",
-    "readiness_status": "sample_or_incomplete",
-    "readiness_score": 75,
-    "readiness_issues": [
-      "company universe source notes still indicate sample or placeholder data"
-    ],
+    "readiness_status": "pilot_ready",
+    "readiness_score": 95,
+    "readiness_issues": [],
     "readiness_warnings": [
-      "some company universe rows are missing source_url, source_date, or approved_by"
+      "some company universe rows are missing director-age threshold counts"
     ],
     "counties": {
       "Galway": {
@@ -536,11 +653,11 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 62,
-        "review_queue_count": 62,
+        "target_count": 97,
+        "review_queue_count": 97,
         "sector_spend_rows": 6,
-        "company_universe_rows": 4,
-        "company_universe_total_companies": 210,
+        "company_universe_rows": 6,
+        "company_universe_total_companies": 44,
         "director_age_known_count": 0,
         "director_age_thresholds": {
           "50_plus": 0,
@@ -550,7 +667,7 @@
           "70_plus": 0
         },
         "sector_spend_source_status": "approved_or_unspecified",
-        "company_universe_source_status": "sample_or_placeholder"
+        "company_universe_source_status": "approved_or_unspecified"
       },
       "Dublin": {
         "status": "missing_inputs",
@@ -561,8 +678,8 @@
         "target_count": 0,
         "review_queue_count": 0,
         "sector_spend_rows": 6,
-        "company_universe_rows": 4,
-        "company_universe_total_companies": 328,
+        "company_universe_rows": 9,
+        "company_universe_total_companies": 425,
         "director_age_known_count": 0,
         "director_age_thresholds": {
           "50_plus": 0,
@@ -572,13 +689,13 @@
           "70_plus": 0
         },
         "sector_spend_source_status": "approved_or_unspecified",
-        "company_universe_source_status": "sample_or_placeholder"
+        "company_universe_source_status": "approved_or_unspecified"
       }
     }
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 62,
+    "unknown_count": 97,
     "supported_thresholds": [
       50,
       55,
@@ -589,17 +706,17 @@
   },
   "notes": [
     "Sector-spend shares loaded from docs/approved-data/cso-allocated-market-data-2022.csv.",
-    "Company universe counts loaded from samples/galway-dublin-company-universe-sample.csv.",
+    "Company universe counts loaded from docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv.",
     "Director-age filtering uses the oldest/minimum director age metadata when supplied by CRO/enrichment inputs."
   ],
   "collection_progress": {
     "status": "collection_in_progress",
     "market_data_path": "docs/approved-data/cso-allocated-market-data-2022.csv",
-    "company_data_path": "samples/galway-dublin-company-universe-sample.csv",
+    "company_data_path": "docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv",
     "overall": {
       "expected_rows": 120,
-      "approved_rows": 12,
-      "approved_pct": 10.0,
+      "approved_rows": 27,
+      "approved_pct": 22.5,
       "gap_count": 108
     },
     "source_types": {
@@ -614,12 +731,12 @@
       },
       "company_universe": {
         "expected_rows": 108,
-        "loaded_rows": 8,
-        "approved_rows": 0,
-        "placeholder_rows": 8,
-        "rows_missing_approval": 8,
-        "loaded_pct": 7.4,
-        "approved_pct": 0.0
+        "loaded_rows": 15,
+        "approved_rows": 15,
+        "placeholder_rows": 0,
+        "rows_missing_approval": 0,
+        "loaded_pct": 13.9,
+        "approved_pct": 13.9
       }
     },
     "by_county": [
@@ -630,9 +747,9 @@
         "market_approved_rows": 6,
         "market_approved_pct": 100.0,
         "company_expected_rows": 54,
-        "company_loaded_rows": 4,
-        "company_approved_rows": 0,
-        "company_approved_pct": 0.0
+        "company_loaded_rows": 6,
+        "company_approved_rows": 6,
+        "company_approved_pct": 11.1
       },
       {
         "county": "Dublin",
@@ -641,25 +758,25 @@
         "market_approved_rows": 6,
         "market_approved_pct": 100.0,
         "company_expected_rows": 54,
-        "company_loaded_rows": 4,
-        "company_approved_rows": 0,
-        "company_approved_pct": 0.0
+        "company_loaded_rows": 9,
+        "company_approved_rows": 9,
+        "company_approved_pct": 16.7
       }
     ],
     "by_source": [
+      {
+        "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+        "market_rows": 0,
+        "company_universe_rows": 15,
+        "approved_rows": 15,
+        "placeholder_rows": 0
+      },
       {
         "source_note": "CSO allocated market estimate: 2022 national turnover from AIA30/ANA13/BAA14 allocated to Galway/Dublin by 2023 BRA34 active-enterprise share and mapped to SME Dual Engine starter sectors.",
         "market_rows": 12,
         "company_universe_rows": 0,
         "approved_rows": 12,
         "placeholder_rows": 0
-      },
-      {
-        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
-        "market_rows": 0,
-        "company_universe_rows": 8,
-        "approved_rows": 0,
-        "placeholder_rows": 8
       }
     ]
   }

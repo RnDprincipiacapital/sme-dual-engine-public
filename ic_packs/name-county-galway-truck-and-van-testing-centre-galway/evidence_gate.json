@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:galway truck and van testing centre:galway",
+  "target_name": "Galway Truck and Van Testing Centre Limited",
+  "readiness": "watch_memo_only",
+  "score": 50.5,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

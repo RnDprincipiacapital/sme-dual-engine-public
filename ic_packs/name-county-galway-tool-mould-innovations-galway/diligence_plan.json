@@ -1,0 +1,54 @@
+{
+  "target_identity": "Galway Tool & Mould Innovations Limited",
+  "stage": "enrichment_required",
+  "decision_gate": "fill high-priority evidence gaps before outreach",
+  "evidence_gaps": [
+    "CRO/company number not linked",
+    "direct contact route missing",
+    "no asking price or valuation anchor"
+  ],
+  "questions": [
+    {
+      "category": "corporate_identity",
+      "question": "Confirm legal entity, CRO number, status, directors, filings, and group structure.",
+      "priority": "high",
+      "evidence_needed": [
+        "CRO profile",
+        "latest annual return",
+        "director list"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "seller_access",
+      "question": "Find a verified phone, email, owner/director contact, or advisor route.",
+      "priority": "high",
+      "evidence_needed": [
+        "phone",
+        "email",
+        "director LinkedIn",
+        "advisor/listing page"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "valuation",
+      "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+      "priority": "medium",
+      "evidence_needed": [
+        "employee estimate",
+        "revenue proxy",
+        "asset base",
+        "sector multiple"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "research_and_enrich_before_outreach",
+    "fill high-priority evidence gaps before outreach",
+    "close evidence gap: CRO/company number not linked",
+    "close evidence gap: direct contact route missing",
+    "close evidence gap: no asking price or valuation anchor"
+  ]
+}

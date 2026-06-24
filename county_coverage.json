@@ -1,12 +1,10 @@
 {
   "status": "sample_or_incomplete",
-  "readiness_status": "sample_or_incomplete",
-  "readiness_score": 75,
-  "readiness_issues": [
-    "company universe source notes still indicate sample or placeholder data"
-  ],
+  "readiness_status": "pilot_ready",
+  "readiness_score": 95,
+  "readiness_issues": [],
   "readiness_warnings": [
-    "some company universe rows are missing source_url, source_date, or approved_by"
+    "some company universe rows are missing director-age threshold counts"
   ],
   "counties": {
     "Galway": {
@@ -14,11 +12,11 @@
       "missing": [
         "director_age"
       ],
-      "target_count": 62,
-      "review_queue_count": 62,
+      "target_count": 97,
+      "review_queue_count": 97,
       "sector_spend_rows": 6,
-      "company_universe_rows": 4,
-      "company_universe_total_companies": 210,
+      "company_universe_rows": 6,
+      "company_universe_total_companies": 44,
       "director_age_known_count": 0,
       "director_age_thresholds": {
         "50_plus": 0,
@@ -28,7 +26,7 @@
         "70_plus": 0
       },
       "sector_spend_source_status": "approved_or_unspecified",
-      "company_universe_source_status": "sample_or_placeholder"
+      "company_universe_source_status": "approved_or_unspecified"
     },
     "Dublin": {
       "status": "missing_inputs",
@@ -39,8 +37,8 @@
       "target_count": 0,
       "review_queue_count": 0,
       "sector_spend_rows": 6,
-      "company_universe_rows": 4,
-      "company_universe_total_companies": 328,
+      "company_universe_rows": 9,
+      "company_universe_total_companies": 425,
       "director_age_known_count": 0,
       "director_age_thresholds": {
         "50_plus": 0,
@@ -50,7 +48,7 @@
         "70_plus": 0
       },
       "sector_spend_source_status": "approved_or_unspecified",
-      "company_universe_source_status": "sample_or_placeholder"
+      "company_universe_source_status": "approved_or_unspecified"
     }
   }
 }

@@ -4,30 +4,30 @@
 
 - Input: `samples/galway-sme-dashboard-expanded-public.json`
 - Market data: `docs/approved-data/cso-allocated-market-data-2022.csv`
-- Company universe data: `samples/galway-dublin-company-universe-sample.csv`
-- Target rows loaded: 75
-- Deduplicated entities: 62
-- Ranked assessments: 62
-- Review queue rows: 62
+- Company universe data: `docs/evidence/cro-company-count-evidence-2026-06-04/cro-company-count-evidence.csv`
+- Target rows loaded: 110
+- Deduplicated entities: 97
+- Ranked assessments: 97
+- Review queue rows: 97
 
 ## Data Readiness
 
 - Status: `sample_or_incomplete`
-- Score: 75
+- Score: 84
 - Required counties: Dublin, Galway
 - Sector-spend counties: Dublin, Galway
 - Company-universe counties: Dublin, Galway
 - Sector-spend rows: 12
-- Company-universe rows: 8
-- Universe company count: 538
+- Company-universe rows: 15
+- Universe company count: 469
 
 ## Issues
 
-- company universe source notes still indicate sample or placeholder data
+- Approved source collection is 27 of 120 rows.
 
 ## Warnings
 
-- some company universe rows are missing source_url, source_date, or approved_by
+- some company universe rows are missing director-age threshold counts
 
 ## Sector-Spend Sources
 
@@ -35,10 +35,10 @@
 
 ## Company-Universe Sources
 
-- Sample CRO/directory-style count; replace with approved source extract. | No source URL | No source date | approved by No approver | 8 row(s)
+- CRO Company Records open-data daily snapshot; company counts only, no director-age bands. | https://opendata.cro.ie/dataset/companies | 2026-06-04 | approved by Benjamin Falkenburg | 15 row(s)
 
 ## Next Actions
 
-- company universe source notes still indicate sample or placeholder data
-- some company universe rows are missing source_url, source_date, or approved_by
+- Approved source collection is 27 of 120 rows.
+- some company universe rows are missing director-age threshold counts
 - replace sample/placeholder Galway and Dublin rows with approved source data

@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:galway stationery supplies:galway",
+  "target_name": "Galway Stationery Supplies Limited",
+  "readiness": "ic_ready",
+  "score": 79.1,
+  "evidence_gap_count": 2,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex",
+    "pdf_candidate"
+  ]
+}

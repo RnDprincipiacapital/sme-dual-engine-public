@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:galway complete roofing:galway",
+  "target_name": "Galway Complete Roofing Limited",
+  "readiness": "research_memo_ready",
+  "score": 62.2,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}
