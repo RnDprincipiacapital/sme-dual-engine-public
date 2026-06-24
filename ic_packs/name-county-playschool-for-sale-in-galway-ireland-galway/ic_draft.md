@@ -5,7 +5,7 @@
 ## Company Overview
 
 - Name: Playschool for Sale in Galway, Ireland
-- Location: unknown, Galway
+- Location: Galway, County Galway, Ireland, Galway
 - Sector: Playschools
 - Company status: unknown
 - Company age: unknown
@@ -61,15 +61,18 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Galway
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 1.8 Mn SMERGERS public listing card observed 2026-06-24.
 - `fit_decision` from smergers (inferred, confidence 0.7): target
 - `fit_score` from smergers (inferred, confidence 0.7): 75.0
+- `is_business_opportunity` from smergers (observed, confidence 1.0): False
+- `is_franchise` from smergers (observed, confidence 1.0): False
+- `is_property_only` from smergers (observed, confidence 1.0): False
 - `name` from smergers (observed, confidence 1.0): Playschool for Sale in Galway, Ireland
 - `normalized_name` from smergers (observed, confidence 1.0): playschool for sale in galway ireland
 - `price_text` from smergers (observed, confidence 1.0): EUR 1,750,000
+- `price_value` from smergers (observed, confidence 1.0): 1800000.0
 - `sector` from local_enrichment (inferred, confidence 0.55): Playschools
 - `source` from smergers (observed, confidence 1.0): smergers
 - `source_key` from smergers (observed, confidence 1.0): ir6hy
 - `source_section` from smergers (observed, confidence 1.0): brokered_targets
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/playschool-for-sale-in-galway-ireland/ir6hy/
-- `summary` from smergers (observed, confidence 1.0): The business operates as an early years education service in Galway with an annual turnover of almost €1 million. - Dedicated to providing a secure environment for children to benefit from a top-quality early years nurturing and educational experience, supporting their critical and influential stage of development. - The primary source of revenue for the business comes from recurring monthly payments from 65 clients, with a capacity to increase to 72, indicating potential for growth. - In addition to client fees, the business also generates revenue from government schemes aimed at assisting families who require financial support for early years education.
-- `website` from local_enrichment (inferred, confidence 0.55): https://www.smergers.com/business/playschool-for-sale-in-galway-ireland/ir6hy/

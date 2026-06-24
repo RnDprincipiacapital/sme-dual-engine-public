@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:fintech equity stake for sale in galway ireland:galway",
+  "target_name": "FinTech Company Equity Stake For Sale in Galway, Ireland",
+  "readiness": "watch_memo_only",
+  "score": 52.4,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

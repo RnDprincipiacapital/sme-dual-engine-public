@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:newly established fabricated metal products seeking loan in galway ireland:galway",
+  "target_name": "Newly Established Fabricated Metal Products Company Seeking Loan in Galway, Ireland",
+  "readiness": "research_memo_ready",
+  "score": 65.8,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

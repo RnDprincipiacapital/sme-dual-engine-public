@@ -1,10 +1,10 @@
 {
-  "pack_count": 286,
+  "pack_count": 310,
   "readiness_counts": {
-    "blocked": 79,
+    "blocked": 82,
     "ic_ready": 9,
-    "research_memo_ready": 71,
-    "watch_memo_only": 127
+    "research_memo_ready": 83,
+    "watch_memo_only": 136
   },
   "packs": [
     {
@@ -422,6 +422,24 @@
       }
     },
     {
+      "identity_key": "name_county:fertilizer for sale in wexford ireland:wexford",
+      "target_name": "Fertilizer Company for Sale in Wexford, Ireland",
+      "slug": "name-county-fertilizer-for-sale-in-wexford-ireland-wexford",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:highly regarded building and civil engineering:ireland",
       "target_name": "Highly-Regarded Building and Civil Engineering",
       "slug": "name-county-highly-regarded-building-and-civil-engineering-ireland",
@@ -476,6 +494,42 @@
       }
     },
     {
+      "identity_key": "name_county:it consultancy for sale in dublin ireland:dublin",
+      "target_name": "IT Consultancy Company for Sale in Dublin, Ireland",
+      "slug": "name-county-it-consultancy-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-it-consultancy-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:online marketplace for sale in dublin ireland:dublin",
+      "target_name": "Online Marketplace Company for Sale in Dublin, Ireland",
+      "slug": "name-county-online-marketplace-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-online-marketplace-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:plant and machinery leasing:ireland",
       "target_name": "Plant and Machinery Leasing",
       "slug": "name-county-plant-and-machinery-leasing-ireland",
@@ -509,6 +563,42 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:solar projects for sale in dublin ireland:dublin",
+      "target_name": "Solar Projects Company for Sale in Dublin, Ireland",
+      "slug": "name-county-solar-projects-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-solar-projects-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:newly established fabricated metal products seeking loan in galway ireland:galway",
+      "target_name": "Newly Established Fabricated Metal Products Company Seeking Loan in Galway, Ireland",
+      "slug": "name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway",
+      "readiness": "research_memo_ready",
+      "score": 65.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway/ic_draft.tex"
       }
     },
     {
@@ -656,24 +746,6 @@
       }
     },
     {
-      "identity_key": "name_county:playschool for sale in galway:galway",
-      "target_name": "Playschool for Sale in Galway",
-      "slug": "name-county-playschool-for-sale-in-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 64.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-playschool-for-sale-in-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-playschool-for-sale-in-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-galway/ic_draft.tex"
-      }
-    },
-    {
       "identity_key": "name_county:award winning beauty salon:ireland",
       "target_name": "Award-Winning Beauty Salon",
       "slug": "name-county-award-winning-beauty-salon-ireland",
@@ -743,6 +815,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:carpentry seeking loan in carlow ireland:carlow",
+      "target_name": "Carpentry Company Seeking Loan in Carlow, Ireland",
+      "slug": "name-county-carpentry-seeking-loan-in-carlow-ireland-carlow",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-carpentry-seeking-loan-in-carlow-ireland-carlow/ic_draft.tex"
       }
     },
     {
@@ -872,6 +962,42 @@
       }
     },
     {
+      "identity_key": "name_county:newly established real estate construction seeking loan in dublin ireland:dublin",
+      "target_name": "Newly Established Real Estate Construction Company Seeking Loan in Dublin, Ireland",
+      "slug": "name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-real-estate-construction-seeking-loan-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable art gallery for sale in dublin ireland:dublin",
+      "target_name": "Profitable Art Gallery for Sale in Dublin, Ireland",
+      "slug": "name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-profitable-art-gallery-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:shading solutions manufacturer:ireland",
       "target_name": "Shading Solutions Manufacturer",
       "slug": "name-county-shading-solutions-manufacturer-ireland",
@@ -944,6 +1070,24 @@
       }
     },
     {
+      "identity_key": "name_county:telemedicine for sale in dublin ireland:dublin",
+      "target_name": "Telemedicine Company for Sale in Dublin, Ireland",
+      "slug": "name-county-telemedicine-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-telemedicine-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:well established private gp practice with strong patient base in dublin:dublin",
       "target_name": "Well-established Private GP Practice With Strong Patient Base In Dublin",
       "slug": "name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin",
@@ -998,6 +1142,24 @@
       }
     },
     {
+      "identity_key": "name_county:digital marketing for sale in dublin ireland:dublin",
+      "target_name": "Digital Marketing Company for Sale in Dublin, Ireland",
+      "slug": "name-county-digital-marketing-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 63.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:financial advisory ar:northern ireland",
       "target_name": "Financial Advisory AR",
       "slug": "name-county-financial-advisory-ar-northern-ireland",
@@ -1013,6 +1175,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:tour operator for sale in dublin ireland:dublin",
+      "target_name": "Tour Operator for Sale in Dublin, Ireland",
+      "slug": "name-county-tour-operator-for-sale-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 63.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-tour-operator-for-sale-in-dublin-ireland-dublin/ic_draft.tex"
       }
     },
     {
@@ -1247,6 +1427,42 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:newly established mechanical services seeking loan in dublin ireland:dublin",
+      "target_name": "Newly Established Mechanical Services Company Seeking Loan in Dublin, Ireland",
+      "slug": "name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-mechanical-services-seeking-loan-in-dublin-ireland-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:newly established specialty pharmaceuticals equity stake for sale in dublin ireland:dublin",
+      "target_name": "Newly Established Specialty Pharmaceuticals Company Equity Stake For Sale in Dublin, Ireland",
+      "slug": "name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-specialty-pharmaceuticals-equity-stake-for-sale-in-dublin-ireland-/ic_draft.tex"
       }
     },
     {
@@ -1584,6 +1800,23 @@
       }
     },
     {
+      "identity_key": "name_county:taxi business seeking loan in dublin ireland:dublin",
+      "target_name": "Taxi Business Seeking Loan in Dublin, Ireland",
+      "slug": "name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin",
+      "readiness": "watch_memo_only",
+      "score": 58.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-taxi-business-seeking-loan-in-dublin-ireland-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:agricultural inputs and supplements provider:northern ireland",
       "target_name": "Agricultural Inputs and Supplements Provider",
       "slug": "name-county-agricultural-inputs-and-supplements-provider-northern-ireland",
@@ -1805,6 +2038,23 @@
       }
     },
     {
+      "identity_key": "name_county:car wash equity stake for sale in letterkenny ireland:donegal",
+      "target_name": "Car Wash Equity Stake For Sale in Letterkenny, Ireland",
+      "slug": "name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal",
+      "readiness": "watch_memo_only",
+      "score": 55.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-car-wash-equity-stake-for-sale-in-letterkenny-ireland-donegal/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:supplier of outdoor recreational facilities:ireland",
       "target_name": "Supplier of Outdoor Recreational Facilities",
       "slug": "name-county-supplier-of-outdoor-recreational-facilities-ireland",
@@ -1958,6 +2208,40 @@
       }
     },
     {
+      "identity_key": "name_county:beauty salon for sale in county meath ireland:meath",
+      "target_name": "Beauty Salon for Sale in County Meath, Ireland",
+      "slug": "name-county-beauty-salon-for-sale-in-county-meath-ireland-meath",
+      "readiness": "watch_memo_only",
+      "score": 52.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-beauty-salon-for-sale-in-county-meath-ireland-meath/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:fintech equity stake for sale in galway ireland:galway",
+      "target_name": "FinTech Company Equity Stake For Sale in Galway, Ireland",
+      "slug": "name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway",
+      "readiness": "watch_memo_only",
+      "score": 52.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:playschool for sale in galway ireland:galway",
       "target_name": "Playschool for Sale in Galway, Ireland",
       "slug": "name-county-playschool-for-sale-in-galway-ireland-galway",
@@ -2040,6 +2324,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-busy-south-dublin-butcher-shop-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-busy-south-dublin-butcher-shop-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-busy-south-dublin-butcher-shop-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:travel portal equity stake for sale in dublin ireland:dublin",
+      "target_name": "Travel Portal Equity Stake For Sale in Dublin, Ireland",
+      "slug": "name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin",
+      "readiness": "watch_memo_only",
+      "score": 51.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin/ic_draft.html"
       }
     },
     {
@@ -2366,6 +2667,23 @@
       }
     },
     {
+      "identity_key": "name_county:newly established music production business equity stake for sale in dublin ireland:dublin",
+      "target_name": "Newly Established Music Production Business Equity Stake For Sale in Dublin, Ireland",
+      "slug": "name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-newly-established-music-production-business-equity-stake-for-sale-in-dublin-ireland-/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:niche tour operator:ireland",
       "target_name": "Niche Tour Operator",
       "slug": "name-county-niche-tour-operator-ireland",
@@ -2414,6 +2732,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable consumer electronics seeking loan in dublin ireland:dublin",
+      "target_name": "Profitable Consumer Electronics Company Seeking Loan in Dublin, Ireland",
+      "slug": "name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-consumer-electronics-seeking-loan-in-dublin-ireland-dublin/ic_draft.html"
       }
     },
     {
@@ -2601,6 +2936,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-129924/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-129924/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-129924/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:catering business equity stake for sale in galway ireland:galway",
+      "target_name": "Catering Business Equity Stake For Sale in Galway, Ireland",
+      "slug": "name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway",
+      "readiness": "watch_memo_only",
+      "score": 49.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-ireland-galway/ic_draft.html"
       }
     },
     {
@@ -2890,6 +3242,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable travel insurance for sale in dublin ireland:dublin",
+      "target_name": "Profitable Travel Insurance Company for Sale in Dublin, Ireland",
+      "slug": "name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-travel-insurance-for-sale-in-dublin-ireland-dublin/ic_draft.html"
       }
     },
     {
@@ -3655,6 +4024,22 @@
       }
     },
     {
+      "identity_key": "name_county:beauty clinic for sale in limerick ireland:limerick",
+      "target_name": "Beauty Clinic for Sale in Limerick, Ireland",
+      "slug": "name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-beauty-clinic-for-sale-in-limerick-ireland-limerick/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:business opportunity ideal add on for a restaurant:dublin",
       "target_name": "Business Opportunity, Ideal Add-on For A Restaurant",
       "slug": "name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin",
@@ -3732,6 +4117,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-hotel-in-ireland-with-135-keys-lakefront-galway/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-hotel-in-ireland-with-135-keys-lakefront-galway/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-hotel-in-ireland-with-135-keys-lakefront-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:training institute distributor opportunity:ireland",
+      "target_name": "Training Institute Distributor Opportunity",
+      "slug": "name-county-training-institute-distributor-opportunity-ireland",
+      "readiness": "blocked",
+      "score": 44.3,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-training-institute-distributor-opportunity-ireland/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/watch_note.md"
       }
     },
     {
@@ -4135,6 +4536,22 @@
       }
     },
     {
+      "identity_key": "name_county:gps device franchise opportunity:ireland",
+      "target_name": "GPS Device Franchise Opportunity",
+      "slug": "name-county-gps-device-franchise-opportunity-ireland",
+      "readiness": "blocked",
+      "score": 37.8,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-gps-device-franchise-opportunity-ireland/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-gps-device-franchise-opportunity-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-gps-device-franchise-opportunity-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-gps-device-franchise-opportunity-ireland/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-gps-device-franchise-opportunity-ireland/watch_note.md"
+      }
+    },
+    {
       "identity_key": "cro:72100",
       "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
       "slug": "cro-72100",
@@ -4423,38 +4840,6 @@
       }
     },
     {
-      "identity_key": "name_county:catering business equity stake for sale in galway:galway",
-      "target_name": "Catering Business Equity Stake For Sale in Galway",
-      "slug": "name-county-catering-business-equity-stake-for-sale-in-galway-galway",
-      "readiness": "blocked",
-      "score": 35.5,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-galway/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-galway/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-catering-business-equity-stake-for-sale-in-galway-galway/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:fintech equity stake for sale in galway:galway",
-      "target_name": "FinTech Company Equity Stake For Sale in Galway",
-      "slug": "name-county-fintech-equity-stake-for-sale-in-galway-galway",
-      "readiness": "blocked",
-      "score": 35.5,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-galway/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-galway/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-fintech-equity-stake-for-sale-in-galway-galway/watch_note.md"
-      }
-    },
-    {
       "identity_key": "cro:270945",
       "target_name": "40 DEGREES LIMITED",
       "slug": "cro-270945",
@@ -4516,6 +4901,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-217915/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-217915/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-217915/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:surveillance device sales partner opportunity:ireland",
+      "target_name": "Surveillance Device Sales Partner Opportunity",
+      "slug": "name-county-surveillance-device-sales-partner-opportunity-ireland",
+      "readiness": "blocked",
+      "score": 33.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-surveillance-device-sales-partner-opportunity-ireland/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-surveillance-device-sales-partner-opportunity-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-surveillance-device-sales-partner-opportunity-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-surveillance-device-sales-partner-opportunity-ireland/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-surveillance-device-sales-partner-opportunity-ireland/watch_note.md"
       }
     },
     {
@@ -4628,6 +5029,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:gym franchise opportunity:ireland",
+      "target_name": "Gym Franchise Opportunity",
+      "slug": "name-county-gym-franchise-opportunity-ireland",
+      "readiness": "blocked",
+      "score": 29.2,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-gym-franchise-opportunity-ireland/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-gym-franchise-opportunity-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-gym-franchise-opportunity-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-gym-franchise-opportunity-ireland/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-gym-franchise-opportunity-ireland/watch_note.md"
       }
     },
     {

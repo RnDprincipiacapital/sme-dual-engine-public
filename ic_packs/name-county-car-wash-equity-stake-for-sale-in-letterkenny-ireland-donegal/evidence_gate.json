@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:car wash equity stake for sale in letterkenny ireland:donegal",
+  "target_name": "Car Wash Equity Stake For Sale in Letterkenny, Ireland",
+  "readiness": "watch_memo_only",
+  "score": 55.1,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:fertilizer for sale in wexford ireland:wexford",
+  "target_name": "Fertilizer Company for Sale in Wexford, Ireland",
+  "readiness": "research_memo_ready",
+  "score": 66.8,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

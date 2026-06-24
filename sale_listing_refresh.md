@@ -2,9 +2,9 @@
 
 - Status: `ok`
 - Observed at: `2026-06-24`
-- Published rows: `200`
-- Refreshed rows: `200`
-- Existing rows considered: `111`
+- Published rows: `225`
+- Refreshed rows: `228`
+- Existing rows considered: `200`
 - Public output: `galway-live-sale-listings-public.csv`
 
 ## Sources
@@ -25,5 +25,8 @@
 - business_sale_report: ok; 29 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland
   - Page: 20 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland
   - Page: 9 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland?region=northern_ireland&is_new_search=1&page=2
+- smergers: ok; 28 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/
+  - Page: 14 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/
+  - Page: 14 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/?page=2
 
 This public artifact reports listing-feed freshness only. It is not a full market census until more broker feeds, CRO/company exports, and approved local sources are connected.

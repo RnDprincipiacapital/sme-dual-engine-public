@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:newly established mechanical services seeking loan in dublin ireland:dublin",
+  "target_name": "Newly Established Mechanical Services Company Seeking Loan in Dublin, Ireland",
+  "readiness": "research_memo_ready",
+  "score": 61.4,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}
