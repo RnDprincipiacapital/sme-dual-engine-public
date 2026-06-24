@@ -1,0 +1,87 @@
+{
+  "status": "director_age_source_required",
+  "approved_rows": 27,
+  "expected_rows": 120,
+  "gap_count": 108,
+  "company_universe_request_rows": 108,
+  "incomplete_company_count_rows": 15,
+  "missing_company_rows": 93,
+  "company_count_only_rows": 15,
+  "company_count_evidence_total": 471,
+  "required_fields": [
+    "company_number",
+    "county",
+    "local_area",
+    "sme_sector_or_gics_sector",
+    "company_count",
+    "director_50_plus_count",
+    "director_55_plus_count",
+    "director_60_plus_count",
+    "director_65_plus_count",
+    "director_70_plus_count",
+    "source_note",
+    "source_url",
+    "source_date",
+    "approved_by"
+  ],
+  "source_routes": [
+    {
+      "route_id": "cro_bulk_data_customer_extract",
+      "label": "CRO bulk-data customer extract",
+      "source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
+      "source_owner": "Companies Registration Office",
+      "access_model": "licensed_bulk_data",
+      "expected_fields": [
+        "company_number",
+        "director_name",
+        "director_address",
+        "appointment_date",
+        "resignation_date"
+      ],
+      "use": "Join director appointments to CRO company numbers, derive active-director age thresholds if date-of-birth or age metadata is included in the approved extract.",
+      "status": "needs_access",
+      "notes": "CRO states that bulk data is supplied to customers through a secure location using individual login credentials."
+    },
+    {
+      "route_id": "core_account_company_printout",
+      "label": "CORE account-holder company printout / appointment download",
+      "source_url": "https://cro.ie/services-and-help/using-services/",
+      "source_owner": "Companies Registration Office",
+      "access_model": "account_holder_or_document_purchase",
+      "expected_fields": [
+        "company_number",
+        "director_names",
+        "secretary_names",
+        "submissions",
+        "appointment_documents"
+      ],
+      "use": "Validate director/officer identities for priority companies when bulk export is unavailable.",
+      "status": "manual_or_paid",
+      "notes": "CORE search supports viewing company data by name or number; document and appointment detail may require account workflows."
+    },
+    {
+      "route_id": "cro_open_company_records",
+      "label": "CRO Open Data Company Records",
+      "source_url": "https://opendata.cro.ie/dataset/companies",
+      "source_owner": "Companies Registration Office",
+      "access_model": "open_data",
+      "expected_fields": [
+        "company_number",
+        "company_name",
+        "company_status",
+        "registered_office",
+        "nace_code"
+      ],
+      "use": "Keep company counts, status, geography, and sector evidence current.",
+      "status": "connected_for_company_counts_only",
+      "notes": "This route does not supply the director-age threshold fields required for approved company-universe rows."
+    }
+  ],
+  "next_actions": [
+    "Obtain a director-level CRO/CORE/bulk export keyed by company number for the 108 request rows.",
+    "Join the director-level export to the existing CRO company-count evidence by company number and active appointment status.",
+    "Aggregate active companies by county, local area, and sector into director_50_plus through director_70_plus threshold counts.",
+    "Merge only rows with complete threshold counts and approval metadata into the approved company-universe CSV."
+  ],
+  "public_note": "The public site can show observed market breadth today, but the approved company-universe gate remains open until director-age threshold counts are supplied by an approved director-level source."
+}

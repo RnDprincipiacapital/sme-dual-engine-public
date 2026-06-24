@@ -23,6 +23,8 @@
   "company_universe_export_request_csv": "company_universe_request/company-universe-export-request.csv",
   "company_universe_export_request_json": "company_universe_request/company-universe-export-request.json",
   "company_universe_export_request_report": "company_universe_request/company-universe-export-request.md",
+  "director_age_source_plan_json": "director_age_source_plan.json",
+  "director_age_source_plan_report": "director_age_source_plan.md",
   "cro_company_count_evidence_csv": "cro_company_evidence/cro-company-count-evidence.csv",
   "cro_company_count_evidence_json": "cro_company_evidence/cro-company-count-evidence.json",
   "cro_company_count_evidence_report": "cro_company_evidence/cro-company-count-evidence.md",
@@ -53,6 +55,7 @@
       "missing_row": 93
     }
   },
+  "director_age_source_plan_status": "director_age_source_required",
   "collection_progress_status": "collection_in_progress",
   "collection_progress_pct": 22.5,
   "sale_listing_refresh_status": "ok",
