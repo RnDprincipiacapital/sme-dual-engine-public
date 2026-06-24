@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:well positioned beauty & aesthetics clinic with growth potential:dublin",
+  "target_name": "Well-positioned Beauty & Aesthetics Clinic With Growth Potential",
+  "readiness": "watch_memo_only",
+  "score": 47.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

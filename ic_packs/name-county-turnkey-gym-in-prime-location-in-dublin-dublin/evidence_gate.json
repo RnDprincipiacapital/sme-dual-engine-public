@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:turnkey gym in prime location in dublin:dublin",
+  "target_name": "Turnkey Gym In Prime Location In Dublin",
+  "readiness": "blocked",
+  "score": 43.6,
+  "evidence_gap_count": 4,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

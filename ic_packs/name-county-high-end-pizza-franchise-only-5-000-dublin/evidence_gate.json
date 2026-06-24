@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:high end pizza franchise only 5 000:dublin",
+  "target_name": "High End Pizza Franchise - Only €5,000",
+  "readiness": "blocked",
+  "score": 29.6,
+  "evidence_gap_count": 4,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

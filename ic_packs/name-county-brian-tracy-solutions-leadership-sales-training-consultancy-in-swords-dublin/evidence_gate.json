@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in swords:dublin",
+  "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
+  "readiness": "blocked",
+  "score": 23.6,
+  "evidence_gap_count": 5,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

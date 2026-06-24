@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:exceptionally popular kids play centre in dublin:dublin",
+  "target_name": "Exceptionally Popular Kids Play Centre In Dublin",
+  "readiness": "blocked",
+  "score": 44.6,
+  "evidence_gap_count": 4,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

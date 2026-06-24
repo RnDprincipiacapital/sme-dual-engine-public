@@ -1,14 +1,14 @@
 {
   "raw": {
-    "target_count": 152,
+    "target_count": 207,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
     "with_contact_evidence": 10,
     "with_strong_identity": 66,
     "source_counts": {
+      "businessesforsale_ie": 103,
       "cro_open_services": 56,
-      "businessesforsale_ie": 48,
       "solocheck_public_profile": 35,
       "smergers": 6,
       "web_landscaping_directory": 3,
@@ -17,21 +17,21 @@
     },
     "county_counts": {
       "Galway": 127,
-      "Dublin": 25
+      "Dublin": 80
     },
     "field_issue_counts": {},
     "issues": []
   },
   "enriched": {
-    "target_count": 152,
+    "target_count": 207,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 152,
-    "with_strong_identity": 152,
+    "with_contact_evidence": 207,
+    "with_strong_identity": 207,
     "source_counts": {
+      "businessesforsale_ie": 103,
       "cro_open_services": 56,
-      "businessesforsale_ie": 48,
       "solocheck_public_profile": 35,
       "smergers": 6,
       "web_landscaping_directory": 3,
@@ -40,20 +40,20 @@
     },
     "county_counts": {
       "Galway": 127,
-      "Dublin": 25
+      "Dublin": 80
     },
     "field_issue_counts": {},
     "issues": []
   },
   "canonical": {
-    "target_count": 137,
+    "target_count": 191,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 137,
-    "with_strong_identity": 137,
+    "with_contact_evidence": 191,
+    "with_strong_identity": 191,
     "source_counts": {
-      "businessesforsale_ie": 48,
+      "businessesforsale_ie": 102,
       "cro_open_services": 41,
       "solocheck_public_profile": 35,
       "smergers": 6,
@@ -63,7 +63,7 @@
     },
     "county_counts": {
       "Galway": 112,
-      "Dublin": 25
+      "Dublin": 79
     },
     "field_issue_counts": {},
     "issues": []

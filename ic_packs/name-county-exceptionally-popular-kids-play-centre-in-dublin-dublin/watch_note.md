@@ -1,0 +1,13 @@
+# Watch Note: Exceptionally Popular Kids Play Centre In Dublin
+
+Readiness: blocked
+Score: 44.6
+
+## Required Before IC
+
+- confirm legal entity/CRO number
+- verify phone, email, advisor, or owner route
+
+## Blockers
+
+- combined score below review threshold

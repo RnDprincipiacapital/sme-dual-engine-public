@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:established café and restaurant with catering:dublin",
+  "target_name": "Established Café And Restaurant With Catering",
+  "readiness": "watch_memo_only",
+  "score": 45.3,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

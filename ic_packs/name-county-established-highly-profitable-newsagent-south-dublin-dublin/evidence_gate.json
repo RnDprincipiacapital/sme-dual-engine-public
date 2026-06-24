@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:established highly profitable newsagent south dublin:dublin",
+  "target_name": "Established Highly Profitable Newsagent South Dublin",
+  "readiness": "blocked",
+  "score": 42.0,
+  "evidence_gap_count": 5,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

@@ -246,7 +246,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 12,
+      "company_count": 33,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -267,7 +267,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 5,
+      "company_count": 17,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -288,7 +288,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 2,
+      "company_count": 4,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -309,7 +309,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 2,
+      "company_count": 14,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -330,7 +330,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 3,
+      "company_count": 6,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -351,7 +351,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 0,
+      "company_count": 4,
       "company_count_source": "current target feed after deduplication"
     }
   ],
@@ -674,8 +674,8 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 25,
-        "review_queue_count": 25,
+        "target_count": 79,
+        "review_queue_count": 79,
         "sector_spend_rows": 6,
         "company_universe_rows": 9,
         "company_universe_total_companies": 425,
@@ -694,7 +694,7 @@
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 137,
+    "unknown_count": 191,
     "supported_thresholds": [
       50,
       55,
@@ -782,21 +782,45 @@
   "sale_listing_refresh": {
     "status": "ok",
     "observed_at": "2026-06-24",
-    "row_count": 49,
-    "refreshed_row_count": 48,
-    "kept_existing_rows": 49,
+    "row_count": 104,
+    "refreshed_row_count": 103,
+    "kept_existing_rows": 104,
     "sources": [
       {
         "source": "businessesforsale_ie",
         "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
         "status": "ok",
-        "rows": 23
+        "rows": 23,
+        "pages": [
+          {
+            "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
+            "rows": 23
+          }
+        ]
       },
       {
         "source": "businessesforsale_ie",
         "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
         "status": "ok",
-        "rows": 25
+        "rows": 80,
+        "pages": [
+          {
+            "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
+            "rows": 25
+          },
+          {
+            "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-2",
+            "rows": 25
+          },
+          {
+            "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-3",
+            "rows": 25
+          },
+          {
+            "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-4",
+            "rows": 5
+          }
+        ]
       }
     ]
   }

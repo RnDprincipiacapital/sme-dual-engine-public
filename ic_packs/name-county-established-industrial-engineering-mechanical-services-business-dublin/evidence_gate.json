@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:established industrial engineering & mechanical services business:dublin",
+  "target_name": "Established Industrial Engineering & Mechanical Services Business",
+  "readiness": "watch_memo_only",
+  "score": 58.7,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

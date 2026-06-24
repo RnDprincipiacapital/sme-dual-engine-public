@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:invest in a digitally creative graphics platform:dublin",
+  "target_name": "Invest In A Digitally Creative Graphics Platform",
+  "readiness": "blocked",
+  "score": 44.6,
+  "evidence_gap_count": 4,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

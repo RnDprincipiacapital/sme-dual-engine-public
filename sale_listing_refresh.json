@@ -2,21 +2,45 @@
   "status": "ok",
   "observed_at": "2026-06-24",
   "output": "galway-live-sale-listings-public.csv",
-  "row_count": 49,
-  "refreshed_row_count": 48,
-  "kept_existing_rows": 49,
+  "row_count": 104,
+  "refreshed_row_count": 103,
+  "kept_existing_rows": 104,
   "sources": [
     {
       "source": "businessesforsale_ie",
       "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
       "status": "ok",
-      "rows": 23
+      "rows": 23,
+      "pages": [
+        {
+          "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
+          "rows": 23
+        }
+      ]
     },
     {
       "source": "businessesforsale_ie",
       "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
       "status": "ok",
-      "rows": 25
+      "rows": 80,
+      "pages": [
+        {
+          "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin",
+          "rows": 25
+        },
+        {
+          "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-2",
+          "rows": 25
+        },
+        {
+          "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-3",
+          "rows": 25
+        },
+        {
+          "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-4",
+          "rows": 5
+        }
+      ]
     }
   ]
 }

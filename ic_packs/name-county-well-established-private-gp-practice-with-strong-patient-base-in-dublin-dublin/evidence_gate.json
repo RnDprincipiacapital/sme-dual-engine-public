@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:well established private gp practice with strong patient base in dublin:dublin",
+  "target_name": "Well-established Private GP Practice With Strong Patient Base In Dublin",
+  "readiness": "research_memo_ready",
+  "score": 64.1,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

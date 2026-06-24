@@ -1,0 +1,18 @@
+{
+  "identity_key": "name_county:filling stations:dublin",
+  "target_name": "Filling Stations",
+  "readiness": "blocked",
+  "score": 35.9,
+  "evidence_gap_count": 5,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

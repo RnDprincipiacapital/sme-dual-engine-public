@@ -1,10 +1,10 @@
 {
-  "pack_count": 137,
+  "pack_count": 191,
   "readiness_counts": {
-    "blocked": 58,
+    "blocked": 79,
     "ic_ready": 9,
-    "research_memo_ready": 32,
-    "watch_memo_only": 38
+    "research_memo_ready": 37,
+    "watch_memo_only": 66
   },
   "packs": [
     {
@@ -530,6 +530,60 @@
       }
     },
     {
+      "identity_key": "name_county:award winning beauty salon with prime location:dublin",
+      "target_name": "Award Winning Beauty Salon With Prime Location",
+      "slug": "name-county-award-winning-beauty-salon-with-prime-location-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:established dental laboratory with strong reputation:dublin",
+      "target_name": "Established Dental Laboratory With Strong Reputation",
+      "slug": "name-county-established-dental-laboratory-with-strong-reputation-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:well established private gp practice with strong patient base in dublin:dublin",
+      "target_name": "Well-established Private GP Practice With Strong Patient Base In Dublin",
+      "slug": "name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:cp contracts:galway",
       "target_name": "CP CONTRACTS",
       "slug": "name-county-cp-contracts-galway",
@@ -710,6 +764,42 @@
       }
     },
     {
+      "identity_key": "name_county:hvac with recurring revenue & scalable infras in dublin:dublin",
+      "target_name": "HVAC Company With Recurring Revenue & Scalable Infras In Dublin",
+      "slug": "name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-hvac-with-recurring-revenue-scalable-infras-in-dublin-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:turnkey dental practice with expansion potential in dublin:dublin",
+      "target_name": "Turnkey Dental Practice With Expansion Potential In Dublin",
+      "slug": "name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:yoga studio for sale dublin 15 60 000:dublin",
       "target_name": "Yoga Studio For Sale Dublin 15 | €60,000",
       "slug": "name-county-yoga-studio-for-sale-dublin-15-60-000-dublin",
@@ -780,6 +870,40 @@
       }
     },
     {
+      "identity_key": "name_county:established industrial engineering & mechanical services business:dublin",
+      "target_name": "Established Industrial Engineering & Mechanical Services Business",
+      "slug": "name-county-established-industrial-engineering-mechanical-services-business-dublin",
+      "readiness": "watch_memo_only",
+      "score": 58.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-industrial-engineering-mechanical-services-business-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:well established snack distribution business in dublin:dublin",
+      "target_name": "Well-established Snack Distribution Business In Dublin",
+      "slug": "name-county-well-established-snack-distribution-business-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 58.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:traditional irish pub in galway city:galway",
       "target_name": "Traditional Irish Pub in Galway City",
       "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
@@ -794,6 +918,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:chartered physiotherapy clinic in leinster:dublin",
+      "target_name": "Chartered Physiotherapy Clinic In Leinster",
+      "slug": "name-county-chartered-physiotherapy-clinic-in-leinster-dublin",
+      "readiness": "watch_memo_only",
+      "score": 57.1,
+      "evidence_gap_count": 5,
+      "relative_html": "ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-chartered-physiotherapy-clinic-in-leinster-dublin/ic_draft.html"
       }
     },
     {
@@ -865,6 +1006,23 @@
       }
     },
     {
+      "identity_key": "name_county:restaurant and café stylish fit out and strong brand:dublin",
+      "target_name": "Restaurant And Café Stylish Fit Out And Strong Brand",
+      "slug": "name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin",
+      "readiness": "watch_memo_only",
+      "score": 55.4,
+      "evidence_gap_count": 5,
+      "relative_html": "ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-caf-stylish-fit-out-and-strong-brand-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:traditional turkish barbers city centre location:galway",
       "target_name": "Traditional Turkish Barbers-city Centre Location",
       "slug": "name-county-traditional-turkish-barbers-city-centre-location-galway",
@@ -896,6 +1054,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-b-b-business-prestigious-west-of-ireland-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-luxury-b-b-business-prestigious-west-of-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-luxury-b-b-business-prestigious-west-of-ireland-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:speciality bread manufacturer in dublin:dublin",
+      "target_name": "Speciality Bread Manufacturer In Dublin",
+      "slug": "name-county-speciality-bread-manufacturer-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 53.6,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.html"
       }
     },
     {
@@ -1001,6 +1176,23 @@
       }
     },
     {
+      "identity_key": "name_county:award winning luxury beauty salon absentee owner:dublin",
+      "target_name": "Award-Winning Luxury Beauty Salon-Absentee Owner",
+      "slug": "name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:east galway tyres:galway",
       "target_name": "East Galway Tyres Limited",
       "slug": "name-county-east-galway-tyres-galway",
@@ -1103,6 +1295,23 @@
       }
     },
     {
+      "identity_key": "name_county:well established floral & gifting business w strong brand pres in dublin:dublin",
+      "target_name": "Well-Established Floral & Gifting Business W/Strong Brand Pres In Dublin",
+      "slug": "name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 49.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-floral-gifting-business-w-strong-brand-pres-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:sandyford to dublin airport taxi service:dublin",
       "target_name": "Sandyford to Dublin Airport Taxi Service",
       "slug": "name-county-sandyford-to-dublin-airport-taxi-service-dublin",
@@ -1188,6 +1397,74 @@
       }
     },
     {
+      "identity_key": "name_county:established gas heating servicing and repair in dublin:dublin",
+      "target_name": "Established Gas Heating Servicing And Repair Company In Dublin",
+      "slug": "name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-gas-heating-servicing-and-repair-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established nail and beauty salon in north dublin:dublin",
+      "target_name": "Established Nail And Beauty Salon In North Dublin",
+      "slug": "name-county-established-nail-and-beauty-salon-in-north-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-nail-and-beauty-salon-in-north-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established premium hair salon seller financing available in dublin:dublin",
+      "target_name": "Established Premium Hair Salon | Seller Financing Available In Dublin",
+      "slug": "name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-premium-hair-salon-seller-financing-available-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established removals & transport business in dublin 11:dublin",
+      "target_name": "Established Removals & Transport Business In Dublin 11",
+      "slug": "name-county-established-removals-transport-business-in-dublin-11-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-removals-transport-business-in-dublin-11-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:hair and beauty salon in dublin city centre:dublin",
       "target_name": "Hair And Beauty Salon In Dublin City Centre",
       "slug": "name-county-hair-and-beauty-salon-in-dublin-city-centre-dublin",
@@ -1205,6 +1482,91 @@
       }
     },
     {
+      "identity_key": "name_county:high end established south city barbershop:dublin",
+      "target_name": "High-end Established South City Barbershop",
+      "slug": "name-county-high-end-established-south-city-barbershop-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-high-end-established-south-city-barbershop-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-high-end-established-south-city-barbershop-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-established-south-city-barbershop-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-established-south-city-barbershop-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-established-south-city-barbershop-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-high-end-established-south-city-barbershop-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-high-end-established-south-city-barbershop-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:premier hair salon iconic brand in dublin:dublin",
+      "target_name": "Premier Hair Salon Iconic Brand In Dublin",
+      "slug": "name-county-premier-hair-salon-iconic-brand-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-premier-hair-salon-iconic-brand-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:premium hospitality opportunity in south dublin:dublin",
+      "target_name": "Premium Hospitality Opportunity In South Dublin",
+      "slug": "name-county-premium-hospitality-opportunity-in-south-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-premium-hospitality-opportunity-in-south-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:premium multi salon operation with specialized services:dublin",
+      "target_name": "Premium Multi-Salon Operation With Specialized Services",
+      "slug": "name-county-premium-multi-salon-operation-with-specialized-services-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-premium-multi-salon-operation-with-specialized-services-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable dry cleaning business in prime dublin location:dublin",
+      "target_name": "Profitable Dry Cleaning Business In Prime Dublin Location",
+      "slug": "name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-dry-cleaning-business-in-prime-dublin-location-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:restaurent:dublin",
       "target_name": "Restaurent",
       "slug": "name-county-restaurent-dublin",
@@ -1219,6 +1581,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurent-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-restaurent-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-restaurent-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:well established bikram yoga business turnkey operation:dublin",
+      "target_name": "Well-established Bikram Yoga Business – Turnkey Operation",
+      "slug": "name-county-well-established-bikram-yoga-business-turnkey-operation-dublin",
+      "readiness": "watch_memo_only",
+      "score": 48.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-bikram-yoga-business-turnkey-operation-dublin/ic_draft.html"
       }
     },
     {
@@ -1256,6 +1635,23 @@
       }
     },
     {
+      "identity_key": "name_county:established fully fitted barbershop absentee ownership:dublin",
+      "target_name": "Established, Fully Fitted Barbershop – Absentee Ownership",
+      "slug": "name-county-established-fully-fitted-barbershop-absentee-ownership-dublin",
+      "readiness": "watch_memo_only",
+      "score": 47.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-fully-fitted-barbershop-absentee-ownership-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:established hair salon in galway city centre:galway",
       "target_name": "Established Hair Salon In Galway City Centre",
       "slug": "name-county-established-hair-salon-in-galway-city-centre-galway",
@@ -1287,6 +1683,40 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-cafe-in-lucan-village-for-sub-let-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-successful-cafe-in-lucan-village-for-sub-let-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-successful-cafe-in-lucan-village-for-sub-let-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:town centre pub with full kitchen & seating in dublin:dublin",
+      "target_name": "Town Centre Pub With Full Kitchen & Seating In Dublin",
+      "slug": "name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 47.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-town-centre-pub-with-full-kitchen-seating-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:well positioned beauty & aesthetics clinic with growth potential:dublin",
+      "target_name": "Well-positioned Beauty & Aesthetics Clinic With Growth Potential",
+      "slug": "name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin",
+      "readiness": "watch_memo_only",
+      "score": 47.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-positioned-beauty-aesthetics-clinic-with-growth-potential-dublin/ic_draft.html"
       }
     },
     {
@@ -1358,6 +1788,125 @@
       }
     },
     {
+      "identity_key": "name_county:established café and restaurant with catering:dublin",
+      "target_name": "Established Café And Restaurant With Catering",
+      "slug": "name-county-established-caf-and-restaurant-with-catering-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-caf-and-restaurant-with-catering-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established florist business with strong growth potential:dublin",
+      "target_name": "Established Florist Business With Strong Growth Potential",
+      "slug": "name-county-established-florist-business-with-strong-growth-potential-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-florist-business-with-strong-growth-potential-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established print and branding studio w loyal client base:dublin",
+      "target_name": "Established Print And Branding Studio W/loyal Client Base",
+      "slug": "name-county-established-print-and-branding-studio-w-loyal-client-base-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-print-and-branding-studio-w-loyal-client-base-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:floral & gift boutique absentee owner in dublin:dublin",
+      "target_name": "Floral & Gift Boutique - Absentee Owner In Dublin",
+      "slug": "name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-floral-gift-boutique-absentee-owner-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:high end sustainable hairdressing salon in south dublin:dublin",
+      "target_name": "High-End Sustainable Hairdressing Salon In South Dublin",
+      "slug": "name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-high-end-sustainable-hairdressing-salon-in-south-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:multi branch retail health business:dublin",
+      "target_name": "Multi-Branch Retail Health Business",
+      "slug": "name-county-multi-branch-retail-health-business-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-multi-branch-retail-health-business-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-multi-branch-retail-health-business-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-retail-health-business-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-retail-health-business-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-retail-health-business-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-retail-health-business-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-retail-health-business-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:pub lease for sale dublin:dublin",
+      "target_name": "Pub Lease For Sale Dublin",
+      "slug": "name-county-pub-lease-for-sale-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-pub-lease-for-sale-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-pub-lease-for-sale-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-lease-for-sale-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-lease-for-sale-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-lease-for-sale-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-pub-lease-for-sale-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-pub-lease-for-sale-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:small group training gym in dublin:dublin",
       "target_name": "Small Group Training Gym In Dublin",
       "slug": "name-county-small-group-training-gym-in-dublin-dublin",
@@ -1372,6 +1921,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-small-group-training-gym-in-dublin-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-small-group-training-gym-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-small-group-training-gym-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:thriving urban barber shop with strong client base in dublin:dublin",
+      "target_name": "Thriving Urban Barber Shop With Strong Client Base in Dublin",
+      "slug": "name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 45.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-thriving-urban-barber-shop-with-strong-client-base-in-dublin-dublin/ic_draft.html"
       }
     },
     {
@@ -1440,6 +2006,38 @@
       }
     },
     {
+      "identity_key": "name_county:business opportunity ideal add on for a restaurant:dublin",
+      "target_name": "Business Opportunity, Ideal Add-on For A Restaurant",
+      "slug": "name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:exceptionally popular kids play centre in dublin:dublin",
+      "target_name": "Exceptionally Popular Kids Play Centre In Dublin",
+      "slug": "name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-exceptionally-popular-kids-play-centre-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:freehold commercial residential accommodation l 88 400 pa rental:galway",
       "target_name": "Freehold Commercial Residential Accommodation l €88,400 PA Rental",
       "slug": "name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway",
@@ -1453,6 +2051,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-residential-accommodation-l-88-400-pa-rental-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:invest in a digitally creative graphics platform:dublin",
+      "target_name": "Invest In A Digitally Creative Graphics Platform",
+      "slug": "name-county-invest-in-a-digitally-creative-graphics-platform-dublin",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-invest-in-a-digitally-creative-graphics-platform-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-invest-in-a-digitally-creative-graphics-platform-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-invest-in-a-digitally-creative-graphics-platform-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-invest-in-a-digitally-creative-graphics-platform-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-invest-in-a-digitally-creative-graphics-platform-dublin/watch_note.md"
       }
     },
     {
@@ -1504,6 +2118,22 @@
       }
     },
     {
+      "identity_key": "name_county:turnkey gym in prime location in dublin:dublin",
+      "target_name": "Turnkey Gym In Prime Location In Dublin",
+      "slug": "name-county-turnkey-gym-in-prime-location-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 43.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-turnkey-gym-in-prime-location-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-gym-in-prime-location-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-gym-in-prime-location-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-gym-in-prime-location-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-gym-in-prime-location-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "cro:359827",
       "target_name": "A.E.D. SECURITY INSTALLATIONS LIMITED",
       "slug": "cro-359827",
@@ -1549,6 +2179,102 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-718110/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-718110/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-718110/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:established highly profitable newsagent south dublin:dublin",
+      "target_name": "Established Highly Profitable Newsagent South Dublin",
+      "slug": "name-county-established-highly-profitable-newsagent-south-dublin-dublin",
+      "readiness": "blocked",
+      "score": 42.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-established-highly-profitable-newsagent-south-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-highly-profitable-newsagent-south-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-highly-profitable-newsagent-south-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-highly-profitable-newsagent-south-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-established-highly-profitable-newsagent-south-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:established online fashion retailer with loyal customer base:dublin",
+      "target_name": "Established Online Fashion Retailer With Loyal Customer Base",
+      "slug": "name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin",
+      "readiness": "blocked",
+      "score": 42.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-established-online-fashion-retailer-with-loyal-customer-base-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:leading medical training in dublin:dublin",
+      "target_name": "Leading Medical Training Company In Dublin",
+      "slug": "name-county-leading-medical-training-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 42.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-leading-medical-training-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-medical-training-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-medical-training-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-leading-medical-training-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-leading-medical-training-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:medical aesthetic clinic:dublin",
+      "target_name": "Medical Aesthetic Clinic",
+      "slug": "name-county-medical-aesthetic-clinic-dublin",
+      "readiness": "blocked",
+      "score": 42.0,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-medical-aesthetic-clinic-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-medical-aesthetic-clinic-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-medical-aesthetic-clinic-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-medical-aesthetic-clinic-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-medical-aesthetic-clinic-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:cappuccino bar:dublin",
+      "target_name": "The Cappuccino Bar",
+      "slug": "name-county-cappuccino-bar-dublin",
+      "readiness": "blocked",
+      "score": 41.9,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-cappuccino-bar-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-cappuccino-bar-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-cappuccino-bar-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-cappuccino-bar-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-cappuccino-bar-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:successful pizza business in north dublin:dublin",
+      "target_name": "Successful Pizza Business In North Dublin",
+      "slug": "name-county-successful-pizza-business-in-north-dublin-dublin",
+      "readiness": "blocked",
+      "score": 41.9,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-successful-pizza-business-in-north-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-pizza-business-in-north-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-pizza-business-in-north-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-pizza-business-in-north-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-successful-pizza-business-in-north-dublin-dublin/watch_note.md"
       }
     },
     {
@@ -1616,6 +2342,38 @@
       }
     },
     {
+      "identity_key": "name_county:greenfeet lawn care franchise in south dublin:dublin",
+      "target_name": "Greenfeet Lawn Care Franchise in South Dublin",
+      "slug": "name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin",
+      "readiness": "blocked",
+      "score": 39.7,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-greenfeet-lawn-care-franchise-in-south-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:activewear brand online business:dublin",
+      "target_name": "Activewear Brand Online Business",
+      "slug": "name-county-activewear-brand-online-business-dublin",
+      "readiness": "blocked",
+      "score": 39.3,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-activewear-brand-online-business-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-activewear-brand-online-business-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-activewear-brand-online-business-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-activewear-brand-online-business-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-activewear-brand-online-business-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:established pizzeria killarney:galway",
       "target_name": "Established Pizzeria Killarney",
       "slug": "name-county-established-pizzeria-killarney-galway",
@@ -1677,6 +2435,38 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-commercial-kitchen-and-food-production-facility-dublin/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-commercial-kitchen-and-food-production-facility-dublin/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-commercial-kitchen-and-food-production-facility-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:e commerce store l 1200pm profits:dublin",
+      "target_name": "E-commerce Store l €1200PM Profits",
+      "slug": "name-county-e-commerce-store-l-1200pm-profits-dublin",
+      "readiness": "blocked",
+      "score": 38.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-e-commerce-store-l-1200pm-profits-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-e-commerce-store-l-1200pm-profits-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-e-commerce-store-l-1200pm-profits-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-e-commerce-store-l-1200pm-profits-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-e-commerce-store-l-1200pm-profits-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:exceptional restaurant takeaway:dublin",
+      "target_name": "Exceptional Restaurant, Takeaway",
+      "slug": "name-county-exceptional-restaurant-takeaway-dublin",
+      "readiness": "blocked",
+      "score": 38.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-exceptional-restaurant-takeaway-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptional-restaurant-takeaway-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptional-restaurant-takeaway-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-exceptional-restaurant-takeaway-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-exceptional-restaurant-takeaway-dublin/watch_note.md"
       }
     },
     {
@@ -1952,6 +2742,38 @@
       }
     },
     {
+      "identity_key": "name_county:filling stations:dublin",
+      "target_name": "Filling Stations",
+      "slug": "name-county-filling-stations-dublin",
+      "readiness": "blocked",
+      "score": 35.9,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-filling-stations-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-filling-stations-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-filling-stations-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-filling-stations-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-filling-stations-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable and high potential natural juices business ireland:dublin",
+      "target_name": "Profitable And High Potential Natural Juices Business Ireland",
+      "slug": "name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin",
+      "readiness": "blocked",
+      "score": 35.9,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-and-high-potential-natural-juices-business-ireland-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:catering business equity stake for sale in galway:galway",
       "target_name": "Catering Business Equity Stake For Sale in Galway",
       "slug": "name-county-catering-business-equity-stake-for-sale-in-galway-galway",
@@ -2144,6 +2966,22 @@
       }
     },
     {
+      "identity_key": "name_county:high end pizza franchise only 5 000:dublin",
+      "target_name": "High End Pizza Franchise - Only €5,000",
+      "slug": "name-county-high-end-pizza-franchise-only-5-000-dublin",
+      "readiness": "blocked",
+      "score": 29.6,
+      "evidence_gap_count": 4,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-high-end-pizza-franchise-only-5-000-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:best energy energy monitoring franchise in dublin:dublin",
       "target_name": "Best.Energy - Energy Monitoring Franchise in Dublin",
       "slug": "name-county-best-energy-energy-monitoring-franchise-in-dublin-dublin",
@@ -2288,6 +3126,22 @@
       }
     },
     {
+      "identity_key": "name_county:bonordic in dublin:dublin",
+      "target_name": "Bonordic in Dublin",
+      "slug": "name-county-bonordic-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 23.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in galway:galway",
       "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
       "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway",
@@ -2301,6 +3155,54 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in swords:dublin",
+      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
+      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin",
+      "readiness": "blocked",
+      "score": 23.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:energie fitness in dublin:dublin",
+      "target_name": "Energie fitness in Dublin",
+      "slug": "name-county-energie-fitness-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 23.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:energie fitness in swords:dublin",
+      "target_name": "Energie fitness in Swords",
+      "slug": "name-county-energie-fitness-in-swords-dublin",
+      "readiness": "blocked",
+      "score": 23.6,
+      "evidence_gap_count": 5,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md"
       }
     },
     {

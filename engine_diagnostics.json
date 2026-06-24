@@ -1,74 +1,74 @@
 {
-  "assessment_count": 137,
+  "assessment_count": 191,
   "component_stats": {
     "succession_fit": {
-      "count": 137,
-      "mean": 44.7,
-      "median": 40.0,
+      "count": 191,
+      "mean": 41.1,
+      "median": 35.8,
       "min": 0.0,
       "max": 98.2
     },
     "business_quality": {
-      "count": 137,
-      "mean": 48.2,
+      "count": 191,
+      "mean": 45.1,
       "median": 37.0,
       "min": 12.0,
       "max": 100.0
     },
     "deal_readiness": {
-      "count": 137,
-      "mean": 58.5,
-      "median": 58.0,
+      "count": 191,
+      "mean": 62.7,
+      "median": 63.0,
       "min": 38.0,
       "max": 98.0
     },
     "macro_policy": {
-      "count": 137,
-      "mean": 51.3,
+      "count": 191,
+      "mean": 50.9,
       "median": 52.0,
       "min": 37.0,
       "max": 97.0
     },
     "combined": {
-      "count": 137,
-      "mean": 49.8,
-      "median": 48.0,
+      "count": 191,
+      "mean": 48.6,
+      "median": 47.0,
       "min": 23.6,
       "max": 84.2
     }
   },
   "weakest_component_counts": {
-    "business_quality": 46,
+    "business_quality": 57,
     "deal_readiness": 32,
     "macro_policy": 13,
-    "succession_fit": 46
+    "succession_fit": 89
   },
   "by_county": [
     {
       "county": "Dublin",
-      "count": 25,
+      "count": 79,
       "combined": {
-        "count": 25,
-        "mean": 39.3,
-        "median": 39.3,
+        "count": 79,
+        "mean": 43.6,
+        "median": 45.3,
         "min": 23.6,
-        "max": 61.4
+        "max": 64.1
       },
       "succession_fit": {
-        "count": 25,
-        "mean": 20.6,
-        "median": 27.0,
+        "count": 79,
+        "mean": 28.3,
+        "median": 35.0,
         "min": 0.0,
         "max": 55.0
       },
       "macro_policy": {
-        "count": 25,
-        "mean": 53.2,
+        "count": 79,
+        "mean": 50.9,
         "median": 52.0,
         "min": 37.0,
         "max": 82.0
       },
-      "top_target": "Yoga Studio For Sale Dublin 15 | €60,000"
+      "top_target": "Award Winning Beauty Salon With Prime Location"
     },
     {
       "county": "Galway",
@@ -100,24 +100,24 @@
   "by_sector": [
     {
       "sector": "Automotive",
-      "count": 5,
+      "count": 6,
       "combined": {
-        "count": 5,
-        "mean": 56.0,
+        "count": 6,
+        "mean": 54.6,
         "median": 50.5,
         "min": 39.3,
         "max": 72.3
       },
       "succession_fit": {
-        "count": 5,
-        "mean": 55.9,
+        "count": 6,
+        "mean": 52.4,
         "median": 46.8,
         "min": 27.0,
         "max": 81.2
       },
       "macro_policy": {
-        "count": 5,
-        "mean": 49.0,
+        "count": 6,
+        "mean": 49.5,
         "median": 52.0,
         "min": 37.0,
         "max": 52.0
@@ -126,24 +126,24 @@
     },
     {
       "sector": "Business Services",
-      "count": 35,
+      "count": 62,
       "combined": {
-        "count": 35,
-        "mean": 46.6,
-        "median": 45.3,
+        "count": 62,
+        "mean": 44.6,
+        "median": 45.0,
         "min": 23.6,
         "max": 73.0
       },
       "succession_fit": {
-        "count": 35,
-        "mean": 35.7,
-        "median": 35.0,
+        "count": 62,
+        "mean": 32.0,
+        "median": 33.5,
         "min": 0.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 35,
-        "mean": 55.9,
+        "count": 62,
+        "mean": 51.3,
         "median": 52.0,
         "min": 37.0,
         "max": 82.0
@@ -204,23 +204,23 @@
     },
     {
       "sector": "Construction & Built Environment",
-      "count": 9,
+      "count": 10,
       "combined": {
-        "count": 9,
-        "mean": 67.5,
+        "count": 10,
+        "mean": 66.3,
         "median": 62.2,
         "min": 55.4,
         "max": 84.0
       },
       "succession_fit": {
-        "count": 9,
-        "mean": 70.4,
+        "count": 10,
+        "mean": 68.1,
         "median": 61.8,
         "min": 47.0,
         "max": 97.5
       },
       "macro_policy": {
-        "count": 9,
+        "count": 10,
         "mean": 67.0,
         "median": 67.0,
         "min": 67.0,
@@ -334,25 +334,25 @@
     },
     {
       "sector": "Food & Agribusiness",
-      "count": 6,
+      "count": 8,
       "combined": {
-        "count": 6,
-        "mean": 61.5,
-        "median": 60.8,
+        "count": 8,
+        "mean": 60.2,
+        "median": 59.0,
         "min": 51.9,
         "max": 79.1
       },
       "succession_fit": {
-        "count": 6,
-        "mean": 53.8,
+        "count": 8,
+        "mean": 52.2,
         "median": 51.9,
         "min": 35.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 6,
-        "mean": 62.0,
-        "median": 67.0,
+        "count": 8,
+        "mean": 59.5,
+        "median": 59.5,
         "min": 52.0,
         "max": 67.0
       },
@@ -386,50 +386,50 @@
     },
     {
       "sector": "Healthcare & Life Sciences",
-      "count": 1,
+      "count": 5,
       "combined": {
-        "count": 1,
-        "mean": 71.4,
-        "median": 71.4,
-        "min": 71.4,
+        "count": 5,
+        "mean": 63.6,
+        "median": 64.1,
+        "min": 57.1,
         "max": 71.4
       },
       "succession_fit": {
-        "count": 1,
-        "mean": 81.8,
-        "median": 81.8,
-        "min": 81.8,
+        "count": 5,
+        "mean": 59.8,
+        "median": 55.0,
+        "min": 52.0,
         "max": 81.8
       },
       "macro_policy": {
-        "count": 1,
-        "mean": 67.0,
+        "count": 5,
+        "mean": 73.0,
         "median": 67.0,
         "min": 67.0,
-        "max": 67.0
+        "max": 82.0
       },
       "top_target": "Primary Care (Galway City East Health Centre) Limited"
     },
     {
       "sector": "Hospitality & Tourism",
-      "count": 12,
+      "count": 20,
       "combined": {
-        "count": 12,
-        "mean": 45.0,
-        "median": 46.0,
+        "count": 20,
+        "mean": 44.0,
+        "median": 45.3,
         "min": 28.7,
         "max": 59.5
       },
       "succession_fit": {
-        "count": 12,
-        "mean": 33.2,
+        "count": 20,
+        "mean": 30.5,
         "median": 35.0,
-        "min": 7.0,
+        "min": 0.0,
         "max": 66.2
       },
       "macro_policy": {
-        "count": 12,
-        "mean": 47.0,
+        "count": 20,
+        "mean": 46.0,
         "median": 52.0,
         "min": 37.0,
         "max": 67.0
@@ -438,24 +438,24 @@
     },
     {
       "sector": "Industrials & Engineering",
-      "count": 6,
+      "count": 8,
       "combined": {
-        "count": 6,
-        "mean": 77.1,
-        "median": 80.4,
+        "count": 8,
+        "mean": 72.8,
+        "median": 79.1,
         "min": 57.0,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 6,
-        "mean": 85.8,
-        "median": 91.7,
+        "count": 8,
+        "mean": 78.1,
+        "median": 90.2,
         "min": 50.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 6,
-        "mean": 69.5,
+        "count": 8,
+        "mean": 67.0,
         "median": 67.0,
         "min": 52.0,
         "max": 82.0
@@ -568,27 +568,27 @@
     },
     {
       "sector": "Retail & Consumer",
-      "count": 7,
+      "count": 16,
       "combined": {
-        "count": 7,
-        "mean": 47.9,
-        "median": 47.0,
-        "min": 38.6,
+        "count": 16,
+        "mean": 46.2,
+        "median": 47.5,
+        "min": 23.6,
         "max": 74.2
       },
       "succession_fit": {
-        "count": 7,
-        "mean": 37.7,
+        "count": 16,
+        "mean": 33.3,
         "median": 35.0,
-        "min": 17.0,
+        "min": 0.0,
         "max": 80.0
       },
       "macro_policy": {
-        "count": 7,
-        "mean": 45.6,
+        "count": 16,
+        "mean": 49.2,
         "median": 52.0,
         "min": 37.0,
-        "max": 52.0
+        "max": 82.0
       },
       "top_target": "Profitable Commercial Nursery for Sale in Galway"
     },
@@ -857,8 +857,60 @@
   ],
   "low_confidence_targets": [
     {
+      "name": "Bonordic in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Retail & Consumer",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
       "name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
       "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Energie fitness in Dublin",
+      "county": "Dublin",
+      "local_area": "Unknown",
+      "sector": "Business Services",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 0.0,
+      "business_quality": 12.0,
+      "deal_readiness": 63.0,
+      "macro_policy": 37.0,
+      "combined": 23.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Energie fitness in Swords",
+      "county": "Dublin",
       "local_area": "Unknown",
       "sector": "Business Services",
       "next_action": "defer_until_new_evidence",
@@ -932,58 +984,6 @@
       "deal_readiness": 63.0,
       "macro_policy": 52.0,
       "combined": 26.3,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "Specialist Glass Repairs - Glass & Acrylic Repair Franchise in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "WeddingBox Event Planning Franchise in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "Multi-Site Fitness Franchise Portfolio – Ireland",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 2.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 27.0,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "Franchise Pizzeria Restaurant l 3 Bed Apartment Galway",
-      "county": "Galway",
-      "local_area": "Galway City, Galway, Ireland",
-      "sector": "Hospitality & Tourism",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 7.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 28.7,
       "weakest_component": "succession_fit"
     }
   ],

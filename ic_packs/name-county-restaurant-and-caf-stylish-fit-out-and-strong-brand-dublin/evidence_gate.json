@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:restaurant and café stylish fit out and strong brand:dublin",
+  "target_name": "Restaurant And Café Stylish Fit Out And Strong Brand",
+  "readiness": "watch_memo_only",
+  "score": 55.4,
+  "evidence_gap_count": 5,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

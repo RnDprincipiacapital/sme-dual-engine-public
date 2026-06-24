@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:premier hair salon iconic brand in dublin:dublin",
+  "target_name": "Premier Hair Salon Iconic Brand In Dublin",
+  "readiness": "watch_memo_only",
+  "score": 48.0,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

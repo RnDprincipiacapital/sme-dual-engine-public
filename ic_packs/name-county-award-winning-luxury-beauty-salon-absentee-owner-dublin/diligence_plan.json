@@ -1,0 +1,44 @@
+{
+  "target_identity": "Award-Winning Luxury Beauty Salon-Absentee Owner",
+  "stage": "watchlist",
+  "decision_gate": "monitor until new transaction or company evidence appears",
+  "evidence_gaps": [
+    "CRO/company number not linked",
+    "direct contact route missing",
+    "company age unavailable",
+    "registered address unavailable"
+  ],
+  "questions": [
+    {
+      "category": "corporate_identity",
+      "question": "Confirm legal entity, CRO number, status, directors, filings, and group structure.",
+      "priority": "high",
+      "evidence_needed": [
+        "CRO profile",
+        "latest annual return",
+        "director list"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "seller_access",
+      "question": "Find a verified phone, email, owner/director contact, or advisor route.",
+      "priority": "high",
+      "evidence_needed": [
+        "phone",
+        "email",
+        "director LinkedIn",
+        "advisor/listing page"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "keep_on_watchlist",
+    "monitor until new transaction or company evidence appears",
+    "close evidence gap: CRO/company number not linked",
+    "close evidence gap: direct contact route missing",
+    "close evidence gap: company age unavailable",
+    "close evidence gap: registered address unavailable"
+  ]
+}

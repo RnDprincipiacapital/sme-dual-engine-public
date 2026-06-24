@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:successful pizza business in north dublin:dublin",
+  "target_name": "Successful Pizza Business In North Dublin",
+  "readiness": "blocked",
+  "score": 41.9,
+  "evidence_gap_count": 4,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

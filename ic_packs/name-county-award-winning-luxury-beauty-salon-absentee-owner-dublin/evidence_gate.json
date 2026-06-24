@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:award winning luxury beauty salon absentee owner:dublin",
+  "target_name": "Award-Winning Luxury Beauty Salon-Absentee Owner",
+  "readiness": "watch_memo_only",
+  "score": 50.7,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}
