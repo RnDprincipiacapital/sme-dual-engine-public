@@ -30,6 +30,7 @@
   "collection_progress_report": "collection_progress.md",
   "sale_listing_refresh": "sale_listing_refresh.json",
   "sale_listing_refresh_report": "sale_listing_refresh.md",
+  "sme_taxonomy_coverage": "sme_taxonomy_coverage.json",
   "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
   "cso_business_demography_benchmark_json": "benchmarks/cso-business-demography-benchmark-2023.json",
   "public_repo": ".",
