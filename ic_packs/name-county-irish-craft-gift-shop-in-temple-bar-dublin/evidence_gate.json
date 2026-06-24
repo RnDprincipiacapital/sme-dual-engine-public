@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:irish craft & gift shop in temple bar:dublin",
+  "target_name": "Irish Craft & Gift Shop in Temple Bar",
+  "readiness": "watch_memo_only",
+  "score": 47.5,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

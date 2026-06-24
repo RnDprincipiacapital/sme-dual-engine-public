@@ -1,68 +1,94 @@
 {
-  "assessment_count": 191,
+  "assessment_count": 197,
   "component_stats": {
     "succession_fit": {
-      "count": 191,
+      "count": 197,
       "mean": 41.1,
       "median": 35.8,
       "min": 0.0,
       "max": 98.2
     },
     "business_quality": {
-      "count": 191,
+      "count": 197,
       "mean": 45.1,
       "median": 37.0,
       "min": 12.0,
       "max": 100.0
     },
     "deal_readiness": {
-      "count": 191,
-      "mean": 62.7,
+      "count": 197,
+      "mean": 63.2,
       "median": 63.0,
       "min": 38.0,
       "max": 98.0
     },
     "macro_policy": {
-      "count": 191,
-      "mean": 50.9,
+      "count": 197,
+      "mean": 51.2,
       "median": 52.0,
       "min": 37.0,
       "max": 97.0
     },
     "combined": {
-      "count": 191,
-      "mean": 48.6,
-      "median": 47.0,
+      "count": 197,
+      "mean": 48.8,
+      "median": 47.1,
       "min": 23.6,
       "max": 84.2
     }
   },
   "weakest_component_counts": {
-    "business_quality": 57,
+    "business_quality": 59,
     "deal_readiness": 32,
     "macro_policy": 13,
-    "succession_fit": 89
+    "succession_fit": 93
   },
   "by_county": [
     {
-      "county": "Dublin",
-      "count": 79,
+      "county": "Cork",
+      "count": 2,
       "combined": {
-        "count": 79,
-        "mean": 43.6,
+        "count": 2,
+        "mean": 57.2,
+        "median": 57.2,
+        "min": 47.5,
+        "max": 67.0
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 46.0,
+        "median": 46.0,
+        "min": 31.0,
+        "max": 61.0
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 52.0,
+        "max": 82.0
+      },
+      "top_target": "Food Production Company in Cork"
+    },
+    {
+      "county": "Dublin",
+      "count": 81,
+      "combined": {
+        "count": 81,
+        "mean": 43.7,
         "median": 45.3,
         "min": 23.6,
         "max": 64.1
       },
       "succession_fit": {
-        "count": 79,
-        "mean": 28.3,
+        "count": 81,
+        "mean": 28.4,
         "median": 35.0,
         "min": 0.0,
         "max": 55.0
       },
       "macro_policy": {
-        "count": 79,
+        "count": 81,
         "mean": 50.9,
         "median": 52.0,
         "min": 37.0,
@@ -95,6 +121,58 @@
         "max": 97.0
       },
       "top_target": "Airflow Air Refrigeration (Galway) Limited"
+    },
+    {
+      "county": "Kerry",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 47.5,
+        "median": 47.5,
+        "min": 47.5,
+        "max": 47.5
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 31.0,
+        "median": 31.0,
+        "min": 31.0,
+        "max": 31.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 52.0,
+        "max": 52.0
+      },
+      "top_target": "Boutique Hotel in Killarney"
+    },
+    {
+      "county": "Limerick",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 64.3,
+        "median": 64.3,
+        "min": 64.3,
+        "max": 64.3
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 61.0,
+        "median": 61.0,
+        "min": 61.0,
+        "max": 61.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Food Distribution Company in Limerick"
     }
   ],
   "by_sector": [
@@ -126,23 +204,23 @@
     },
     {
       "sector": "Business Services",
-      "count": 62,
+      "count": 63,
       "combined": {
-        "count": 62,
-        "mean": 44.6,
-        "median": 45.0,
+        "count": 63,
+        "mean": 44.7,
+        "median": 45.3,
         "min": 23.6,
         "max": 73.0
       },
       "succession_fit": {
-        "count": 62,
+        "count": 63,
         "mean": 32.0,
-        "median": 33.5,
+        "median": 32.0,
         "min": 0.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 62,
+        "count": 63,
         "mean": 51.3,
         "median": 52.0,
         "min": 37.0,
@@ -334,25 +412,25 @@
     },
     {
       "sector": "Food & Agribusiness",
-      "count": 8,
+      "count": 9,
       "combined": {
-        "count": 8,
-        "mean": 60.2,
-        "median": 59.0,
+        "count": 9,
+        "mean": 60.7,
+        "median": 59.2,
         "min": 51.9,
         "max": 79.1
       },
       "succession_fit": {
-        "count": 8,
-        "mean": 52.2,
-        "median": 51.9,
+        "count": 9,
+        "mean": 53.2,
+        "median": 52.5,
         "min": 35.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 8,
-        "mean": 59.5,
-        "median": 59.5,
+        "count": 9,
+        "mean": 60.3,
+        "median": 67.0,
         "min": 52.0,
         "max": 67.0
       },
@@ -363,17 +441,17 @@
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 58.5,
-        "median": 58.5,
-        "min": 58.5,
-        "max": 58.5
+        "mean": 60.8,
+        "median": 60.8,
+        "min": 60.8,
+        "max": 60.8
       },
       "succession_fit": {
         "count": 1,
-        "mean": 52.5,
-        "median": 52.5,
-        "min": 52.5,
-        "max": 52.5
+        "mean": 57.0,
+        "median": 57.0,
+        "min": 57.0,
+        "max": 57.0
       },
       "macro_policy": {
         "count": 1,
@@ -412,24 +490,24 @@
     },
     {
       "sector": "Hospitality & Tourism",
-      "count": 20,
+      "count": 22,
       "combined": {
-        "count": 20,
-        "mean": 44.0,
-        "median": 45.3,
+        "count": 22,
+        "mean": 44.3,
+        "median": 45.5,
         "min": 28.7,
         "max": 59.5
       },
       "succession_fit": {
-        "count": 20,
-        "mean": 30.5,
-        "median": 35.0,
+        "count": 22,
+        "mean": 30.6,
+        "median": 33.0,
         "min": 0.0,
         "max": 66.2
       },
       "macro_policy": {
-        "count": 20,
-        "mean": 46.0,
+        "count": 22,
+        "mean": 46.5,
         "median": 52.0,
         "min": 37.0,
         "max": 67.0
@@ -438,24 +516,24 @@
     },
     {
       "sector": "Industrials & Engineering",
-      "count": 8,
+      "count": 9,
       "combined": {
-        "count": 8,
-        "mean": 72.8,
-        "median": 79.1,
+        "count": 9,
+        "mean": 72.2,
+        "median": 78.7,
         "min": 57.0,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 8,
-        "mean": 78.1,
-        "median": 90.2,
+        "count": 9,
+        "mean": 76.2,
+        "median": 89.2,
         "min": 50.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 8,
-        "mean": 67.0,
+        "count": 9,
+        "mean": 68.7,
         "median": 67.0,
         "min": 52.0,
         "max": 82.0
@@ -513,6 +591,32 @@
         "max": 52.0
       },
       "top_target": "A B P MANUFACTURING MACHINERY LIMITED"
+    },
+    {
+      "sector": "Media & Creative",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 47.5,
+        "median": 47.5,
+        "min": 47.5,
+        "max": 47.5
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 31.0,
+        "median": 31.0,
+        "min": 31.0,
+        "max": 31.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 52.0,
+        "max": 52.0
+      },
+      "top_target": "Digital Marketing Agency in Dublin"
     },
     {
       "sector": "Playschools",

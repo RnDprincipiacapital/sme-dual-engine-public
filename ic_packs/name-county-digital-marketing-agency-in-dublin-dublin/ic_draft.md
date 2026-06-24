@@ -1,29 +1,26 @@
-# IC Draft: Traditional Irish Pub in Galway City
+# IC Draft: Digital Marketing Agency in Dublin
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
-- Name: Traditional Irish Pub in Galway City
-- Location: Galway City Centre, Galway
-- Sector: Food & Beverage
+- Name: Digital Marketing Agency in Dublin
+- Location: Dublin, Dublin
+- Sector: Media & Creative
 - Company status: unknown
 - Company age: 8.0
-- Origination score: 60.8
-- Next action: research_and_enrich_before_outreach
+- Origination score: 47.5
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
 - public asking price enables early deal-structure screening
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
-- incorporates existing scraper fit score
-- public text contains founder/succession-style language
-- local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
 
-- Asking price: €395,000
+- Asking price: €400K-500K
 - Known financials: not yet available
 - Required financials:
 - three years revenue and EBITDA
@@ -33,8 +30,8 @@
 
 ## Macro Exposure
 
-- Macro score: 67.0
-- Matched sectors: construction, logistics
+- Macro score: 52.0
+- Matched sectors: none
 - Cash-flow scenario: policy_tailwind
 
 ## Valuation Assumptions
@@ -50,11 +47,12 @@
 - younger company may be less likely to be a succession case
 - company status unavailable
 - young company may be outside succession sweet spot
+- sector not yet mapped to a policy theme
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
@@ -62,18 +60,18 @@
 ## Source Evidence
 
 - `company_age_years` from bizbuy_ie (observed, confidence 1.0): 8.0
-- `county` from bizbuy_ie (observed, confidence 1.0): Galway
+- `county` from bizbuy_ie (observed, confidence 1.0): Dublin
 - `evidence_text` from bizbuy_ie (observed, confidence 1.0): public advertised-for-sale listing €400K-500K BizBuy.ie public listing card observed 2026-06-24.
-- `fit_decision` from bizbuy_ie (inferred, confidence 0.7): target
-- `fit_score` from bizbuy_ie (inferred, confidence 0.7): 75.0
+- `fit_decision` from bizbuy_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from bizbuy_ie (observed, confidence 1.0): False
 - `is_franchise` from bizbuy_ie (observed, confidence 1.0): False
 - `is_property_only` from bizbuy_ie (observed, confidence 1.0): False
-- `name` from bizbuy_ie (observed, confidence 1.0): Traditional Irish Pub in Galway City
-- `normalized_name` from bizbuy_ie (observed, confidence 1.0): traditional irish pub in galway city
-- `price_text` from bizbuy_ie (observed, confidence 1.0): €395,000
+- `name` from bizbuy_ie (observed, confidence 1.0): Digital Marketing Agency in Dublin
+- `normalized_name` from bizbuy_ie (observed, confidence 1.0): digital marketing agency in dublin
+- `price_text` from bizbuy_ie (observed, confidence 1.0): €400K-500K
 - `price_value` from bizbuy_ie (observed, confidence 1.0): 400000.0
-- `sector` from local_enrichment (inferred, confidence 0.55): Food & Beverage
+- `sector` from local_enrichment (inferred, confidence 0.55): Media & Creative
 - `source` from bizbuy_ie (observed, confidence 1.0): bizbuy_ie
-- `source_key` from bizbuy_ie (observed, confidence 1.0): 1
-- `source_section` from bizbuy_ie (observed, confidence 1.0): brokered_targets
+- `source_key` from bizbuy_ie (observed, confidence 1.0): ea82d8eeb3a44625
+- `source_section` from bizbuy_ie (observed, confidence 1.0): advertised_sale_listings
+- `source_url` from bizbuy_ie (observed, confidence 1.0): https://bizbuy.ie/business/5

@@ -2,8 +2,8 @@
   "status": "ok",
   "observed_at": "2026-06-24",
   "output": "galway-live-sale-listings-public.csv",
-  "row_count": 104,
-  "refreshed_row_count": 103,
+  "row_count": 111,
+  "refreshed_row_count": 110,
   "kept_existing_rows": 104,
   "sources": [
     {
@@ -41,6 +41,13 @@
           "rows": 5
         }
       ]
+    },
+    {
+      "source": "bizbuy_ie",
+      "url": "https://bizbuy.ie/buy",
+      "status": "ok",
+      "rows": 7,
+      "pages": []
     }
   ]
 }

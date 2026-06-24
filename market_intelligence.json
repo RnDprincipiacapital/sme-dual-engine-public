@@ -267,7 +267,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 17,
+      "company_count": 18,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -674,8 +674,8 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 79,
-        "review_queue_count": 79,
+        "target_count": 81,
+        "review_queue_count": 81,
         "sector_spend_rows": 6,
         "company_universe_rows": 9,
         "company_universe_total_companies": 425,
@@ -694,7 +694,7 @@
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 191,
+    "unknown_count": 197,
     "supported_thresholds": [
       50,
       55,
@@ -782,8 +782,8 @@
   "sale_listing_refresh": {
     "status": "ok",
     "observed_at": "2026-06-24",
-    "row_count": 104,
-    "refreshed_row_count": 103,
+    "row_count": 111,
+    "refreshed_row_count": 110,
     "kept_existing_rows": 104,
     "sources": [
       {
@@ -821,6 +821,13 @@
             "rows": 5
           }
         ]
+      },
+      {
+        "source": "bizbuy_ie",
+        "url": "https://bizbuy.ie/buy",
+        "status": "ok",
+        "rows": 7,
+        "pages": []
       }
     ]
   }

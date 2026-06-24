@@ -1,10 +1,10 @@
 {
-  "pack_count": 191,
+  "pack_count": 197,
   "readiness_counts": {
     "blocked": 79,
     "ic_ready": 9,
-    "research_memo_ready": 37,
-    "watch_memo_only": 66
+    "research_memo_ready": 40,
+    "watch_memo_only": 69
   },
   "packs": [
     {
@@ -350,6 +350,24 @@
       }
     },
     {
+      "identity_key": "name_county:food production in cork:cork",
+      "target_name": "Food Production Company in Cork",
+      "slug": "name-county-food-production-in-cork-cork",
+      "readiness": "research_memo_ready",
+      "score": 67.0,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:healy electrical galway:galway",
       "target_name": "Healy Electrical Galway Limited",
       "slug": "name-county-healy-electrical-galway-galway",
@@ -473,6 +491,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:food distribution in limerick:limerick",
+      "target_name": "Food Distribution Company in Limerick",
+      "slug": "name-county-food-distribution-in-limerick-limerick",
+      "readiness": "research_memo_ready",
+      "score": 64.3,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.tex"
       }
     },
     {
@@ -818,6 +854,24 @@
       }
     },
     {
+      "identity_key": "name_county:traditional irish pub in galway city:galway",
+      "target_name": "Traditional Irish Pub in Galway City",
+      "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
+      "readiness": "research_memo_ready",
+      "score": 60.8,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:iclean professional cleaning services:galway",
       "target_name": "Iclean Professional Cleaning Services Limited",
       "slug": "name-county-iclean-professional-cleaning-services-galway",
@@ -901,23 +955,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:traditional irish pub in galway city:galway",
-      "target_name": "Traditional Irish Pub in Galway City",
-      "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
-      "readiness": "watch_memo_only",
-      "score": 58.5,
-      "evidence_gap_count": 4,
-      "relative_html": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html"
       }
     },
     {
@@ -1615,6 +1652,74 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-profitable-hair-and-beauty-salon-dublin6w-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-profitable-hair-and-beauty-salon-dublin6w-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-profitable-hair-and-beauty-salon-dublin6w-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:boutique hotel in killarney:kerry",
+      "target_name": "Boutique Hotel in Killarney",
+      "slug": "name-county-boutique-hotel-in-killarney-kerry",
+      "readiness": "watch_memo_only",
+      "score": 47.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:digital marketing agency in dublin:dublin",
+      "target_name": "Digital Marketing Agency in Dublin",
+      "slug": "name-county-digital-marketing-agency-in-dublin-dublin",
+      "readiness": "watch_memo_only",
+      "score": 47.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:irish craft & gift shop in temple bar:dublin",
+      "target_name": "Irish Craft & Gift Shop in Temple Bar",
+      "slug": "name-county-irish-craft-gift-shop-in-temple-bar-dublin",
+      "readiness": "watch_memo_only",
+      "score": 47.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:tech startup in cork:cork",
+      "target_name": "Tech Startup in Cork",
+      "slug": "name-county-tech-startup-in-cork-cork",
+      "readiness": "watch_memo_only",
+      "score": 47.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.html"
       }
     },
     {

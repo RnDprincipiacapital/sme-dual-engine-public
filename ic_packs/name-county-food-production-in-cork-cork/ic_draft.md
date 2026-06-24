@@ -1,29 +1,28 @@
-# IC Draft: Traditional Irish Pub in Galway City
+# IC Draft: Food Production Company in Cork
 
 **Diligence status:** enrichment_required
 
 ## Company Overview
 
-- Name: Traditional Irish Pub in Galway City
-- Location: Galway City Centre, Galway
-- Sector: Food & Beverage
+- Name: Food Production Company in Cork
+- Location: Cork, Cork
+- Sector: Industrials & Engineering
 - Company status: unknown
 - Company age: 8.0
-- Origination score: 60.8
+- Origination score: 67.0
 - Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
 
+- sector is compatible with local owner-managed succession
 - public asking price enables early deal-structure screening
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
-- incorporates existing scraper fit score
 - public text contains founder/succession-style language
-- local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
 
-- Asking price: €395,000
+- Asking price: €400K-500K
 - Known financials: not yet available
 - Required financials:
 - three years revenue and EBITDA
@@ -33,8 +32,8 @@
 
 ## Macro Exposure
 
-- Macro score: 67.0
-- Matched sectors: construction, logistics
+- Macro score: 82.0
+- Matched sectors: logistics, manufacturing
 - Cash-flow scenario: policy_tailwind
 
 ## Valuation Assumptions
@@ -62,18 +61,18 @@
 ## Source Evidence
 
 - `company_age_years` from bizbuy_ie (observed, confidence 1.0): 8.0
-- `county` from bizbuy_ie (observed, confidence 1.0): Galway
+- `county` from bizbuy_ie (observed, confidence 1.0): Cork
 - `evidence_text` from bizbuy_ie (observed, confidence 1.0): public advertised-for-sale listing €400K-500K BizBuy.ie public listing card observed 2026-06-24.
-- `fit_decision` from bizbuy_ie (inferred, confidence 0.7): target
-- `fit_score` from bizbuy_ie (inferred, confidence 0.7): 75.0
+- `fit_decision` from bizbuy_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from bizbuy_ie (observed, confidence 1.0): False
 - `is_franchise` from bizbuy_ie (observed, confidence 1.0): False
 - `is_property_only` from bizbuy_ie (observed, confidence 1.0): False
-- `name` from bizbuy_ie (observed, confidence 1.0): Traditional Irish Pub in Galway City
-- `normalized_name` from bizbuy_ie (observed, confidence 1.0): traditional irish pub in galway city
-- `price_text` from bizbuy_ie (observed, confidence 1.0): €395,000
+- `name` from bizbuy_ie (observed, confidence 1.0): Food Production Company in Cork
+- `normalized_name` from bizbuy_ie (observed, confidence 1.0): food production in cork
+- `price_text` from bizbuy_ie (observed, confidence 1.0): €400K-500K
 - `price_value` from bizbuy_ie (observed, confidence 1.0): 400000.0
-- `sector` from local_enrichment (inferred, confidence 0.55): Food & Beverage
+- `sector` from local_enrichment (inferred, confidence 0.55): Industrials & Engineering
 - `source` from bizbuy_ie (observed, confidence 1.0): bizbuy_ie
-- `source_key` from bizbuy_ie (observed, confidence 1.0): 1
-- `source_section` from bizbuy_ie (observed, confidence 1.0): brokered_targets
+- `source_key` from bizbuy_ie (observed, confidence 1.0): 15ea0945ed203aa8
+- `source_section` from bizbuy_ie (observed, confidence 1.0): advertised_sale_listings
+- `source_url` from bizbuy_ie (observed, confidence 1.0): https://bizbuy.ie/business/3
