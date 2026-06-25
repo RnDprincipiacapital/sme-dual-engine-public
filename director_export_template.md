@@ -42,6 +42,14 @@ Use this header-only CSV shape for the approved CRO/CORE/director-level export b
 
 ## Aggregation Command
 
+Run the preflight validator first. It catches missing join keys, unsupported geography, bad ages, and rows that will be skipped before aggregation.
+
+```bash
+python3 scripts/validate_director_export.py \
+  --director-export path/to/approved-director-export.csv \
+  --strict
+```
+
 ```bash
 python3 scripts/build_director_age_import_from_export.py \
   --director-export path/to/approved-director-export.csv \

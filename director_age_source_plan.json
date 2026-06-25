@@ -79,6 +79,7 @@
   ],
   "next_actions": [
     "Obtain a director-level CRO/CORE/bulk export keyed by company number for the 108 request rows.",
+    "Preflight the director-level export with `scripts/validate_director_export.py --strict` before aggregation.",
     "Join the director-level export to the existing CRO company-count evidence by company number and active appointment status.",
     "Aggregate active companies by county, local area, and sector into director_50_plus through director_70_plus threshold counts.",
     "Validate the completed import with `scripts/validate_director_age_import.py --strict` before merging.",
