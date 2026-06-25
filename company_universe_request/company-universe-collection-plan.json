@@ -1,0 +1,1682 @@
+{
+  "status": "ready",
+  "request_rows": 108,
+  "wave_size": 20,
+  "wave_count": 6,
+  "counts": {
+    "request_rows": 108,
+    "by_county": {
+      "Dublin": 54,
+      "Galway": 54
+    },
+    "by_gap_type": {
+      "incomplete_row": 15,
+      "missing_row": 93
+    }
+  },
+  "waves": [
+    {
+      "wave": 1,
+      "priority_start": 1,
+      "priority_end": 20,
+      "row_count": 20,
+      "by_county": {
+        "Galway": 20
+      },
+      "by_gap_type": {
+        "missing_row": 20
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Galway / Athenry",
+          "rows": 5
+        },
+        {
+          "local_area": "Galway / Galway City",
+          "rows": 5
+        },
+        {
+          "local_area": "Galway / Oranmore",
+          "rows": 5
+        },
+        {
+          "local_area": "Galway / Salthill",
+          "rows": 5
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 1,
+          "batch_id": "galway-company-001",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 2,
+          "batch_id": "galway-company-002",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 3,
+          "batch_id": "galway-company-003",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 4,
+          "batch_id": "galway-company-004",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 5,
+          "batch_id": "galway-company-005",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 6,
+          "batch_id": "galway-company-006",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 7,
+          "batch_id": "galway-company-007",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 8,
+          "batch_id": "galway-company-008",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 9,
+          "batch_id": "galway-company-009",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 10,
+          "batch_id": "galway-company-010",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 11,
+          "batch_id": "galway-company-011",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 12,
+          "batch_id": "galway-company-012",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 13,
+          "batch_id": "galway-company-013",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 14,
+          "batch_id": "galway-company-014",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 15,
+          "batch_id": "galway-company-015",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 16,
+          "batch_id": "galway-company-016",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Industrials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 17,
+          "batch_id": "galway-company-017",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 18,
+          "batch_id": "galway-company-018",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 19,
+          "batch_id": "galway-company-019",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 20,
+          "batch_id": "galway-company-020",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    },
+    {
+      "wave": 2,
+      "priority_start": 21,
+      "priority_end": 40,
+      "row_count": 20,
+      "by_county": {
+        "Galway": 20
+      },
+      "by_gap_type": {
+        "missing_row": 20
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Galway / Ballinasloe",
+          "rows": 6
+        },
+        {
+          "local_area": "Galway / Loughrea",
+          "rows": 5
+        },
+        {
+          "local_area": "Galway / Tuam",
+          "rows": 5
+        },
+        {
+          "local_area": "Galway / Gort",
+          "rows": 3
+        },
+        {
+          "local_area": "Galway / Athenry",
+          "rows": 1
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 21,
+          "batch_id": "galway-company-021",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Athenry",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 22,
+          "batch_id": "galway-company-022",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 23,
+          "batch_id": "galway-company-023",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 24,
+          "batch_id": "galway-company-024",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 25,
+          "batch_id": "galway-company-025",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 26,
+          "batch_id": "galway-company-026",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 27,
+          "batch_id": "galway-company-027",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 28,
+          "batch_id": "galway-company-028",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 29,
+          "batch_id": "galway-company-029",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 30,
+          "batch_id": "galway-company-030",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 31,
+          "batch_id": "galway-company-031",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 32,
+          "batch_id": "galway-company-032",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Industrials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 33,
+          "batch_id": "galway-company-033",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 34,
+          "batch_id": "galway-company-034",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 35,
+          "batch_id": "galway-company-035",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 36,
+          "batch_id": "galway-company-036",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 37,
+          "batch_id": "galway-company-037",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Ballinasloe",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 38,
+          "batch_id": "galway-company-038",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 39,
+          "batch_id": "galway-company-039",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 40,
+          "batch_id": "galway-company-040",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    },
+    {
+      "wave": 3,
+      "priority_start": 41,
+      "priority_end": 60,
+      "row_count": 20,
+      "by_county": {
+        "Dublin": 12,
+        "Galway": 8
+      },
+      "by_gap_type": {
+        "missing_row": 20
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Galway / Clifden / Connemara",
+          "rows": 6
+        },
+        {
+          "local_area": "Dublin / Dublin 2 / Docklands",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Dublin City Centre",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Dublin 4 / Ballsbridge",
+          "rows": 2
+        },
+        {
+          "local_area": "Galway / Gort",
+          "rows": 2
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 41,
+          "batch_id": "galway-company-041",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 42,
+          "batch_id": "galway-company-042",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 43,
+          "batch_id": "galway-company-043",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Industrials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 44,
+          "batch_id": "galway-company-044",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 45,
+          "batch_id": "galway-company-045",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 46,
+          "batch_id": "galway-company-046",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 47,
+          "batch_id": "galway-company-047",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 48,
+          "batch_id": "galway-company-048",
+          "gap_type": "missing_row",
+          "county": "Galway",
+          "local_area": "Clifden / Connemara",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 49,
+          "batch_id": "dublin-company-049",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 50,
+          "batch_id": "dublin-company-050",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 51,
+          "batch_id": "dublin-company-051",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 52,
+          "batch_id": "dublin-company-052",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 53,
+          "batch_id": "dublin-company-053",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 54,
+          "batch_id": "dublin-company-054",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 55,
+          "batch_id": "dublin-company-055",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 56,
+          "batch_id": "dublin-company-056",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 57,
+          "batch_id": "dublin-company-057",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 58,
+          "batch_id": "dublin-company-058",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 59,
+          "batch_id": "dublin-company-059",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 60,
+          "batch_id": "dublin-company-060",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    },
+    {
+      "wave": 4,
+      "priority_start": 61,
+      "priority_end": 80,
+      "row_count": 20,
+      "by_county": {
+        "Dublin": 20
+      },
+      "by_gap_type": {
+        "missing_row": 20
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Dublin / Dublin 6 / Rathmines",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Dublin 8 / Liberties",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Swords / North County",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Dublin 4 / Ballsbridge",
+          "rows": 3
+        },
+        {
+          "local_area": "Dublin / Blanchardstown / West Dublin",
+          "rows": 2
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 61,
+          "batch_id": "dublin-company-061",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 62,
+          "batch_id": "dublin-company-062",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 63,
+          "batch_id": "dublin-company-063",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 64,
+          "batch_id": "dublin-company-064",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 65,
+          "batch_id": "dublin-company-065",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 66,
+          "batch_id": "dublin-company-066",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 67,
+          "batch_id": "dublin-company-067",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 68,
+          "batch_id": "dublin-company-068",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 69,
+          "batch_id": "dublin-company-069",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 70,
+          "batch_id": "dublin-company-070",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 71,
+          "batch_id": "dublin-company-071",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 72,
+          "batch_id": "dublin-company-072",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 73,
+          "batch_id": "dublin-company-073",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 74,
+          "batch_id": "dublin-company-074",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 75,
+          "batch_id": "dublin-company-075",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 76,
+          "batch_id": "dublin-company-076",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 77,
+          "batch_id": "dublin-company-077",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 78,
+          "batch_id": "dublin-company-078",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 79,
+          "batch_id": "dublin-company-079",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 80,
+          "batch_id": "dublin-company-080",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    },
+    {
+      "wave": 5,
+      "priority_start": 81,
+      "priority_end": 100,
+      "row_count": 20,
+      "by_county": {
+        "Dublin": 14,
+        "Galway": 6
+      },
+      "by_gap_type": {
+        "incomplete_row": 7,
+        "missing_row": 13
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Dublin / Dun Laoghaire / South County",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Tallaght / South West",
+          "rows": 5
+        },
+        {
+          "local_area": "Dublin / Blanchardstown / West Dublin",
+          "rows": 3
+        },
+        {
+          "local_area": "Dublin / Dublin City Centre",
+          "rows": 1
+        },
+        {
+          "local_area": "Galway / Galway City",
+          "rows": 1
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 81,
+          "batch_id": "dublin-company-081",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 82,
+          "batch_id": "dublin-company-082",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 83,
+          "batch_id": "dublin-company-083",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 84,
+          "batch_id": "dublin-company-084",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 85,
+          "batch_id": "dublin-company-085",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 86,
+          "batch_id": "dublin-company-086",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 87,
+          "batch_id": "dublin-company-087",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 88,
+          "batch_id": "dublin-company-088",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 89,
+          "batch_id": "dublin-company-089",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Consumer Discretionary",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 90,
+          "batch_id": "dublin-company-090",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Consumer Staples",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 91,
+          "batch_id": "dublin-company-091",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Health Care",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 92,
+          "batch_id": "dublin-company-092",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Information Technology",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 93,
+          "batch_id": "dublin-company-093",
+          "gap_type": "missing_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Financials",
+          "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 94,
+          "batch_id": "galway-company-094",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Galway City",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 95,
+          "batch_id": "galway-company-095",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Salthill",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 96,
+          "batch_id": "galway-company-096",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Oranmore",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 97,
+          "batch_id": "galway-company-097",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Tuam",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 98,
+          "batch_id": "galway-company-098",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Loughrea",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 99,
+          "batch_id": "galway-company-099",
+          "gap_type": "incomplete_row",
+          "county": "Galway",
+          "local_area": "Gort",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 100,
+          "batch_id": "dublin-company-100",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dublin City Centre",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    },
+    {
+      "wave": 6,
+      "priority_start": 101,
+      "priority_end": 108,
+      "row_count": 8,
+      "by_county": {
+        "Dublin": 8
+      },
+      "by_gap_type": {
+        "incomplete_row": 8
+      },
+      "top_local_areas": [
+        {
+          "local_area": "Dublin / Blanchardstown / West Dublin",
+          "rows": 1
+        },
+        {
+          "local_area": "Dublin / Dublin 2 / Docklands",
+          "rows": 1
+        },
+        {
+          "local_area": "Dublin / Dublin 4 / Ballsbridge",
+          "rows": 1
+        },
+        {
+          "local_area": "Dublin / Dublin 6 / Rathmines",
+          "rows": 1
+        },
+        {
+          "local_area": "Dublin / Dublin 8 / Liberties",
+          "rows": 1
+        }
+      ],
+      "rows": [
+        {
+          "collection_priority": 101,
+          "batch_id": "dublin-company-101",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dublin 2 / Docklands",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 102,
+          "batch_id": "dublin-company-102",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dublin 4 / Ballsbridge",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 103,
+          "batch_id": "dublin-company-103",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dublin 6 / Rathmines",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 104,
+          "batch_id": "dublin-company-104",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dublin 8 / Liberties",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 105,
+          "batch_id": "dublin-company-105",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Swords / North County",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 106,
+          "batch_id": "dublin-company-106",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Blanchardstown / West Dublin",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 107,
+          "batch_id": "dublin-company-107",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Tallaght / South West",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        },
+        {
+          "collection_priority": 108,
+          "batch_id": "dublin-company-108",
+          "gap_type": "incomplete_row",
+          "county": "Dublin",
+          "local_area": "Dun Laoghaire / South County",
+          "gics_sector": "Industrials",
+          "missing_fields": "director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count",
+          "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
+          "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+        }
+      ]
+    }
+  ],
+  "active_wave": {
+    "wave": 1,
+    "priority_start": 1,
+    "priority_end": 20,
+    "row_count": 20,
+    "by_county": {
+      "Galway": 20
+    },
+    "by_gap_type": {
+      "missing_row": 20
+    },
+    "top_local_areas": [
+      {
+        "local_area": "Galway / Athenry",
+        "rows": 5
+      },
+      {
+        "local_area": "Galway / Galway City",
+        "rows": 5
+      },
+      {
+        "local_area": "Galway / Oranmore",
+        "rows": 5
+      },
+      {
+        "local_area": "Galway / Salthill",
+        "rows": 5
+      }
+    ],
+    "rows": [
+      {
+        "collection_priority": 1,
+        "batch_id": "galway-company-001",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "gics_sector": "Consumer Discretionary",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 2,
+        "batch_id": "galway-company-002",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "gics_sector": "Consumer Staples",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 3,
+        "batch_id": "galway-company-003",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "gics_sector": "Health Care",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 4,
+        "batch_id": "galway-company-004",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "gics_sector": "Information Technology",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 5,
+        "batch_id": "galway-company-005",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "gics_sector": "Financials",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 6,
+        "batch_id": "galway-company-006",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Salthill",
+        "gics_sector": "Consumer Discretionary",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 7,
+        "batch_id": "galway-company-007",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Salthill",
+        "gics_sector": "Consumer Staples",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 8,
+        "batch_id": "galway-company-008",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Salthill",
+        "gics_sector": "Health Care",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 9,
+        "batch_id": "galway-company-009",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Salthill",
+        "gics_sector": "Information Technology",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 10,
+        "batch_id": "galway-company-010",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Salthill",
+        "gics_sector": "Financials",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 11,
+        "batch_id": "galway-company-011",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "gics_sector": "Consumer Discretionary",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 12,
+        "batch_id": "galway-company-012",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "gics_sector": "Consumer Staples",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 13,
+        "batch_id": "galway-company-013",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "gics_sector": "Health Care",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 14,
+        "batch_id": "galway-company-014",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "gics_sector": "Information Technology",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 15,
+        "batch_id": "galway-company-015",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "gics_sector": "Financials",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 16,
+        "batch_id": "galway-company-016",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Athenry",
+        "gics_sector": "Industrials",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 17,
+        "batch_id": "galway-company-017",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Athenry",
+        "gics_sector": "Consumer Discretionary",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 18,
+        "batch_id": "galway-company-018",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Athenry",
+        "gics_sector": "Consumer Staples",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 19,
+        "batch_id": "galway-company-019",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Athenry",
+        "gics_sector": "Health Care",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      },
+      {
+        "collection_priority": 20,
+        "batch_id": "galway-company-020",
+        "gap_type": "missing_row",
+        "county": "Galway",
+        "local_area": "Athenry",
+        "gics_sector": "Information Technology",
+        "missing_fields": "gics_industry_group; company_count; director_50_plus_count; director_55_plus_count; director_60_plus_count; director_65_plus_count; director_70_plus_count; source_note; source_url; source_date; approved_by",
+        "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
+        "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc"
+      }
+    ]
+  },
+  "operator_steps": [
+    "Start with wave 1 and keep collection_priority order unless a source owner supplies a full export.",
+    "Use cro_address_count_url for public company-count baselines where CRO Open Services access is available.",
+    "Use cro_address_search_url or an approved bulk export to get company-number join keys.",
+    "Attach the private director-level export and run the director export validator before aggregation.",
+    "Merge only rows that pass strict director-age import validation and include source approval metadata."
+  ],
+  "private_data_policy": "Do not commit or publish a filled director-level export; publish only aggregate approved company rows."
+}

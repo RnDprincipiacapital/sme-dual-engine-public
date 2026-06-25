@@ -23,6 +23,8 @@
   "company_universe_export_request_csv": "company_universe_request/company-universe-export-request.csv",
   "company_universe_export_request_json": "company_universe_request/company-universe-export-request.json",
   "company_universe_export_request_report": "company_universe_request/company-universe-export-request.md",
+  "company_universe_collection_plan_json": "company_universe_request/company-universe-collection-plan.json",
+  "company_universe_collection_plan_report": "company_universe_request/company-universe-collection-plan.md",
   "director_age_source_plan_json": "director_age_source_plan.json",
   "director_age_source_plan_report": "director_age_source_plan.md",
   "director_age_import_template_csv": "director_age_import_template.csv",
@@ -62,6 +64,9 @@
       "missing_row": 93
     }
   },
+  "company_universe_collection_plan_status": "ready",
+  "company_universe_collection_plan_waves": 6,
+  "company_universe_collection_plan_active_wave_rows": 20,
   "director_age_source_plan_status": "director_age_source_required",
   "director_age_import_template_status": "ready",
   "director_age_import_template_counts": {
