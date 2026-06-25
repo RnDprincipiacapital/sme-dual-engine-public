@@ -1,174 +1,12 @@
 {
   "pack_count": 310,
   "readiness_counts": {
-    "blocked": 82,
-    "ic_ready": 9,
-    "research_memo_ready": 83,
-    "watch_memo_only": 136
+    "blocked": 96,
+    "ic_ready": 3,
+    "research_memo_ready": 69,
+    "watch_memo_only": 142
   },
   "packs": [
-    {
-      "identity_key": "name_county:airflow air refrigeration galway:galway",
-      "target_name": "Airflow Air Refrigeration (Galway) Limited",
-      "slug": "name-county-airflow-air-refrigeration-galway-galway",
-      "readiness": "ic_ready",
-      "score": 84.2,
-      "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:pat kelly plumbing and heating contractors galway:galway",
-      "target_name": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited",
-      "slug": "name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway",
-      "readiness": "ic_ready",
-      "score": 84.0,
-      "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:coen steel:galway",
-      "target_name": "Coen Steel Limited",
-      "slug": "name-county-coen-steel-galway",
-      "readiness": "ic_ready",
-      "score": 81.8,
-      "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-coen-steel-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-coen-steel-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway ideal installation & construction:galway",
-      "target_name": "Galway Ideal Installation & Construction Co. Limited",
-      "slug": "name-county-galway-ideal-installation-construction-galway",
-      "readiness": "research_memo_ready",
-      "score": 81.4,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:kevin walsh plumbing galway:galway",
-      "target_name": "Kevin Walsh Plumbing (Galway) Limited",
-      "slug": "name-county-kevin-walsh-plumbing-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 79.6,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway stainless steel:galway",
-      "target_name": "Galway Stainless Steel Limited",
-      "slug": "name-county-galway-stainless-steel-galway",
-      "readiness": "research_memo_ready",
-      "score": 79.4,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway stationery supplies:galway",
-      "target_name": "Galway Stationery Supplies Limited",
-      "slug": "name-county-galway-stationery-supplies-galway",
-      "readiness": "ic_ready",
-      "score": 79.1,
-      "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:bellville building & construction galway:galway",
-      "target_name": "Bellville Building & Construction Galway Limited",
-      "slug": "name-county-bellville-building-construction-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 78.7,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:spellman construction claregalway:galway",
-      "target_name": "Spellman Construction Claregalway Limited",
-      "slug": "name-county-spellman-construction-claregalway-galway",
-      "readiness": "research_memo_ready",
-      "score": 78.7,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.tex"
-      }
-    },
     {
       "identity_key": "name_county:nightingale nursing home lowville ahascragh ballinasloe county galway:galway",
       "target_name": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
@@ -188,111 +26,75 @@
       }
     },
     {
-      "identity_key": "name_county:profitable commercial nursery for sale in galway:galway",
-      "target_name": "Profitable Commercial Nursery for Sale in Galway",
-      "slug": "name-county-profitable-commercial-nursery-for-sale-in-galway-galway",
+      "identity_key": "name_county:airflow air refrigeration galway:galway",
+      "target_name": "Airflow Air Refrigeration (Galway) Limited",
+      "slug": "name-county-airflow-air-refrigeration-galway-galway",
       "readiness": "ic_ready",
-      "score": 74.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:greaney glass products:galway",
-      "target_name": "Greaney Glass Products Limited",
-      "slug": "name-county-greaney-glass-products-galway",
-      "readiness": "ic_ready",
-      "score": 73.0,
+      "score": 71.9,
       "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
+      "relative_html": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-airflow-air-refrigeration-galway-galway/ic_draft.tex"
       }
     },
     {
-      "identity_key": "name_county:galway tool and mould:galway",
-      "target_name": "Galway Tool and Mould Limited",
-      "slug": "name-county-galway-tool-and-mould-galway",
+      "identity_key": "name_county:pat kelly plumbing and heating contractors galway:galway",
+      "target_name": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited",
+      "slug": "name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway",
       "readiness": "ic_ready",
-      "score": 72.8,
+      "score": 71.6,
       "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
+      "relative_html": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-pat-kelly-plumbing-and-heating-contractors-galway-galway/ic_draft.tex"
       }
     },
     {
-      "identity_key": "name_county:galway truck centre:galway",
-      "target_name": "Galway Truck Centre Limited",
-      "slug": "name-county-galway-truck-centre-galway",
-      "readiness": "ic_ready",
-      "score": 72.3,
-      "evidence_gap_count": 2,
-      "relative_html": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:primary care galway city east health centre:galway",
-      "target_name": "Primary Care (Galway City East Health Centre) Limited",
-      "slug": "name-county-primary-care-galway-city-east-health-centre-galway",
+      "identity_key": "name_county:coen steel:galway",
+      "target_name": "Coen Steel Limited",
+      "slug": "name-county-coen-steel-galway",
       "readiness": "research_memo_ready",
-      "score": 71.4,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
+      "score": 69.5,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-coen-steel-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-coen-steel-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-coen-steel-galway/ic_draft.tex"
       }
     },
     {
-      "identity_key": "name_county:galway car care:galway",
-      "target_name": "Galway Car Care Limited",
-      "slug": "name-county-galway-car-care-galway",
+      "identity_key": "name_county:galway ideal installation & construction:galway",
+      "target_name": "Galway Ideal Installation & Construction Co. Limited",
+      "slug": "name-county-galway-ideal-installation-construction-galway",
       "readiness": "research_memo_ready",
-      "score": 70.0,
+      "score": 68.6,
       "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-car-care-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-car-care-galway/ic_draft.md",
+      "relative_html": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-ideal-installation-construction-galway/ic_draft.tex"
       }
     },
     {
@@ -311,96 +113,6 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:james cunningham heating contractors galway:galway",
-      "target_name": "James Cunningham Heating Contractors (Galway) Limited",
-      "slug": "name-county-james-cunningham-heating-contractors-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 67.9,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:desmond murphy truck sales galway:galway",
-      "target_name": "Desmond Murphy Truck Sales (Galway ) Limited",
-      "slug": "name-county-desmond-murphy-truck-sales-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 67.3,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:j o toole & sons galway:galway",
-      "target_name": "J. O'Toole & Sons (Galway) Limited",
-      "slug": "name-county-j-o-toole-sons-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 67.3,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:food production in cork:cork",
-      "target_name": "Food Production Company in Cork",
-      "slug": "name-county-food-production-in-cork-cork",
-      "readiness": "research_memo_ready",
-      "score": 67.0,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:healy electrical galway:galway",
-      "target_name": "Healy Electrical Galway Limited",
-      "slug": "name-county-healy-electrical-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 67.0,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.tex"
       }
     },
     {
@@ -437,6 +149,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-fertilizer-for-sale-in-wexford-ireland-wexford/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway stationery supplies:galway",
+      "target_name": "Galway Stationery Supplies Limited",
+      "slug": "name-county-galway-stationery-supplies-galway",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stationery-supplies-galway/ic_draft.tex"
       }
     },
     {
@@ -584,6 +314,78 @@
       }
     },
     {
+      "identity_key": "name_county:kevin walsh plumbing galway:galway",
+      "target_name": "Kevin Walsh Plumbing (Galway) Limited",
+      "slug": "name-county-kevin-walsh-plumbing-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 66.7,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-kevin-walsh-plumbing-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:galway stainless steel:galway",
+      "target_name": "Galway Stainless Steel Limited",
+      "slug": "name-county-galway-stainless-steel-galway",
+      "readiness": "research_memo_ready",
+      "score": 66.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-stainless-steel-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:bellville building & construction galway:galway",
+      "target_name": "Bellville Building & Construction Galway Limited",
+      "slug": "name-county-bellville-building-construction-galway-galway",
+      "readiness": "research_memo_ready",
+      "score": 65.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-bellville-building-construction-galway-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:spellman construction claregalway:galway",
+      "target_name": "Spellman Construction Claregalway Limited",
+      "slug": "name-county-spellman-construction-claregalway-galway",
+      "readiness": "research_memo_ready",
+      "score": 65.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-spellman-construction-claregalway-galway/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:newly established fabricated metal products seeking loan in galway ireland:galway",
       "target_name": "Newly Established Fabricated Metal Products Company Seeking Loan in Galway, Ireland",
       "slug": "name-county-newly-established-fabricated-metal-products-seeking-loan-in-galway-ireland-galway",
@@ -620,60 +422,6 @@
       }
     },
     {
-      "identity_key": "name_county:grealish gas & fuel galway:galway",
-      "target_name": "Grealish Gas & Fuel Galway Limited",
-      "slug": "name-county-grealish-gas-fuel-galway-galway",
-      "readiness": "research_memo_ready",
-      "score": 64.7,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway fuel supplies:galway",
-      "target_name": "Galway Fuel Supplies Limited",
-      "slug": "name-county-galway-fuel-supplies-galway",
-      "readiness": "research_memo_ready",
-      "score": 64.6,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway oven cleaning:galway",
-      "target_name": "Galway Oven Cleaning Company Limited",
-      "slug": "name-county-galway-oven-cleaning-galway",
-      "readiness": "research_memo_ready",
-      "score": 64.6,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.tex"
-      }
-    },
-    {
       "identity_key": "name_county:o connor fuels 2 st endas avenue tuam galway:galway",
       "target_name": "O'Connor Fuels, 2 St Endas Avenue, Tuam, Galway",
       "slug": "name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway",
@@ -689,24 +437,6 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-o-connor-fuels-2-st-endas-avenue-tuam-galway-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:food distribution in limerick:limerick",
-      "target_name": "Food Distribution Company in Limerick",
-      "slug": "name-county-food-distribution-in-limerick-limerick",
-      "readiness": "research_memo_ready",
-      "score": 64.3,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.tex"
       }
     },
     {
@@ -887,6 +617,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-established-dental-laboratory-with-strong-reputation-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:food production in cork:cork",
+      "target_name": "Food Production Company in Cork",
+      "slug": "name-county-food-production-in-cork-cork",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-production-in-cork-cork/ic_draft.tex"
       }
     },
     {
@@ -1106,6 +854,24 @@
       }
     },
     {
+      "identity_key": "name_county:primary care galway city east health centre:galway",
+      "target_name": "Primary Care (Galway City East Health Centre) Limited",
+      "slug": "name-county-primary-care-galway-city-east-health-centre-galway",
+      "readiness": "research_memo_ready",
+      "score": 63.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-primary-care-galway-city-east-health-centre-galway/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:building services engineering specialist:northern ireland",
       "target_name": "Building Services Engineering Specialist",
       "slug": "name-county-building-services-engineering-specialist-northern-ireland",
@@ -1214,42 +980,6 @@
       }
     },
     {
-      "identity_key": "name_county:galway maintenance:galway",
-      "target_name": "Galway Maintenance Limited",
-      "slug": "name-county-galway-maintenance-galway",
-      "readiness": "research_memo_ready",
-      "score": 62.4,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-maintenance-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway specsavers hearcare:galway",
-      "target_name": "Galway Specsavers Hearcare Limited",
-      "slug": "name-county-galway-specsavers-hearcare-galway",
-      "readiness": "research_memo_ready",
-      "score": 62.4,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.tex"
-      }
-    },
-    {
       "identity_key": "name_county:lucrative wholesale food supplier business in connaught galway:galway",
       "target_name": "Lucrative Wholesale Food Supplier Business In Connaught Galway",
       "slug": "name-county-lucrative-wholesale-food-supplier-business-in-connaught-galway-galway",
@@ -1268,111 +998,39 @@
       }
     },
     {
-      "identity_key": "name_county:claregalway logistics:galway",
-      "target_name": "Claregalway Logistics Limited",
-      "slug": "name-county-claregalway-logistics-galway",
+      "identity_key": "name_county:grealish gas & fuel galway:galway",
+      "target_name": "Grealish Gas & Fuel Galway Limited",
+      "slug": "name-county-grealish-gas-fuel-galway-galway",
       "readiness": "research_memo_ready",
-      "score": 62.2,
+      "score": 62.3,
       "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
+      "relative_html": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-grealish-gas-fuel-galway-galway/ic_draft.tex"
       }
     },
     {
-      "identity_key": "name_county:east galway quality tool hire:galway",
-      "target_name": "East Galway Quality Tool Hire Limited",
-      "slug": "name-county-east-galway-quality-tool-hire-galway",
+      "identity_key": "name_county:food distribution in limerick:limerick",
+      "target_name": "Food Distribution Company in Limerick",
+      "slug": "name-county-food-distribution-in-limerick-limerick",
       "readiness": "research_memo_ready",
-      "score": 62.2,
+      "score": 61.4,
       "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
+      "relative_html": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway complete roofing:galway",
-      "target_name": "Galway Complete Roofing Limited",
-      "slug": "name-county-galway-complete-roofing-galway",
-      "readiness": "research_memo_ready",
-      "score": 62.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway l zinc roofing:galway",
-      "target_name": "Galway L-Zinc Roofing Limited",
-      "slug": "name-county-galway-l-zinc-roofing-galway",
-      "readiness": "research_memo_ready",
-      "score": 62.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:o malley construction claregalway no 1:galway",
-      "target_name": "O'Malley Construction (Claregalway No 1) Limited",
-      "slug": "name-county-o-malley-construction-claregalway-no-1-galway",
-      "readiness": "research_memo_ready",
-      "score": 62.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.tex"
-      }
-    },
-    {
-      "identity_key": "name_county:galway tool & mould innovations:galway",
-      "target_name": "Galway Tool & Mould Innovations Limited",
-      "slug": "name-county-galway-tool-mould-innovations-galway",
-      "readiness": "research_memo_ready",
-      "score": 61.8,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-food-distribution-in-limerick-limerick/ic_draft.tex"
       }
     },
     {
@@ -1538,24 +1196,6 @@
       }
     },
     {
-      "identity_key": "name_county:traditional irish pub in galway city:galway",
-      "target_name": "Traditional Irish Pub in Galway City",
-      "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
-      "readiness": "research_memo_ready",
-      "score": 60.8,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.tex"
-      }
-    },
-    {
       "identity_key": "name_county:boat and vessel design and manufacturing:ireland",
       "target_name": "Boat and Vessel Design and Manufacturing",
       "slug": "name-county-boat-and-vessel-design-and-manufacturing-ireland",
@@ -1646,38 +1286,140 @@
       }
     },
     {
-      "identity_key": "name_county:iclean professional cleaning services:galway",
-      "target_name": "Iclean Professional Cleaning Services Limited",
-      "slug": "name-county-iclean-professional-cleaning-services-galway",
+      "identity_key": "name_county:greaney glass products:galway",
+      "target_name": "Greaney Glass Products Limited",
+      "slug": "name-county-greaney-glass-products-galway",
       "readiness": "research_memo_ready",
-      "score": 60.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
+      "score": 60.2,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html",
-        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-greaney-glass-products-galway/ic_draft.tex"
       }
     },
     {
-      "identity_key": "name_county:galway catering:galway",
-      "target_name": "Galway Catering Company Limited",
-      "slug": "name-county-galway-catering-galway",
+      "identity_key": "name_county:claregalway logistics:galway",
+      "target_name": "Claregalway Logistics Limited",
+      "slug": "name-county-claregalway-logistics-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-claregalway-logistics-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:east galway quality tool hire:galway",
+      "target_name": "East Galway Quality Tool Hire Limited",
+      "slug": "name-county-east-galway-quality-tool-hire-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-quality-tool-hire-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway complete roofing:galway",
+      "target_name": "Galway Complete Roofing Limited",
+      "slug": "name-county-galway-complete-roofing-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-complete-roofing-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway l zinc roofing:galway",
+      "target_name": "Galway L-Zinc Roofing Limited",
+      "slug": "name-county-galway-l-zinc-roofing-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-l-zinc-roofing-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway tool and mould:galway",
+      "target_name": "Galway Tool and Mould Limited",
+      "slug": "name-county-galway-tool-and-mould-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-and-mould-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:o malley construction claregalway no 1:galway",
+      "target_name": "O'Malley Construction (Claregalway No 1) Limited",
+      "slug": "name-county-o-malley-construction-claregalway-no-1-galway",
+      "readiness": "watch_memo_only",
+      "score": 59.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-o-malley-construction-claregalway-no-1-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway truck centre:galway",
+      "target_name": "Galway Truck Centre Limited",
+      "slug": "name-county-galway-truck-centre-galway",
       "readiness": "watch_memo_only",
       "score": 59.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-catering-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-catering-galway/ic_draft.md",
+      "evidence_gap_count": 2,
+      "relative_html": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.html"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-centre-galway/ic_draft.html"
       }
     },
     {
@@ -1695,6 +1437,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-successful-agricultural-consultancy-business-in-galway-city-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-successful-agricultural-consultancy-business-in-galway-city-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-successful-agricultural-consultancy-business-in-galway-city-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable commercial nursery for sale in galway:galway",
+      "target_name": "Profitable Commercial Nursery for Sale in Galway",
+      "slug": "name-county-profitable-commercial-nursery-for-sale-in-galway-galway",
+      "readiness": "watch_memo_only",
+      "score": 58.8,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nursery-for-sale-in-galway-galway/ic_draft.html"
       }
     },
     {
@@ -1729,6 +1488,40 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-snack-distribution-business-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:traditional irish pub in galway city:galway",
+      "target_name": "Traditional Irish Pub in Galway City",
+      "slug": "name-county-traditional-irish-pub-in-galway-city-galway",
+      "readiness": "watch_memo_only",
+      "score": 58.5,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:iclean professional cleaning services:galway",
+      "target_name": "Iclean Professional Cleaning Services Limited",
+      "slug": "name-county-iclean-professional-cleaning-services-galway",
+      "readiness": "watch_memo_only",
+      "score": 58.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-iclean-professional-cleaning-services-galway/ic_draft.html"
       }
     },
     {
@@ -1885,6 +1678,23 @@
       }
     },
     {
+      "identity_key": "name_county:galway car care:galway",
+      "target_name": "Galway Car Care Limited",
+      "slug": "name-county-galway-car-care-galway",
+      "readiness": "watch_memo_only",
+      "score": 57.1,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-car-care-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-car-care-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-car-care-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:candle making business in galway city:galway",
       "target_name": "Candle Making Business In Galway City",
       "slug": "name-county-candle-making-business-in-galway-city-galway",
@@ -1902,6 +1712,23 @@
       }
     },
     {
+      "identity_key": "name_county:galway oven cleaning:galway",
+      "target_name": "Galway Oven Cleaning Company Limited",
+      "slug": "name-county-galway-oven-cleaning-galway",
+      "readiness": "watch_memo_only",
+      "score": 56.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-oven-cleaning-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:independent electrical wholesaler:northern ireland",
       "target_name": "Independent Electrical Wholesaler",
       "slug": "name-county-independent-electrical-wholesaler-northern-ireland",
@@ -1916,40 +1743,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:59625",
-      "target_name": "A. HARTMANN & SON LIMITED",
-      "slug": "cro-59625",
-      "readiness": "watch_memo_only",
-      "score": 56.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-59625/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-59625/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-59625/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-59625/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-59625/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-59625/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-59625/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:222180",
-      "target_name": "LAWN-KING LIMITED",
-      "slug": "cro-222180",
-      "readiness": "watch_memo_only",
-      "score": 56.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-222180/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-222180/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-222180/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-222180/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-222180/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.html"
       }
     },
     {
@@ -2055,6 +1848,125 @@
       }
     },
     {
+      "identity_key": "name_county:james cunningham heating contractors galway:galway",
+      "target_name": "James Cunningham Heating Contractors (Galway) Limited",
+      "slug": "name-county-james-cunningham-heating-contractors-galway-galway",
+      "readiness": "watch_memo_only",
+      "score": 55.0,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-james-cunningham-heating-contractors-galway-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway maintenance:galway",
+      "target_name": "Galway Maintenance Limited",
+      "slug": "name-county-galway-maintenance-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-maintenance-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-maintenance-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway specsavers hearcare:galway",
+      "target_name": "Galway Specsavers Hearcare Limited",
+      "slug": "name-county-galway-specsavers-hearcare-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.6,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-specsavers-hearcare-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:desmond murphy truck sales galway:galway",
+      "target_name": "Desmond Murphy Truck Sales (Galway ) Limited",
+      "slug": "name-county-desmond-murphy-truck-sales-galway-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-desmond-murphy-truck-sales-galway-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:j o toole & sons galway:galway",
+      "target_name": "J. O'Toole & Sons (Galway) Limited",
+      "slug": "name-county-j-o-toole-sons-galway-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.4,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-j-o-toole-sons-galway-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:healy electrical galway:galway",
+      "target_name": "Healy Electrical Galway Limited",
+      "slug": "name-county-healy-electrical-galway-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-healy-electrical-galway-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway tool & mould innovations:galway",
+      "target_name": "Galway Tool & Mould Innovations Limited",
+      "slug": "name-county-galway-tool-mould-innovations-galway",
+      "readiness": "watch_memo_only",
+      "score": 54.1,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-tool-mould-innovations-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:supplier of outdoor recreational facilities:ireland",
       "target_name": "Supplier of Outdoor Recreational Facilities",
       "slug": "name-county-supplier-of-outdoor-recreational-facilities-ireland",
@@ -2154,23 +2066,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:tuam road galway service station:galway",
-      "target_name": "Tuam Road Galway Service Station Limited",
-      "slug": "name-county-tuam-road-galway-service-station-galway",
-      "readiness": "watch_memo_only",
-      "score": 53.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html"
       }
     },
     {
@@ -2327,6 +2222,40 @@
       }
     },
     {
+      "identity_key": "name_county:galway catering:galway",
+      "target_name": "Galway Catering Company Limited",
+      "slug": "name-county-galway-catering-galway",
+      "readiness": "watch_memo_only",
+      "score": 51.8,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-catering-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-catering-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-catering-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway fuel supplies:galway",
+      "target_name": "Galway Fuel Supplies Limited",
+      "slug": "name-county-galway-fuel-supplies-galway",
+      "readiness": "watch_memo_only",
+      "score": 51.8,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-fuel-supplies-galway/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:travel portal equity stake for sale in dublin ireland:dublin",
       "target_name": "Travel Portal Equity Stake For Sale in Dublin, Ireland",
       "slug": "name-county-travel-portal-equity-stake-for-sale-in-dublin-ireland-dublin",
@@ -2392,6 +2321,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:tuam road galway service station:galway",
+      "target_name": "Tuam Road Galway Service Station Limited",
+      "slug": "name-county-tuam-road-galway-service-station-galway",
+      "readiness": "watch_memo_only",
+      "score": 50.9,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tuam-road-galway-service-station-galway/ic_draft.html"
       }
     },
     {
@@ -2837,57 +2783,6 @@
       }
     },
     {
-      "identity_key": "name_county:east galway tyres:galway",
-      "target_name": "East Galway Tyres Limited",
-      "slug": "name-county-east-galway-tyres-galway",
-      "readiness": "watch_memo_only",
-      "score": 50.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:galway electrical services:galway",
-      "target_name": "Galway Electrical Services Limited",
-      "slug": "name-county-galway-electrical-services-galway",
-      "readiness": "watch_memo_only",
-      "score": 50.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:galway truck and van testing centre:galway",
-      "target_name": "Galway Truck and Van Testing Centre Limited",
-      "slug": "name-county-galway-truck-and-van-testing-centre-galway",
-      "readiness": "watch_memo_only",
-      "score": 50.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html"
-      }
-    },
-    {
       "identity_key": "name_county:manufacturer and importer of school furniture:ireland",
       "target_name": "Manufacturer and Importer of School Furniture",
       "slug": "name-county-manufacturer-and-importer-of-school-furniture-ireland",
@@ -2902,40 +2797,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:89969",
-      "target_name": "A & S ROOFING & FLOORING LIMITED",
-      "slug": "cro-89969",
-      "readiness": "watch_memo_only",
-      "score": 49.8,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-89969/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-89969/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-89969/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-89969/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-89969/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-89969/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-89969/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:129924",
-      "target_name": "A.1. BUILDERS LIMITED",
-      "slug": "cro-129924",
-      "readiness": "watch_memo_only",
-      "score": 49.8,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-129924/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-129924/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-129924/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-129924/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-129924/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-129924/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-129924/ic_draft.html"
       }
     },
     {
@@ -3007,54 +2868,54 @@
       }
     },
     {
-      "identity_key": "cro:711992",
-      "target_name": "1ST PORT OF GALWAY SEA SCOUTS COMPANY LIMITED BY GUARANTEE",
-      "slug": "cro-711992",
-      "readiness": "watch_memo_only",
-      "score": 49.2,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-711992/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-711992/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-711992/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-711992/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-711992/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-711992/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-711992/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:328511",
-      "target_name": "A.P. MCCARTHY PLANNING CONSULTANTS LIMITED",
-      "slug": "cro-328511",
-      "readiness": "watch_memo_only",
-      "score": 48.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-328511/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-328511/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328511/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328511/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328511/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-328511/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-328511/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:552335",
-      "target_name": "9TH IMPACT LIMITED",
-      "slug": "cro-552335",
+      "identity_key": "name_county:east galway tyres:galway",
+      "target_name": "East Galway Tyres Limited",
+      "slug": "name-county-east-galway-tyres-galway",
       "readiness": "watch_memo_only",
       "score": 48.2,
       "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-552335/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-552335/ic_draft.md",
+      "relative_html": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-552335/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-552335/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-552335/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-552335/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-552335/ic_draft.html"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-east-galway-tyres-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway electrical services:galway",
+      "target_name": "Galway Electrical Services Limited",
+      "slug": "name-county-galway-electrical-services-galway",
+      "readiness": "watch_memo_only",
+      "score": 48.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-electrical-services-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:galway truck and van testing centre:galway",
+      "target_name": "Galway Truck and Van Testing Centre Limited",
+      "slug": "name-county-galway-truck-and-van-testing-centre-galway",
+      "readiness": "watch_memo_only",
+      "score": 48.2,
+      "evidence_gap_count": 3,
+      "relative_html": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html"
       }
     },
     {
@@ -3313,74 +3174,6 @@
       }
     },
     {
-      "identity_key": "name_county:boutique hotel in killarney:kerry",
-      "target_name": "Boutique Hotel in Killarney",
-      "slug": "name-county-boutique-hotel-in-killarney-kerry",
-      "readiness": "watch_memo_only",
-      "score": 47.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:digital marketing agency in dublin:dublin",
-      "target_name": "Digital Marketing Agency in Dublin",
-      "slug": "name-county-digital-marketing-agency-in-dublin-dublin",
-      "readiness": "watch_memo_only",
-      "score": 47.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:irish craft & gift shop in temple bar:dublin",
-      "target_name": "Irish Craft & Gift Shop in Temple Bar",
-      "slug": "name-county-irish-craft-gift-shop-in-temple-bar-dublin",
-      "readiness": "watch_memo_only",
-      "score": 47.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "name_county:tech startup in cork:cork",
-      "target_name": "Tech Startup in Cork",
-      "slug": "name-county-tech-startup-in-cork-cork",
-      "readiness": "watch_memo_only",
-      "score": 47.5,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.html",
-      "relative_markdown": "ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.html"
-      }
-    },
-    {
       "identity_key": "name_county:business services:ireland",
       "target_name": "Business Services",
       "slug": "name-county-business-services-ireland",
@@ -3636,23 +3429,6 @@
       }
     },
     {
-      "identity_key": "cro:28525",
-      "target_name": "A. M. S. ENGINEERING COMPANY LIMITED",
-      "slug": "cro-28525",
-      "readiness": "watch_memo_only",
-      "score": 47.1,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-28525/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-28525/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-28525/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-28525/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-28525/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-28525/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-28525/ic_draft.html"
-      }
-    },
-    {
       "identity_key": "name_county:established fully fitted barbershop absentee ownership:dublin",
       "target_name": "Established, Fully Fitted Barbershop – Absentee Ownership",
       "slug": "name-county-established-fully-fitted-barbershop-absentee-ownership-dublin",
@@ -3738,20 +3514,20 @@
       }
     },
     {
-      "identity_key": "cro:786116",
-      "target_name": "A & M RESTAURANT LIMITED",
-      "slug": "cro-786116",
+      "identity_key": "cro:711992",
+      "target_name": "1ST PORT OF GALWAY SEA SCOUTS COMPANY LIMITED BY GUARANTEE",
+      "slug": "cro-711992",
       "readiness": "watch_memo_only",
-      "score": 46.2,
+      "score": 46.9,
       "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-786116/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-786116/ic_draft.md",
+      "relative_html": "ic_packs/cro-711992/ic_draft.html",
+      "relative_markdown": "ic_packs/cro-711992/ic_draft.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-786116/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-786116/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-786116/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-786116/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-786116/ic_draft.html"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-711992/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-711992/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-711992/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-711992/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-711992/ic_draft.html"
       }
     },
     {
@@ -3769,23 +3545,6 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-for-residential-development-galway-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-for-residential-development-galway-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-freehold-commercial-for-residential-development-galway-galway/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:234849",
-      "target_name": "A & D; ADVERTISING AND DESIGN CONSULTANTS LIMITED",
-      "slug": "cro-234849",
-      "readiness": "watch_memo_only",
-      "score": 45.8,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-234849/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-234849/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-234849/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-234849/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-234849/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-234849/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-234849/ic_draft.html"
       }
     },
     {
@@ -3959,55 +3718,6 @@
       }
     },
     {
-      "identity_key": "cro:385921",
-      "target_name": "GROUNDSOURCE LIMITED",
-      "slug": "cro-385921",
-      "readiness": "watch_memo_only",
-      "score": 45.0,
-      "evidence_gap_count": 3,
-      "relative_html": "ic_packs/cro-385921/ic_draft.html",
-      "relative_markdown": "ic_packs/cro-385921/ic_draft.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-385921/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-385921/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-385921/review_context.json",
-        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-385921/ic_draft.md",
-        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-385921/ic_draft.html"
-      }
-    },
-    {
-      "identity_key": "cro:698394",
-      "target_name": "126 ARTIST-RUN GALLERY & STUDIOS COMPANY LIMITED BY GUARANTEE",
-      "slug": "cro-698394",
-      "readiness": "blocked",
-      "score": 44.8,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-698394/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-698394/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-698394/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-698394/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-698394/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:463722",
-      "target_name": "A B P MANUFACTURING MACHINERY LIMITED",
-      "slug": "cro-463722",
-      "readiness": "blocked",
-      "score": 44.7,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-463722/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-463722/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-463722/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-463722/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-463722/watch_note.md"
-      }
-    },
-    {
       "identity_key": "name_county:light manufactoring business:galway",
       "target_name": "Light Manufactoring Business",
       "slug": "name-county-light-manufactoring-business-galway",
@@ -4040,6 +3750,22 @@
       }
     },
     {
+      "identity_key": "name_county:boutique hotel in killarney:kerry",
+      "target_name": "Boutique Hotel in Killarney",
+      "slug": "name-county-boutique-hotel-in-killarney-kerry",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-boutique-hotel-in-killarney-kerry/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-boutique-hotel-in-killarney-kerry/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:business opportunity ideal add on for a restaurant:dublin",
       "target_name": "Business Opportunity, Ideal Add-on For A Restaurant",
       "slug": "name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin",
@@ -4053,6 +3779,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-business-opportunity-ideal-add-on-for-a-restaurant-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:digital marketing agency in dublin:dublin",
+      "target_name": "Digital Marketing Agency in Dublin",
+      "slug": "name-county-digital-marketing-agency-in-dublin-dublin",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-digital-marketing-agency-in-dublin-dublin/watch_note.md"
       }
     },
     {
@@ -4104,6 +3846,38 @@
       }
     },
     {
+      "identity_key": "name_county:irish craft & gift shop in temple bar:dublin",
+      "target_name": "Irish Craft & Gift Shop in Temple Bar",
+      "slug": "name-county-irish-craft-gift-shop-in-temple-bar-dublin",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-irish-craft-gift-shop-in-temple-bar-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:tech startup in cork:cork",
+      "target_name": "Tech Startup in Cork",
+      "slug": "name-county-tech-startup-in-cork-cork",
+      "readiness": "blocked",
+      "score": 44.6,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-tech-startup-in-cork-cork/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:hotel in ireland with 135 keys & lakefront:galway",
       "target_name": "Hotel In Ireland With 135 Keys & Lakefront",
       "slug": "name-county-hotel-in-ireland-with-135-keys-lakefront-galway",
@@ -4133,6 +3907,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-training-institute-distributor-opportunity-ireland/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:786116",
+      "target_name": "A & M RESTAURANT LIMITED",
+      "slug": "cro-786116",
+      "readiness": "blocked",
+      "score": 43.8,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-786116/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-786116/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-786116/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-786116/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-786116/watch_note.md"
       }
     },
     {
@@ -4184,19 +3974,35 @@
       }
     },
     {
-      "identity_key": "cro:359827",
-      "target_name": "A.E.D. SECURITY INSTALLATIONS LIMITED",
-      "slug": "cro-359827",
+      "identity_key": "cro:59625",
+      "target_name": "A. HARTMANN & SON LIMITED",
+      "slug": "cro-59625",
       "readiness": "blocked",
-      "score": 43.2,
+      "score": 43.4,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-359827/watch_note.md",
+      "relative_markdown": "ic_packs/cro-59625/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-359827/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-359827/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-359827/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-359827/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-59625/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-59625/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-59625/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-59625/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:222180",
+      "target_name": "LAWN-KING LIMITED",
+      "slug": "cro-222180",
+      "readiness": "blocked",
+      "score": 43.4,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-222180/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-222180/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-222180/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-222180/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-222180/watch_note.md"
       }
     },
     {
@@ -4216,19 +4022,19 @@
       }
     },
     {
-      "identity_key": "cro:718110",
-      "target_name": "5SRE 5 STAR REAL ESTATE LIMITED",
-      "slug": "cro-718110",
+      "identity_key": "cro:698394",
+      "target_name": "126 ARTIST-RUN GALLERY & STUDIOS COMPANY LIMITED BY GUARANTEE",
+      "slug": "cro-698394",
       "readiness": "blocked",
-      "score": 42.8,
+      "score": 42.5,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-718110/watch_note.md",
+      "relative_markdown": "ic_packs/cro-698394/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-718110/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-718110/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-718110/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-718110/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-698394/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-698394/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-698394/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-698394/watch_note.md"
       }
     },
     {
@@ -4344,35 +4150,35 @@
       }
     },
     {
-      "identity_key": "cro:154946",
-      "target_name": "(NEW AGE OFFICE FURNITURE LIMITED) TROSCAN OIFIGE NA H'AOISE NUA TEORANTA",
-      "slug": "cro-154946",
+      "identity_key": "cro:718110",
+      "target_name": "5SRE 5 STAR REAL ESTATE LIMITED",
+      "slug": "cro-718110",
       "readiness": "blocked",
-      "score": 41.3,
-      "evidence_gap_count": 2,
+      "score": 40.4,
+      "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-154946/watch_note.md",
+      "relative_markdown": "ic_packs/cro-718110/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-154946/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-154946/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-154946/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-154946/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-718110/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-718110/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-718110/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-718110/watch_note.md"
       }
     },
     {
-      "identity_key": "cro:481667",
-      "target_name": "A LEONARD MANAGEMENT & CONSULTING LIMITED",
-      "slug": "cro-481667",
+      "identity_key": "cro:552335",
+      "target_name": "9TH IMPACT LIMITED",
+      "slug": "cro-552335",
       "readiness": "blocked",
-      "score": 40.6,
+      "score": 40.4,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-481667/watch_note.md",
+      "relative_markdown": "ic_packs/cro-552335/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-481667/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-481667/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-481667/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-481667/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-552335/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-552335/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-552335/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-552335/watch_note.md"
       }
     },
     {
@@ -4552,259 +4358,51 @@
       }
     },
     {
-      "identity_key": "cro:72100",
-      "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
-      "slug": "cro-72100",
+      "identity_key": "cro:89969",
+      "target_name": "A & S ROOFING & FLOORING LIMITED",
+      "slug": "cro-89969",
       "readiness": "blocked",
-      "score": 37.3,
+      "score": 37.0,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-72100/watch_note.md",
+      "relative_markdown": "ic_packs/cro-89969/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-72100/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-72100/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-72100/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-72100/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-89969/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-89969/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-89969/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-89969/watch_note.md"
       }
     },
     {
-      "identity_key": "cro:360393",
-      "target_name": "36 O'CONNELL STREET MANAGEMENT LIMITED",
-      "slug": "cro-360393",
+      "identity_key": "cro:129924",
+      "target_name": "A.1. BUILDERS LIMITED",
+      "slug": "cro-129924",
       "readiness": "blocked",
-      "score": 36.0,
+      "score": 37.0,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-360393/watch_note.md",
+      "relative_markdown": "ic_packs/cro-129924/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-360393/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-360393/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-360393/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-360393/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-129924/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-129924/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-129924/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-129924/watch_note.md"
       }
     },
     {
-      "identity_key": "cro:226593",
-      "target_name": "A & M. DISTRIBUTORS LIMITED",
-      "slug": "cro-226593",
+      "identity_key": "cro:463722",
+      "target_name": "A B P MANUFACTURING MACHINERY LIMITED",
+      "slug": "cro-463722",
       "readiness": "blocked",
-      "score": 36.0,
+      "score": 37.0,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-226593/watch_note.md",
+      "relative_markdown": "ic_packs/cro-463722/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-226593/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-226593/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-226593/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-226593/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:189250",
-      "target_name": "A & P AVIATION LIMITED",
-      "slug": "cro-189250",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-189250/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-189250/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-189250/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-189250/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-189250/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:346214",
-      "target_name": "A.1. DEV CHIMNEY CO. LIMITED",
-      "slug": "cro-346214",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-346214/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-346214/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-346214/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-346214/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-346214/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:58944",
-      "target_name": "A. B. C. CUISINES LIMITED",
-      "slug": "cro-58944",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-58944/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-58944/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-58944/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-58944/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-58944/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:240545",
-      "target_name": "A.E.R. LIMITED",
-      "slug": "cro-240545",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-240545/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-240545/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-240545/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-240545/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-240545/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:347425",
-      "target_name": "A. G. FEED LIMITED",
-      "slug": "cro-347425",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-347425/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-347425/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-347425/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-347425/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-347425/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:75533",
-      "target_name": "A. K. D. LIMITED",
-      "slug": "cro-75533",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-75533/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-75533/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-75533/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-75533/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-75533/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:322344",
-      "target_name": "A. LOOK LIMITED",
-      "slug": "cro-322344",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-322344/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-322344/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-322344/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-322344/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-322344/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:214417",
-      "target_name": "A.M. & D. LIMITED",
-      "slug": "cro-214417",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-214417/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-214417/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-214417/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-214417/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-214417/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:162537",
-      "target_name": "A.M.T. GALWAY LIMITED",
-      "slug": "cro-162537",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-162537/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-162537/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-162537/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-162537/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-162537/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:157217",
-      "target_name": "GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA",
-      "slug": "cro-157217",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-157217/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-157217/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-157217/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-157217/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-157217/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:369982",
-      "target_name": "GARDEN PRIDE TOOL HIRE LIMITED",
-      "slug": "cro-369982",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-369982/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-369982/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-369982/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-369982/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-369982/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:345282",
-      "target_name": "LAWN RANGER LIMITED",
-      "slug": "cro-345282",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-345282/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-345282/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-345282/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-345282/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-345282/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:106973",
-      "target_name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
-      "slug": "cro-106973",
-      "readiness": "blocked",
-      "score": 36.0,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-106973/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-106973/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-106973/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-106973/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-106973/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-463722/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-463722/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-463722/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-463722/watch_note.md"
       }
     },
     {
@@ -4840,67 +4438,35 @@
       }
     },
     {
-      "identity_key": "cro:270945",
-      "target_name": "40 DEGREES LIMITED",
-      "slug": "cro-270945",
+      "identity_key": "cro:328511",
+      "target_name": "A.P. MCCARTHY PLANNING CONSULTANTS LIMITED",
+      "slug": "cro-328511",
       "readiness": "blocked",
-      "score": 33.9,
+      "score": 35.7,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-270945/watch_note.md",
+      "relative_markdown": "ic_packs/cro-328511/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-270945/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-270945/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-270945/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-270945/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328511/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328511/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328511/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-328511/watch_note.md"
       }
     },
     {
-      "identity_key": "cro:406809",
-      "target_name": "4D SOFTWARE LIMITED",
-      "slug": "cro-406809",
+      "identity_key": "cro:28525",
+      "target_name": "A. M. S. ENGINEERING COMPANY LIMITED",
+      "slug": "cro-28525",
       "readiness": "blocked",
-      "score": 33.9,
+      "score": 34.3,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-406809/watch_note.md",
+      "relative_markdown": "ic_packs/cro-28525/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-406809/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-406809/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-406809/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-406809/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:328171",
-      "target_name": "A J D DEVELOPMENTS LIMITED",
-      "slug": "cro-328171",
-      "readiness": "blocked",
-      "score": 33.9,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-328171/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328171/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328171/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328171/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-328171/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:217915",
-      "target_name": "A.M. & D. HOLDINGS LIMITED",
-      "slug": "cro-217915",
-      "readiness": "blocked",
-      "score": 33.9,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-217915/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-217915/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-217915/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-217915/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-217915/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-28525/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-28525/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-28525/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-28525/watch_note.md"
       }
     },
     {
@@ -4920,19 +4486,51 @@
       }
     },
     {
-      "identity_key": "cro:463334",
-      "target_name": "GARDEN GREEN ENERGY LIMITED",
-      "slug": "cro-463334",
+      "identity_key": "cro:234849",
+      "target_name": "A & D; ADVERTISING AND DESIGN CONSULTANTS LIMITED",
+      "slug": "cro-234849",
       "readiness": "blocked",
-      "score": 33.5,
+      "score": 33.0,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-463334/watch_note.md",
+      "relative_markdown": "ic_packs/cro-234849/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-463334/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-463334/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-463334/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-463334/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-234849/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-234849/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-234849/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-234849/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:481667",
+      "target_name": "A LEONARD MANAGEMENT & CONSULTING LIMITED",
+      "slug": "cro-481667",
+      "readiness": "blocked",
+      "score": 33.0,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-481667/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-481667/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-481667/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-481667/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-481667/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:385921",
+      "target_name": "GROUNDSOURCE LIMITED",
+      "slug": "cro-385921",
+      "readiness": "blocked",
+      "score": 32.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-385921/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-385921/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-385921/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-385921/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-385921/watch_note.md"
       }
     },
     {
@@ -4968,51 +4566,19 @@
       }
     },
     {
-      "identity_key": "cro:462330",
-      "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
-      "slug": "cro-462330",
+      "identity_key": "cro:359827",
+      "target_name": "A.E.D. SECURITY INSTALLATIONS LIMITED",
+      "slug": "cro-359827",
       "readiness": "blocked",
-      "score": 30.8,
+      "score": 30.4,
       "evidence_gap_count": 3,
       "relative_html": null,
-      "relative_markdown": "ic_packs/cro-462330/watch_note.md",
+      "relative_markdown": "ic_packs/cro-359827/watch_note.md",
       "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-462330/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-462330/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-462330/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-462330/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:470032",
-      "target_name": "3D VENTURES LIMITED",
-      "slug": "cro-470032",
-      "readiness": "blocked",
-      "score": 30.8,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-470032/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-470032/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-470032/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-470032/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-470032/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:465159",
-      "target_name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
-      "slug": "cro-465159",
-      "readiness": "blocked",
-      "score": 30.8,
-      "evidence_gap_count": 3,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-465159/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-465159/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-465159/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-465159/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-465159/watch_note.md"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-359827/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-359827/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-359827/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-359827/watch_note.md"
       }
     },
     {
@@ -5077,6 +4643,22 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-franchise-pizzeria-restaurant-l-3-bed-apartment-galway-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:154946",
+      "target_name": "(NEW AGE OFFICE FURNITURE LIMITED) TROSCAN OIFIGE NA H'AOISE NUA TEORANTA",
+      "slug": "cro-154946",
+      "readiness": "blocked",
+      "score": 28.4,
+      "evidence_gap_count": 2,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-154946/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-154946/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-154946/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-154946/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-154946/watch_note.md"
       }
     },
     {
@@ -5192,6 +4774,38 @@
       }
     },
     {
+      "identity_key": "cro:463334",
+      "target_name": "GARDEN GREEN ENERGY LIMITED",
+      "slug": "cro-463334",
+      "readiness": "blocked",
+      "score": 25.8,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-463334/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-463334/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-463334/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-463334/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-463334/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:72100",
+      "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
+      "slug": "cro-72100",
+      "readiness": "blocked",
+      "score": 24.4,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-72100/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-72100/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-72100/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-72100/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-72100/watch_note.md"
+      }
+    },
+    {
       "identity_key": "name_county:bonordic in dublin:dublin",
       "target_name": "Bonordic in Dublin",
       "slug": "name-county-bonordic-in-dublin-dublin",
@@ -5285,6 +4899,358 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:462330",
+      "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
+      "slug": "cro-462330",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-462330/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-462330/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-462330/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-462330/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-462330/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:360393",
+      "target_name": "36 O'CONNELL STREET MANAGEMENT LIMITED",
+      "slug": "cro-360393",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-360393/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-360393/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-360393/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-360393/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-360393/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:470032",
+      "target_name": "3D VENTURES LIMITED",
+      "slug": "cro-470032",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-470032/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-470032/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-470032/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-470032/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-470032/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:226593",
+      "target_name": "A & M. DISTRIBUTORS LIMITED",
+      "slug": "cro-226593",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-226593/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-226593/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-226593/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-226593/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-226593/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:189250",
+      "target_name": "A & P AVIATION LIMITED",
+      "slug": "cro-189250",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-189250/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-189250/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-189250/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-189250/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-189250/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:346214",
+      "target_name": "A.1. DEV CHIMNEY CO. LIMITED",
+      "slug": "cro-346214",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-346214/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-346214/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-346214/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-346214/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-346214/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:58944",
+      "target_name": "A. B. C. CUISINES LIMITED",
+      "slug": "cro-58944",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-58944/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-58944/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-58944/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-58944/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-58944/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:465159",
+      "target_name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
+      "slug": "cro-465159",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-465159/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-465159/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-465159/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-465159/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-465159/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:240545",
+      "target_name": "A.E.R. LIMITED",
+      "slug": "cro-240545",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-240545/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-240545/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-240545/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-240545/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-240545/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:347425",
+      "target_name": "A. G. FEED LIMITED",
+      "slug": "cro-347425",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-347425/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-347425/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-347425/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-347425/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-347425/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:75533",
+      "target_name": "A. K. D. LIMITED",
+      "slug": "cro-75533",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-75533/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-75533/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-75533/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-75533/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-75533/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:322344",
+      "target_name": "A. LOOK LIMITED",
+      "slug": "cro-322344",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-322344/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-322344/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-322344/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-322344/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-322344/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:214417",
+      "target_name": "A.M. & D. LIMITED",
+      "slug": "cro-214417",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-214417/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-214417/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-214417/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-214417/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-214417/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:162537",
+      "target_name": "A.M.T. GALWAY LIMITED",
+      "slug": "cro-162537",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-162537/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-162537/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-162537/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-162537/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-162537/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:157217",
+      "target_name": "GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA",
+      "slug": "cro-157217",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-157217/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-157217/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-157217/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-157217/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-157217/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:369982",
+      "target_name": "GARDEN PRIDE TOOL HIRE LIMITED",
+      "slug": "cro-369982",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-369982/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-369982/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-369982/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-369982/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-369982/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:345282",
+      "target_name": "LAWN RANGER LIMITED",
+      "slug": "cro-345282",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-345282/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-345282/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-345282/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-345282/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-345282/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:106973",
+      "target_name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
+      "slug": "cro-106973",
+      "readiness": "blocked",
+      "score": 23.1,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-106973/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-106973/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-106973/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-106973/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-106973/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:270945",
+      "target_name": "40 DEGREES LIMITED",
+      "slug": "cro-270945",
+      "readiness": "blocked",
+      "score": 21.0,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-270945/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-270945/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-270945/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-270945/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-270945/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:406809",
+      "target_name": "4D SOFTWARE LIMITED",
+      "slug": "cro-406809",
+      "readiness": "blocked",
+      "score": 21.0,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-406809/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-406809/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-406809/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-406809/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-406809/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:328171",
+      "target_name": "A J D DEVELOPMENTS LIMITED",
+      "slug": "cro-328171",
+      "readiness": "blocked",
+      "score": 21.0,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-328171/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328171/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328171/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328171/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-328171/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:217915",
+      "target_name": "A.M. & D. HOLDINGS LIMITED",
+      "slug": "cro-217915",
+      "readiness": "blocked",
+      "score": 21.0,
+      "evidence_gap_count": 3,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-217915/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-217915/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-217915/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-217915/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-217915/watch_note.md"
       }
     }
   ]

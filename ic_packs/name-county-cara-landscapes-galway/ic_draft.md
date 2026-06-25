@@ -47,7 +47,6 @@
 
 ## Risks
 
-- company age unavailable; succession signal is incomplete
 - company status unavailable
 - transaction source lacks asking-price data
 

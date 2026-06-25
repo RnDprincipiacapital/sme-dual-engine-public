@@ -1,6 +1,6 @@
 # IC Draft: Galway Ideal Installation & Construction Co. Limited
 
-**Diligence status:** outreach_ready
+**Diligence status:** enrichment_required
 
 ## Company Overview
 
@@ -9,15 +9,15 @@
 - Sector: Industrials & Engineering
 - Company status: NORMAL
 - Company age: 36.0
-- Origination score: 81.4
-- Next action: prioritise_for_manual_origination_review
+- Origination score: 68.6
+- Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
 
-- long operating history suggests founder legacy may matter
 - CRO status appears active
 - sector is compatible with local owner-managed succession
 - broker/listing source indicates some transaction intent
+- public contact details support founder outreach
 - incorporates existing scraper fit score
 - public text contains founder/succession-style language
 
@@ -51,8 +51,8 @@
 
 ## Recommended Next Actions
 
-- prioritise_for_manual_origination_review
-- confirm owner/seller context before first contact
+- research_and_enrich_before_outreach
+- fill high-priority evidence gaps before outreach
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: no asking price or valuation anchor

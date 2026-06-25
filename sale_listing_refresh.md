@@ -3,7 +3,7 @@
 - Status: `ok`
 - Observed at: `2026-06-25`
 - Published rows: `225`
-- Refreshed rows: `228`
+- Refreshed rows: `225`
 - Existing rows considered: `225`
 - Public output: `galway-live-sale-listings-public.csv`
 
@@ -17,14 +17,13 @@
   - Page: 25 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-3
   - Page: 5 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-4
 - bizbuy_ie: ok; 7 rows; https://bizbuy.ie/buy
-- business_sale_report: ok; 61 rows; https://www.business-sale.com/region-businesses-for-sale-ireland
+- business_sale_report: ok; 59 rows; https://www.business-sale.com/region-businesses-for-sale-ireland
   - Page: 20 rows; https://www.business-sale.com/region-businesses-for-sale-ireland
   - Page: 20 rows; https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=2
-  - Page: 20 rows; https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=3
-  - Page: 1 rows; https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=4
-- business_sale_report: ok; 29 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland
+  - Page: 19 rows; https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=3
+- business_sale_report: ok; 28 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland
   - Page: 20 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland
-  - Page: 9 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland?region=northern_ireland&is_new_search=1&page=2
+  - Page: 8 rows; https://www.business-sale.com/region-businesses-for-sale-northern-ireland?region=northern_ireland&is_new_search=1&page=2
 - smergers: ok; 28 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/
   - Page: 14 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/
   - Page: 14 rows; https://www.smergers.com/businesses-for-sale-and-investment-in-ireland/c513b/?page=2

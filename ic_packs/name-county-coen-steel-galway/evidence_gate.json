@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:coen steel:galway",
   "target_name": "Coen Steel Limited",
-  "readiness": "ic_ready",
-  "score": 81.8,
+  "readiness": "research_memo_ready",
+  "score": 69.5,
   "evidence_gap_count": 2,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   "allowed_exports": [
     "markdown",
     "html",
-    "latex",
-    "pdf_candidate"
+    "latex"
   ]
 }

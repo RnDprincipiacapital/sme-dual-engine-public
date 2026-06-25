@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:traditional irish pub in galway city:galway",
   "target_name": "Traditional Irish Pub in Galway City",
-  "readiness": "research_memo_ready",
-  "score": 60.8,
+  "readiness": "watch_memo_only",
+  "score": 58.5,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -11,7 +11,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

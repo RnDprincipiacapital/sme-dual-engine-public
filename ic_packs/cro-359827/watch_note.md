@@ -1,7 +1,7 @@
 # Watch Note: A.E.D. SECURITY INSTALLATIONS LIMITED
 
 Readiness: blocked
-Score: 43.2
+Score: 30.4
 
 ## Required Before IC
 

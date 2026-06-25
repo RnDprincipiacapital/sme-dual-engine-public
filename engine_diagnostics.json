@@ -3,17 +3,17 @@
   "component_stats": {
     "succession_fit": {
       "count": 310,
-      "mean": 40.9,
-      "median": 35.8,
+      "mean": 36.4,
+      "median": 35.0,
       "min": 0.0,
-      "max": 98.2
+      "max": 75.8
     },
     "business_quality": {
       "count": 310,
-      "mean": 44.7,
+      "mean": 40.8,
       "median": 37.0,
       "min": 0.0,
-      "max": 100.0
+      "max": 82.0
     },
     "deal_readiness": {
       "count": 310,
@@ -31,17 +31,17 @@
     },
     "combined": {
       "count": 310,
-      "mean": 51.4,
+      "mean": 48.8,
       "median": 50.7,
-      "min": 23.6,
-      "max": 84.2
+      "min": 21.0,
+      "max": 76.8
     }
   },
   "weakest_component_counts": {
-    "business_quality": 107,
+    "business_quality": 110,
     "deal_readiness": 32,
-    "macro_policy": 12,
-    "succession_fit": 159
+    "macro_policy": 6,
+    "succession_fit": 162
   },
   "by_county": [
     {
@@ -101,17 +101,17 @@
       "count": 3,
       "combined": {
         "count": 3,
-        "mean": 53.9,
-        "median": 47.5,
-        "min": 47.3,
-        "max": 67.0
+        "mean": 52.0,
+        "median": 47.3,
+        "min": 44.6,
+        "max": 64.1
       },
       "succession_fit": {
         "count": 3,
-        "mean": 39.0,
-        "median": 31.0,
+        "mean": 35.0,
+        "median": 25.0,
         "min": 25.0,
-        "max": 61.0
+        "max": 55.0
       },
       "macro_policy": {
         "count": 3,
@@ -179,14 +179,14 @@
       "count": 96,
       "combined": {
         "count": 96,
-        "mean": 46.3,
-        "median": 47.2,
+        "mean": 46.2,
+        "median": 47.0,
         "min": 23.6,
         "max": 66.8
       },
       "succession_fit": {
         "count": 96,
-        "mean": 31.6,
+        "mean": 31.5,
         "median": 35.0,
         "min": 0.0,
         "max": 60.0
@@ -205,17 +205,17 @@
       "count": 113,
       "combined": {
         "count": 113,
-        "mean": 52.5,
-        "median": 50.5,
-        "min": 23.6,
-        "max": 84.2
+        "mean": 45.7,
+        "median": 48.2,
+        "min": 21.0,
+        "max": 76.8
       },
       "succession_fit": {
         "count": 113,
-        "mean": 50.5,
-        "median": 47.5,
+        "mean": 38.4,
+        "median": 40.0,
         "min": 0.0,
-        "max": 98.2
+        "max": 75.8
       },
       "macro_policy": {
         "count": 113,
@@ -224,7 +224,7 @@
         "min": 37.0,
         "max": 97.0
       },
-      "top_target": "Airflow Air Refrigeration (Galway) Limited"
+      "top_target": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway"
     },
     {
       "county": "Ireland",
@@ -257,17 +257,17 @@
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 47.5,
-        "median": 47.5,
-        "min": 47.5,
-        "max": 47.5
+        "mean": 44.6,
+        "median": 44.6,
+        "min": 44.6,
+        "max": 44.6
       },
       "succession_fit": {
         "count": 1,
-        "mean": 31.0,
-        "median": 31.0,
-        "min": 31.0,
-        "max": 31.0
+        "mean": 25.0,
+        "median": 25.0,
+        "min": 25.0,
+        "max": 25.0
       },
       "macro_policy": {
         "count": 1,
@@ -283,17 +283,17 @@
       "count": 2,
       "combined": {
         "count": 2,
-        "mean": 54.5,
-        "median": 54.5,
+        "mean": 53.0,
+        "median": 53.0,
         "min": 44.6,
-        "max": 64.3
+        "max": 61.4
       },
       "succession_fit": {
         "count": 2,
-        "mean": 43.0,
-        "median": 43.0,
+        "mean": 40.0,
+        "median": 40.0,
         "min": 25.0,
-        "max": 61.0
+        "max": 55.0
       },
       "macro_policy": {
         "count": 2,
@@ -415,17 +415,17 @@
       "count": 11,
       "combined": {
         "count": 11,
-        "mean": 53.9,
+        "mean": 51.2,
         "median": 50.7,
         "min": 39.3,
-        "max": 72.3
+        "max": 61.4
       },
       "succession_fit": {
         "count": 11,
-        "mean": 45.9,
+        "mean": 40.9,
         "median": 40.0,
         "min": 25.0,
-        "max": 81.2
+        "max": 58.8
       },
       "macro_policy": {
         "count": 11,
@@ -434,24 +434,24 @@
         "min": 37.0,
         "max": 82.0
       },
-      "top_target": "Galway Truck Centre Limited"
+      "top_target": "Two-Way Communication Technology Distributor"
     },
     {
       "sector": "Business Services",
       "count": 103,
       "combined": {
         "count": 103,
-        "mean": 47.0,
-        "median": 47.5,
+        "mean": 45.7,
+        "median": 47.3,
         "min": 23.6,
-        "max": 73.0
+        "max": 64.1
       },
       "succession_fit": {
         "count": 103,
-        "mean": 32.6,
+        "mean": 30.4,
         "median": 35.0,
         "min": 0.0,
-        "max": 83.2
+        "max": 60.8
       },
       "macro_policy": {
         "count": 103,
@@ -460,7 +460,7 @@
         "min": 37.0,
         "max": 82.0
       },
-      "top_target": "Greaney Glass Products Limited"
+      "top_target": "Healthcare Services Provider"
     },
     {
       "sector": "Businesses",
@@ -519,17 +519,17 @@
       "count": 16,
       "combined": {
         "count": 16,
-        "mean": 65.8,
+        "mean": 62.9,
         "median": 64.1,
         "min": 55.4,
-        "max": 84.0
+        "max": 71.6
       },
       "succession_fit": {
         "count": 16,
-        "mean": 63.2,
+        "mean": 57.8,
         "median": 55.0,
         "min": 47.0,
-        "max": 97.5
+        "max": 75.0
       },
       "macro_policy": {
         "count": 16,
@@ -545,17 +545,17 @@
       "count": 2,
       "combined": {
         "count": 2,
-        "mean": 49.8,
-        "median": 49.8,
-        "min": 49.8,
-        "max": 49.8
+        "mean": 37.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 37.0
       },
       "succession_fit": {
         "count": 2,
-        "mean": 57.2,
-        "median": 57.2,
-        "min": 57.2,
-        "max": 57.2
+        "mean": 34.8,
+        "median": 34.8,
+        "min": 34.8,
+        "max": 34.8
       },
       "macro_policy": {
         "count": 2,
@@ -571,17 +571,17 @@
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 47.1,
-        "median": 47.1,
-        "min": 47.1,
-        "max": 47.1
+        "mean": 34.3,
+        "median": 34.3,
+        "min": 34.3,
+        "max": 34.3
       },
       "succession_fit": {
         "count": 1,
-        "mean": 57.2,
-        "median": 57.2,
-        "min": 57.2,
-        "max": 57.2
+        "mean": 34.8,
+        "median": 34.8,
+        "min": 34.8,
+        "max": 34.8
       },
       "macro_policy": {
         "count": 1,
@@ -597,17 +597,17 @@
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 43.2,
-        "median": 43.2,
-        "min": 43.2,
-        "max": 43.2
+        "mean": 30.4,
+        "median": 30.4,
+        "min": 30.4,
+        "max": 30.4
       },
       "succession_fit": {
         "count": 1,
-        "mean": 57.2,
-        "median": 57.2,
-        "min": 57.2,
-        "max": 57.2
+        "mean": 34.8,
+        "median": 34.8,
+        "min": 34.8,
+        "max": 34.8
       },
       "macro_policy": {
         "count": 1,
@@ -649,17 +649,17 @@
       "count": 19,
       "combined": {
         "count": 19,
-        "mean": 59.8,
+        "mean": 58.9,
         "median": 58.7,
         "min": 51.9,
-        "max": 79.1
+        "max": 68.5
       },
       "succession_fit": {
         "count": 19,
-        "mean": 45.5,
+        "mean": 43.7,
         "median": 45.0,
         "min": 25.0,
-        "max": 83.2
+        "max": 60.8
       },
       "macro_policy": {
         "count": 19,
@@ -668,24 +668,24 @@
         "min": 52.0,
         "max": 97.0
       },
-      "top_target": "Galway Stationery Supplies Limited"
+      "top_target": "Logistics and Warehousing Solutions Provider"
     },
     {
       "sector": "Food & Beverage",
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 60.8,
-        "median": 60.8,
-        "min": 60.8,
-        "max": 60.8
+        "mean": 58.5,
+        "median": 58.5,
+        "min": 58.5,
+        "max": 58.5
       },
       "succession_fit": {
         "count": 1,
-        "mean": 57.0,
-        "median": 57.0,
-        "min": 57.0,
-        "max": 57.0
+        "mean": 52.5,
+        "median": 52.5,
+        "min": 52.5,
+        "max": 52.5
       },
       "macro_policy": {
         "count": 1,
@@ -701,17 +701,17 @@
       "count": 10,
       "combined": {
         "count": 10,
-        "mean": 63.2,
-        "median": 64.1,
+        "mean": 62.5,
+        "median": 63.8,
         "min": 57.1,
-        "max": 71.4
+        "max": 64.1
       },
       "succession_fit": {
         "count": 10,
-        "mean": 56.4,
+        "mean": 55.0,
         "median": 55.0,
         "min": 45.0,
-        "max": 81.8
+        "max": 68.2
       },
       "macro_policy": {
         "count": 10,
@@ -720,24 +720,24 @@
         "min": 67.0,
         "max": 82.0
       },
-      "top_target": "Primary Care (Galway City East Health Centre) Limited"
+      "top_target": "Dental and Aesthetic Clinic"
     },
     {
       "sector": "Hospitality & Tourism",
       "count": 34,
       "combined": {
         "count": 34,
-        "mean": 46.5,
-        "median": 47.4,
+        "mean": 46.1,
+        "median": 47.1,
         "min": 28.7,
-        "max": 59.5
+        "max": 53.6
       },
       "succession_fit": {
         "count": 34,
-        "mean": 31.4,
+        "mean": 30.6,
         "median": 35.0,
         "min": 0.0,
-        "max": 66.2
+        "max": 52.8
       },
       "macro_policy": {
         "count": 34,
@@ -746,24 +746,24 @@
         "min": 37.0,
         "max": 82.0
       },
-      "top_target": "Galway Catering Company Limited"
+      "top_target": "Luxury B&B Business – Prestigious West Of Ireland"
     },
     {
       "sector": "Industrials & Engineering",
       "count": 27,
       "combined": {
         "count": 27,
-        "mean": 67.1,
-        "median": 65.8,
+        "mean": 64.7,
+        "median": 64.1,
         "min": 57.0,
-        "max": 84.2
+        "max": 71.9
       },
       "succession_fit": {
         "count": 27,
-        "mean": 61.0,
+        "mean": 56.6,
         "median": 55.0,
         "min": 45.0,
-        "max": 98.2
+        "max": 75.8
       },
       "macro_policy": {
         "count": 27,
@@ -805,17 +805,17 @@
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 44.7,
-        "median": 44.7,
-        "min": 44.7,
-        "max": 44.7
+        "mean": 37.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 37.0
       },
       "succession_fit": {
         "count": 1,
-        "mean": 48.2,
-        "median": 48.2,
-        "min": 48.2,
-        "max": 48.2
+        "mean": 34.8,
+        "median": 34.8,
+        "min": 34.8,
+        "max": 34.8
       },
       "macro_policy": {
         "count": 1,
@@ -831,16 +831,16 @@
       "count": 2,
       "combined": {
         "count": 2,
-        "mean": 55.3,
-        "median": 55.3,
-        "min": 47.5,
+        "mean": 53.9,
+        "median": 53.9,
+        "min": 44.6,
         "max": 63.1
       },
       "succession_fit": {
         "count": 2,
-        "mean": 45.5,
-        "median": 45.5,
-        "min": 31.0,
+        "mean": 42.5,
+        "median": 42.5,
+        "min": 25.0,
         "max": 60.0
       },
       "macro_policy": {
@@ -883,17 +883,17 @@
       "count": 3,
       "combined": {
         "count": 3,
-        "mean": 45.0,
-        "median": 45.8,
-        "min": 40.6,
-        "max": 48.5
+        "mean": 33.9,
+        "median": 33.0,
+        "min": 33.0,
+        "max": 35.7
       },
       "succession_fit": {
         "count": 3,
-        "mean": 50.2,
-        "median": 53.2,
-        "min": 44.2,
-        "max": 53.2
+        "mean": 30.8,
+        "median": 30.8,
+        "min": 30.8,
+        "max": 30.8
       },
       "macro_policy": {
         "count": 3,
@@ -909,17 +909,17 @@
       "count": 25,
       "combined": {
         "count": 25,
-        "mean": 49.2,
+        "mean": 48.5,
         "median": 48.0,
         "min": 23.6,
-        "max": 74.2
+        "max": 64.1
       },
       "succession_fit": {
         "count": 25,
-        "mean": 35.5,
+        "mean": 34.3,
         "median": 35.0,
         "min": 0.0,
-        "max": 80.0
+        "max": 55.0
       },
       "macro_policy": {
         "count": 25,
@@ -928,7 +928,7 @@
         "min": 37.0,
         "max": 82.0
       },
-      "top_target": "Profitable Commercial Nursery for Sale in Galway"
+      "top_target": "Award-Winning Beauty Salon"
     },
     {
       "sector": "Technology & IT Services",
@@ -961,17 +961,17 @@
       "count": 6,
       "combined": {
         "count": 6,
-        "mean": 56.2,
+        "mean": 55.8,
         "median": 58.0,
         "min": 37.8,
         "max": 63.1
       },
       "succession_fit": {
         "count": 6,
-        "mean": 46.1,
+        "mean": 45.4,
         "median": 45.0,
         "min": 20.0,
-        "max": 61.8
+        "max": 60.0
       },
       "macro_policy": {
         "count": 6,
@@ -987,17 +987,17 @@
       "count": 35,
       "combined": {
         "count": 35,
-        "mean": 39.3,
-        "median": 36.0,
-        "min": 30.8,
-        "max": 56.2
+        "mean": 29.5,
+        "median": 23.1,
+        "min": 21.0,
+        "max": 55.3
       },
       "succession_fit": {
         "count": 35,
-        "mean": 35.9,
-        "median": 35.8,
-        "min": 26.8,
-        "max": 53.2
+        "mean": 18.6,
+        "median": 13.2,
+        "min": 7.2,
+        "max": 52.5
       },
       "macro_policy": {
         "count": 35,
@@ -1006,7 +1006,7 @@
         "min": 37.0,
         "max": 52.0
       },
-      "top_target": "A. HARTMANN & SON LIMITED"
+      "top_target": "Traditional Turkish Barbers-city Centre Location"
     },
     {
       "sector": "agri_food",
@@ -1039,16 +1039,16 @@
       "count": 2,
       "combined": {
         "count": 2,
-        "mean": 56.0,
-        "median": 56.0,
-        "min": 45.0,
+        "mean": 49.5,
+        "median": 49.5,
+        "min": 32.1,
         "max": 67.0
       },
       "succession_fit": {
         "count": 2,
-        "mean": 58.5,
-        "median": 58.5,
-        "min": 50.8,
+        "mean": 47.2,
+        "median": 47.2,
+        "min": 28.2,
         "max": 66.2
       },
       "macro_policy": {
@@ -1063,123 +1063,6 @@
   ],
   "top_targets": [
     {
-      "name": "Airflow Air Refrigeration (Galway) Limited",
-      "county": "Galway",
-      "local_area": "Unit 9d Racecourse Business Park , Ballybrit , Co. Galway, Galway H91 V9R0",
-      "sector": "Industrials & Engineering",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 98.2,
-      "business_quality": 100.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 84.2,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited",
-      "county": "Galway",
-      "local_area": "10 Ard Aoibhinn Drive , Ballybane Road , Co. Galway, Galway H91 VYP8",
-      "sector": "Construction & Built Environment",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 97.5,
-      "business_quality": 100.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 84.0,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Coen Steel Limited",
-      "county": "Galway",
-      "local_area": "Coen Steel , Deerpark Industrial Estate , Oran More Galway , Co. Galway, Galway H91 D9P1",
-      "sector": "Industrials & Engineering",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 91.2,
-      "business_quality": 100.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 81.8,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Galway Ideal Installation & Construction Co. Limited",
-      "county": "Galway",
-      "local_area": "108 Sandyvale Lawn , Headford Road , Galway. , Co. Galway, Galway H91 XDE4",
-      "sector": "Industrials & Engineering",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 92.2,
-      "business_quality": 97.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 82.0,
-      "combined": 81.4,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Kevin Walsh Plumbing (Galway) Limited",
-      "county": "Galway",
-      "local_area": "Gortacleva , Bushy Park , Co. Galway, Galway",
-      "sector": "Construction & Built Environment",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 94.8,
-      "business_quality": 97.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 67.0,
-      "combined": 79.6,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Galway Stainless Steel Limited",
-      "county": "Galway",
-      "local_area": "Unit 14 , Ballybana Industrial Estate , Tuam Road Galway , Co. Galway, Galway H91 DY61",
-      "sector": "Industrials & Engineering",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 94.0,
-      "business_quality": 97.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 67.0,
-      "combined": 79.4,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Galway Stationery Supplies Limited",
-      "county": "Galway",
-      "local_area": "Unit 10 Glenrock Business Campus , Balybane , Co. Galway, Galway H91 H5X7",
-      "sector": "Food & Agribusiness",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 83.2,
-      "business_quality": 100.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 79.1,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Bellville Building & Construction Galway Limited",
-      "county": "Galway",
-      "local_area": "Technology House , Galway Technology Park , Parkmore Galway , Co. Galway, Galway H91 Y2WH",
-      "sector": "Industrials & Engineering",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 89.2,
-      "business_quality": 97.0,
-      "deal_readiness": 38.0,
-      "macro_policy": 82.0,
-      "combined": 78.7,
-      "weakest_component": "deal_readiness"
-    },
-    {
-      "name": "Spellman Construction Claregalway Limited",
-      "county": "Galway",
-      "local_area": "Cahergowan , Claregalway, Galway",
-      "sector": "Construction & Built Environment",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 92.2,
-      "business_quality": 97.0,
-      "deal_readiness": 46.0,
-      "macro_policy": 67.0,
-      "combined": 78.7,
-      "weakest_component": "deal_readiness"
-    },
-    {
       "name": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
       "county": "Galway",
       "local_area": "Ahascragh",
@@ -1191,138 +1074,255 @@
       "macro_policy": 97.0,
       "combined": 76.8,
       "weakest_component": "business_quality"
+    },
+    {
+      "name": "Airflow Air Refrigeration (Galway) Limited",
+      "county": "Galway",
+      "local_area": "Unit 9d Racecourse Business Park , Ballybrit , Co. Galway, Galway H91 V9R0",
+      "sector": "Industrials & Engineering",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 75.8,
+      "business_quality": 82.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 71.9,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited",
+      "county": "Galway",
+      "local_area": "10 Ard Aoibhinn Drive , Ballybane Road , Co. Galway, Galway H91 VYP8",
+      "sector": "Construction & Built Environment",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 75.0,
+      "business_quality": 82.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 71.6,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Coen Steel Limited",
+      "county": "Galway",
+      "local_area": "Coen Steel , Deerpark Industrial Estate , Oran More Galway , Co. Galway, Galway H91 D9P1",
+      "sector": "Industrials & Engineering",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 68.8,
+      "business_quality": 82.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 69.5,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Galway Ideal Installation & Construction Co. Limited",
+      "county": "Galway",
+      "local_area": "108 Sandyvale Lawn , Headford Road , Galway. , Co. Galway, Galway H91 XDE4",
+      "sector": "Industrials & Engineering",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 69.8,
+      "business_quality": 77.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 82.0,
+      "combined": 68.6,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Logistics and Warehousing Solutions Provider",
+      "county": "Ireland",
+      "local_area": "Ireland, UK",
+      "sector": "Food & Agribusiness",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 60.0,
+      "business_quality": 52.0,
+      "deal_readiness": 78.0,
+      "macro_policy": 97.0,
+      "combined": 68.5,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "Mortons of Galway, Salthill, Galway., Salthill, Galway City",
+      "county": "Galway",
+      "local_area": "Salthill",
+      "sector": "facilities",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 66.2,
+      "business_quality": 42.0,
+      "deal_readiness": 98.0,
+      "macro_policy": 67.0,
+      "combined": 67.0,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "Fertilizer Company for Sale in Wexford, Ireland",
+      "county": "Wexford",
+      "local_area": "Wexford, County Wexford, Ireland",
+      "sector": "Industrials & Engineering",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 55.0,
+      "business_quality": 52.0,
+      "deal_readiness": 78.0,
+      "macro_policy": 97.0,
+      "combined": 66.8,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "Galway Stationery Supplies Limited",
+      "county": "Galway",
+      "local_area": "Unit 10 Glenrock Business Campus , Balybane , Co. Galway, Galway H91 H5X7",
+      "sector": "Food & Agribusiness",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 60.8,
+      "business_quality": 82.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 66.8,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Highly-Regarded Building and Civil Engineering",
+      "county": "Ireland",
+      "local_area": "Ireland, UK",
+      "sector": "Industrials & Engineering",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 55.0,
+      "business_quality": 52.0,
+      "deal_readiness": 78.0,
+      "macro_policy": 97.0,
+      "combined": 66.8,
+      "weakest_component": "business_quality"
     }
   ],
   "low_confidence_targets": [
     {
-      "name": "Bonordic in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Retail & Consumer",
-      "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
-    },
-    {
-      "name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
+      "name": "40 DEGREES LIMITED",
       "county": "Galway",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
+      "succession_fit": 7.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
       "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
+      "combined": 21.0,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "4D SOFTWARE LIMITED",
+      "county": "Galway",
+      "local_area": "26 WOOD QUAY",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
+      "succession_fit": 7.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
       "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
+      "combined": 21.0,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Energie fitness in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "A J D DEVELOPMENTS LIMITED",
+      "county": "Galway",
+      "local_area": "GLENREAVAGH",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
+      "succession_fit": 7.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
       "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
+      "combined": 21.0,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Energie fitness in Swords",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "A.M. & D. HOLDINGS LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
+      "succession_fit": 7.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
       "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
+      "combined": 21.0,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Young Engineers Franchise in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
       "macro_policy": 37.0,
-      "combined": 23.6,
-      "weakest_component": "succession_fit"
+      "combined": 23.1,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Evoglide Automotive Franchise in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
+      "county": "Galway",
+      "local_area": "UNIT 204",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 23.1,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Four Star Pizza in Balbriggan",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "36 O'CONNELL STREET MANAGEMENT LIMITED",
+      "county": "Galway",
+      "local_area": "41 Central Chambers",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 23.1,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Gecko Hospitality Recruitment Franchise in Dublin",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "3D VENTURES LIMITED",
+      "county": "Galway",
+      "local_area": "TRUSKEY WEST",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 23.1,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Signarama International Master Franchise Opportunities",
-      "county": "Dublin",
-      "local_area": "Unknown",
-      "sector": "Business Services",
+      "name": "A & M. DISTRIBUTORS LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
       "next_action": "defer_until_new_evidence",
-      "succession_fit": 0.0,
-      "business_quality": 12.0,
-      "deal_readiness": 63.0,
-      "macro_policy": 52.0,
-      "combined": 26.3,
-      "weakest_component": "succession_fit"
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 23.1,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "A & P AVIATION LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 13.2,
+      "business_quality": 7.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 23.1,
+      "weakest_component": "business_quality"
     }
   ],
   "recommendations": [

@@ -1,7 +1,7 @@
 # Watch Note: A B P MANUFACTURING MACHINERY LIMITED
 
 Readiness: blocked
-Score: 44.7
+Score: 37.0
 
 ## Required Before IC
 

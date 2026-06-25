@@ -1,7 +1,7 @@
 # Watch Note: 2TYPE3 SUSTAINABILITY PARTNERS LIMITED
 
 Readiness: blocked
-Score: 30.8
+Score: 23.1
 
 ## Required Before IC
 

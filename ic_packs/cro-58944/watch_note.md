@@ -1,7 +1,7 @@
 # Watch Note: A. B. C. CUISINES LIMITED
 
 Readiness: blocked
-Score: 36.0
+Score: 23.1
 
 ## Required Before IC
 

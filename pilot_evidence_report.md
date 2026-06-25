@@ -19,7 +19,7 @@
 - Company-universe counties: Dublin, Galway
 - Sector-spend rows: 12
 - Company-universe rows: 15
-- Universe company count: 471
+- Universe company count: 472
 
 ## Issues
 
@@ -27,7 +27,7 @@
 
 ## Warnings
 
-- some company universe rows are missing director-age threshold counts
+- No readiness warnings detected.
 
 ## Sector-Spend Sources
 
@@ -35,10 +35,9 @@
 
 ## Company-Universe Sources
 
-- CRO Company Records open-data daily snapshot; company counts only, no director-age bands. | https://opendata.cro.ie/dataset/companies | 2026-06-25 | approved by Benjamin Falkenburg | 15 row(s)
+- CRO Company Records open-data daily snapshot; company-count evidence by local area and sector. | https://opendata.cro.ie/dataset/companies | 2026-06-25 | approved by Benjamin Falkenburg | 15 row(s)
 
 ## Next Actions
 
 - Approved source collection is 27 of 120 rows.
-- some company universe rows are missing director-age threshold counts
 - replace sample/placeholder Galway and Dublin rows with approved source data

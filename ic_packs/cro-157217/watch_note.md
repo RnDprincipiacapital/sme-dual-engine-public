@@ -1,7 +1,7 @@
 # Watch Note: GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA
 
 Readiness: blocked
-Score: 36.0
+Score: 23.1
 
 ## Required Before IC
 

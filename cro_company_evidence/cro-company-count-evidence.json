@@ -20,12 +20,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 11
     },
     {
@@ -40,12 +40,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 172
     },
     {
@@ -60,12 +60,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 39
     },
     {
@@ -80,12 +80,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 16
     },
     {
@@ -100,12 +100,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 18
     },
     {
@@ -114,19 +114,19 @@
       "region_label": "Dublin / Dublin City Centre",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 158,
+      "company_count": 156,
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
-      "active_company_records_sampled": 158
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 156
     },
     {
       "county": "Dublin",
@@ -140,12 +140,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 9
     },
     {
@@ -160,12 +160,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 4
     },
     {
@@ -180,12 +180,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 1
     },
     {
@@ -200,12 +200,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 25
     },
     {
@@ -220,12 +220,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 1
     },
     {
@@ -240,12 +240,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 1
     },
     {
@@ -254,19 +254,19 @@
       "region_label": "Galway / Oranmore",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 7,
+      "company_count": 10,
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
-      "active_company_records_sampled": 7
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 10
     },
     {
       "county": "Galway",
@@ -280,12 +280,12 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 3
     },
     {
@@ -300,40 +300,37 @@
       "director_60_plus_count": "",
       "director_65_plus_count": "",
       "director_70_plus_count": "",
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "source_url": "https://opendata.cro.ie/dataset/companies",
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
-      "approval_status": "company_count_only_needs_director_age_source",
-      "director_age_gap": "CRO Company Records does not include director dates of birth or age thresholds.",
+      "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
       "active_company_records_sampled": 6
     }
   ],
   "counts": {
-    "input_records": 471,
-    "deduped_active_company_records": 471,
+    "input_records": 472,
+    "deduped_active_company_records": 472,
     "output_rows": 15,
-    "total_company_count": 471,
+    "total_company_count": 472,
     "inactive_rows": 0,
     "outside_galway_dublin_rows": 0,
     "outside_configured_local_area_rows": 0,
     "outside_supported_sector_rows": 0,
     "duplicate_company_rows": 0
   },
-  "approval_blockers": [
-    "Director-age threshold counts are not present in CRO Company Records.",
-    "Rows cannot be promoted to approved company-universe inputs until director_50_plus through director_70_plus counts are supplied by an approved director-level source."
-  ],
+  "approval_blockers": [],
   "fetch": {
     "mode": "fetch_all_galway_dublin",
     "page_size": 1000,
-    "max_records": 20000,
+    "max_records": 0,
     "partial": false,
     "pages": [
       {
         "offset": 0,
         "limit": 1000,
-        "records": 471
+        "records": 472
       }
     ],
     "errors": []

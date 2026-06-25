@@ -1,16 +1,17 @@
 {
   "identity_key": "cro:59625",
   "target_name": "A. HARTMANN & SON LIMITED",
-  "readiness": "watch_memo_only",
-  "score": 56.2,
+  "readiness": "blocked",
+  "score": 43.4,
   "evidence_gap_count": 3,
-  "blockers": [],
+  "blockers": [
+    "combined score below review threshold"
+  ],
   "required_before_ic": [
     "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [
-    "markdown",
-    "html"
+    "watch_note"
   ]
 }

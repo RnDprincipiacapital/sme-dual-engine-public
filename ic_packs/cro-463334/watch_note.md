@@ -1,7 +1,7 @@
 # Watch Note: GARDEN GREEN ENERGY LIMITED
 
 Readiness: blocked
-Score: 33.5
+Score: 25.8
 
 ## Required Before IC
 

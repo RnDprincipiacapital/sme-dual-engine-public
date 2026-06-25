@@ -9,15 +9,15 @@
 - Sector: Healthcare & Life Sciences
 - Company status: NORMAL
 - Company age: 11.0
-- Origination score: 71.4
+- Origination score: 63.6
 - Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
 
-- established company age supports succession screening
 - CRO status appears active
 - sector is compatible with local owner-managed succession
 - broker/listing source indicates some transaction intent
+- public contact details support founder outreach
 - incorporates existing scraper fit score
 - public text contains founder/succession-style language
 

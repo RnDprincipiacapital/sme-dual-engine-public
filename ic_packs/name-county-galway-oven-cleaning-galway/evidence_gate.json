@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:galway oven cleaning:galway",
   "target_name": "Galway Oven Cleaning Company Limited",
-  "readiness": "research_memo_ready",
-  "score": 64.6,
+  "readiness": "watch_memo_only",
+  "score": 56.9,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

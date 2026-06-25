@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:j o toole & sons galway:galway",
   "target_name": "J. O'Toole & Sons (Galway) Limited",
-  "readiness": "research_memo_ready",
-  "score": 67.3,
+  "readiness": "watch_memo_only",
+  "score": 54.4,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

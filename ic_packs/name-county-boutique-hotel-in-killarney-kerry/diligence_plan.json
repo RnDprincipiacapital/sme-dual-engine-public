@@ -1,7 +1,7 @@
 {
   "target_identity": "Boutique Hotel in Killarney",
-  "stage": "watchlist",
-  "decision_gate": "monitor until new transaction or company evidence appears",
+  "stage": "defer",
+  "decision_gate": "do not spend partner time without materially better evidence",
   "evidence_gaps": [
     "CRO/company number not linked",
     "direct contact route missing",
@@ -33,8 +33,8 @@
     }
   ],
   "recommended_next_actions": [
-    "keep_on_watchlist",
-    "monitor until new transaction or company evidence appears",
+    "defer_until_new_evidence",
+    "do not spend partner time without materially better evidence",
     "close evidence gap: CRO/company number not linked",
     "close evidence gap: direct contact route missing",
     "close evidence gap: registered address unavailable"

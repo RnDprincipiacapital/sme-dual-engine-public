@@ -1,7 +1,7 @@
 {
   "target_identity": "9TH IMPACT LIMITED (CRO 552335)",
-  "stage": "watchlist",
-  "decision_gate": "monitor until new transaction or company evidence appears",
+  "stage": "defer",
+  "decision_gate": "do not spend partner time without materially better evidence",
   "evidence_gaps": [
     "direct contact route missing",
     "registered address unavailable",
@@ -34,8 +34,8 @@
     }
   ],
   "recommended_next_actions": [
-    "keep_on_watchlist",
-    "monitor until new transaction or company evidence appears",
+    "defer_until_new_evidence",
+    "do not spend partner time without materially better evidence",
     "close evidence gap: direct contact route missing",
     "close evidence gap: registered address unavailable",
     "close evidence gap: no asking price or valuation anchor"

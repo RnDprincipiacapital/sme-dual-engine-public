@@ -2,58 +2,58 @@
 
 - Status: `data_room_required`
 - Approved rows: 27 / 120
-- Remaining row gaps: 108
-- Company-universe request rows: 108
-- Collection waves: 6
+- Remaining row gaps: 93
+- Company-universe request rows: 93
+- Collection waves: 5
 - Advertised sale listings: 225
 
 ## Summary
 
-The dashboard is interactive and public-safe, but 108 source rows still need approved director/company evidence before investment-grade use.
+The dashboard is interactive and public-safe, but 93 source rows still need approved company-count evidence and source metadata before investment-grade use.
 
 ## Downloads
 
-- [Director export template](director_export_template.csv)
-- [Director data runbook](director_data_runbook.md)
 - [Company collection plan](company_universe_request/company-universe-collection-plan.md)
 - [Company export request](company_universe_request/company-universe-export-request.csv)
+- [Company work queue](company_universe_request/company-universe-work-queue.csv)
+- [CRO company evidence](cro_company_evidence/cro-company-count-evidence.csv)
 
 ## Required Data
 
-### 1. Approved director/officer export
+### 1. Approved company-count evidence
 
 - Status: `required`
-- Owner: CRO account holder or approved private company-data provider
-- Required for: Director-age thresholds: 50+, 55+, 60+, 65+, and 70+ by company-universe row.
-- Accepted format: CSV matching director_export_template.csv with company_number and director_age fields.
-- Approval gate: validate_director_export.py passes with zero invalid active-director rows.
-- Public/private rule: Do not publish the filled export; publish only aggregate validated company-universe rows.
+- Owner: Research operator using approved public/company-registry sources
+- Required for: 93 company-universe rows that need approved counts or metadata.
+- Accepted format: Completed company-universe-wave-N.csv rows with company_count, source_note, source_url, source_date, and approved_by filled.
+- Approval gate: Strict company-universe preflight passes with no missing company_count or approval metadata.
+- Public/private rule: Publish aggregate company-count evidence only; do not publish private enrichment exports.
 
 ### 2. Completed company-universe waves
 
 - Status: `required`
-- Owner: Research operator using the six published wave CSVs
-- Required for: 108 company-universe rows that need approved counts or metadata.
-- Accepted format: Completed company-universe-wave-N.csv rows with source_note, source_url, source_date, and approved_by filled.
-- Approval gate: Each completed wave reconciles to the director-age import and has no count_mismatch rows.
-- Public/private rule: Wave CSVs may stay public only while they contain request rows, not private director data.
+- Owner: Research operator using the published wave CSVs
+- Required for: Moving all Galway/Dublin local-area and sector rows from request status to approved status.
+- Accepted format: Completed wave CSVs that reconcile to the company export request.
+- Approval gate: Each completed wave merges cleanly through the approved-data workflow.
+- Public/private rule: Wave CSVs may stay public while they contain request rows and aggregate evidence only.
 
-### 3. CRO/company-number reconciliation
+### 3. CRO/company-source reconciliation
 
 - Status: `required`
-- Owner: CRO Open Services user or company registry data owner
-- Required for: Company-number join keys and company-count baseline checks before aggregation.
-- Accepted format: CRO company evidence CSV plus completed company-number join keys.
-- Approval gate: Unique active-company counts reconcile to the company universe before approved rows are merged.
-- Public/private rule: Publish aggregate company-count evidence only.
+- Owner: Company registry data owner or source reviewer
+- Required for: Company-count baseline checks before approved rows are merged.
+- Accepted format: CRO/company evidence CSV plus source URL, source date, and reviewer approval fields.
+- Approval gate: Approved company counts reconcile to the company universe before dashboard promotion.
+- Public/private rule: Publish source class, public URL, and aggregate counts only.
 
 ### 4. Sale-listing feed review
 
 - Status: `ready`
 - Owner: Origination analyst
 - Required for: Keeping advertised-for-sale targets fresh and removing duplicates or irrelevant listings.
-- Accepted format: Published sale listing CSV or refreshed source audit with URL, source, observed date, and listing metadata.
-- Approval gate: Public sale refresh audit returns status ok and stale/duplicate rows are reviewed.
+- Accepted format: Published sale listing audit with URL, source, observed date, and listing metadata.
+- Approval gate: Public sale refresh audit returns status ok and stale or duplicate rows are reviewed.
 - Public/private rule: Public listing metadata and source URLs are publishable; private broker notes are not.
 
 ### 5. Approval metadata
@@ -68,6 +68,6 @@ The dashboard is interactive and public-safe, but 108 source rows still need app
 ## Success Definition
 
 - All 120 expected public-source rows are approved.
-- All director-age threshold counts come from an approved private director/company export.
-- No filled director-level export or private personal data is committed or published.
+- All company-universe rows have approved company_count evidence and source metadata.
+- No private enrichment export or personal data is committed or published.
 - Live dashboard verifier passes with collection_progress_status approved_collection_complete.

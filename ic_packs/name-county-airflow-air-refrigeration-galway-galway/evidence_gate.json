@@ -2,7 +2,7 @@
   "identity_key": "name_county:airflow air refrigeration galway:galway",
   "target_name": "Airflow Air Refrigeration (Galway) Limited",
   "readiness": "ic_ready",
-  "score": 84.2,
+  "score": 71.9,
   "evidence_gap_count": 2,
   "blockers": [],
   "required_before_ic": [

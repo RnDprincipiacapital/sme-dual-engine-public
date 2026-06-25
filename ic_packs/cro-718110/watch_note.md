@@ -1,7 +1,7 @@
 # Watch Note: 5SRE 5 STAR REAL ESTATE LIMITED
 
 Readiness: blocked
-Score: 42.8
+Score: 40.4
 
 ## Required Before IC
 

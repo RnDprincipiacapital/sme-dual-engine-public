@@ -1,7 +1,7 @@
 # Watch Note: A LEONARD MANAGEMENT & CONSULTING LIMITED
 
 Readiness: blocked
-Score: 40.6
+Score: 33.0
 
 ## Required Before IC
 

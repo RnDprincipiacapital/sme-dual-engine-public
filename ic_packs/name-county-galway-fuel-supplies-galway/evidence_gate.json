@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:galway fuel supplies:galway",
   "target_name": "Galway Fuel Supplies Limited",
-  "readiness": "research_memo_ready",
-  "score": 64.6,
+  "readiness": "watch_memo_only",
+  "score": 51.8,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

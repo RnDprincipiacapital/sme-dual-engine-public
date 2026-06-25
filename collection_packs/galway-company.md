@@ -4,8 +4,8 @@
 - County: `Galway`
 - Kind: `company`
 - Market rows: 0
-- Company-universe rows: 54
-- Total rows: 54
+- Company-universe rows: 48
+- Total rows: 48
 
 ## How To Use
 

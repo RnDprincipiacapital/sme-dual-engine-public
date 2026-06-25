@@ -9,17 +9,17 @@
 - Sector: Business Services
 - Company status: NORMAL
 - Company age: 32.0
-- Origination score: 73.0
+- Origination score: 60.2
 - Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
 
-- long operating history suggests founder legacy may matter
 - CRO status appears active
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
 - incorporates existing scraper fit score
 - public text contains founder/succession-style language
+- local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
 

@@ -1,16 +1,17 @@
 {
   "identity_key": "cro:234849",
   "target_name": "A & D; ADVERTISING AND DESIGN CONSULTANTS LIMITED",
-  "readiness": "watch_memo_only",
-  "score": 45.8,
+  "readiness": "blocked",
+  "score": 33.0,
   "evidence_gap_count": 3,
-  "blockers": [],
+  "blockers": [
+    "combined score below review threshold"
+  ],
   "required_before_ic": [
     "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [
-    "markdown",
-    "html"
+    "watch_note"
   ]
 }

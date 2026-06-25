@@ -1,6 +1,6 @@
 # IC Draft: Profitable Commercial Nursery for Sale in Galway
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
@@ -9,15 +9,15 @@
 - Sector: Retail & Consumer
 - Company status: unknown
 - Company age: 190.0
-- Origination score: 74.2
-- Next action: research_and_enrich_before_outreach
+- Origination score: 58.8
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
-- long operating history suggests founder legacy may matter
 - sector is compatible with local owner-managed succession
 - public asking price enables early deal-structure screening
 - broker/listing source indicates some transaction intent
+- public contact details support founder outreach
 - local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
@@ -50,8 +50,8 @@
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable

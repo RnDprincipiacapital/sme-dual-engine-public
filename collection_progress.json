@@ -6,7 +6,7 @@
     "expected_rows": 120,
     "approved_rows": 27,
     "approved_pct": 22.5,
-    "gap_count": 108
+    "gap_count": 93
   },
   "source_types": {
     "market": {
@@ -54,7 +54,7 @@
   ],
   "by_source": [
     {
-      "source_note": "CRO Company Records open-data daily snapshot; company counts only, no director-age bands.",
+      "source_note": "CRO Company Records open-data daily snapshot; company-count evidence by local area and sector.",
       "market_rows": 0,
       "company_universe_rows": 15,
       "approved_rows": 15,

@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:east galway quality tool hire:galway",
   "target_name": "East Galway Quality Tool Hire Limited",
-  "readiness": "research_memo_ready",
-  "score": 62.2,
+  "readiness": "watch_memo_only",
+  "score": 59.9,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

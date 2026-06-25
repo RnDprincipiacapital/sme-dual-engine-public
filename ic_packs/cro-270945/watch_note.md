@@ -1,7 +1,7 @@
 # Watch Note: 40 DEGREES LIMITED
 
 Readiness: blocked
-Score: 33.9
+Score: 21.0
 
 ## Required Before IC
 

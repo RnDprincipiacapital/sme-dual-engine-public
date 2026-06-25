@@ -34,18 +34,8 @@
     "company_universe_request/company-universe-wave-2.csv",
     "company_universe_request/company-universe-wave-3.csv",
     "company_universe_request/company-universe-wave-4.csv",
-    "company_universe_request/company-universe-wave-5.csv",
-    "company_universe_request/company-universe-wave-6.csv"
+    "company_universe_request/company-universe-wave-5.csv"
   ],
-  "director_age_source_plan_json": "director_age_source_plan.json",
-  "director_age_source_plan_report": "director_age_source_plan.md",
-  "director_age_import_template_csv": "director_age_import_template.csv",
-  "director_age_import_template_json": "director_age_import_template.json",
-  "director_export_template_csv": "director_export_template.csv",
-  "director_export_template_json": "director_export_template.json",
-  "director_export_template_report": "director_export_template.md",
-  "director_data_runbook_json": "director_data_runbook.json",
-  "director_data_runbook_report": "director_data_runbook.md",
   "data_room_checklist_json": "data_room_checklist.json",
   "data_room_checklist_report": "data_room_checklist.md",
   "investment_readiness_scorecard_json": "investment_readiness_scorecard.json",
@@ -65,52 +55,34 @@
   "collection_pack_status": "ready",
   "collection_pack_counts": {
     "market_rows": 0,
-    "company_rows": 108,
-    "total_rows": 108
+    "company_rows": 93,
+    "total_rows": 93
   },
   "company_universe_export_request_status": "ready",
   "company_universe_export_request_counts": {
-    "request_rows": 108,
+    "request_rows": 93,
     "by_county": {
-      "Dublin": 54,
-      "Galway": 54
+      "Dublin": 45,
+      "Galway": 48
     },
     "by_gap_type": {
-      "incomplete_row": 15,
       "missing_row": 93
     }
   },
   "company_universe_collection_plan_status": "ready",
-  "company_universe_collection_plan_waves": 6,
+  "company_universe_collection_plan_waves": 5,
   "company_universe_collection_plan_active_wave_rows": 20,
   "company_universe_work_queue_status": "open",
-  "company_universe_work_queue_open_items": 108,
+  "company_universe_work_queue_open_items": 93,
   "company_universe_wave_1_rows": 20,
-  "company_universe_wave_csv_count": 6,
-  "director_age_source_plan_status": "director_age_source_required",
-  "director_age_import_template_status": "ready",
-  "director_age_import_template_counts": {
-    "rows": 108,
-    "by_county": {
-      "Dublin": 54,
-      "Galway": 54
-    },
-    "by_gap_type": {
-      "incomplete_row": 15,
-      "missing_row": 93
-    }
-  },
-  "director_export_template_status": "ready",
-  "director_export_template_fields": 14,
-  "director_data_runbook_status": "director_data_required",
-  "director_data_runbook_gap_count": 108,
+  "company_universe_wave_csv_count": 5,
   "data_room_checklist_status": "data_room_required",
-  "data_room_checklist_gap_count": 108,
+  "data_room_checklist_gap_count": 93,
   "investment_readiness_scorecard_status": "demo_ready_data_room_required",
   "investment_readiness_scorecard_investment_ready": false,
   "collection_progress_status": "collection_in_progress",
   "collection_progress_pct": 22.5,
   "sale_listing_refresh_status": "ok",
   "sale_listing_refresh_rows": 225,
-  "sale_listing_refreshed_rows": 228
+  "sale_listing_refreshed_rows": 225
 }

@@ -1,7 +1,7 @@
 {
   "target_identity": "Galway L-Zinc Roofing Limited",
-  "stage": "enrichment_required",
-  "decision_gate": "fill high-priority evidence gaps before outreach",
+  "stage": "watchlist",
+  "decision_gate": "monitor until new transaction or company evidence appears",
   "evidence_gaps": [
     "CRO/company number not linked",
     "direct contact route missing",
@@ -45,8 +45,8 @@
     }
   ],
   "recommended_next_actions": [
-    "research_and_enrich_before_outreach",
-    "fill high-priority evidence gaps before outreach",
+    "keep_on_watchlist",
+    "monitor until new transaction or company evidence appears",
     "close evidence gap: CRO/company number not linked",
     "close evidence gap: direct contact route missing",
     "close evidence gap: no asking price or valuation anchor"

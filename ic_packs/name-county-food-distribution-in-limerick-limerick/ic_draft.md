@@ -9,7 +9,7 @@
 - Sector: Food & Agribusiness
 - Company status: unknown
 - Company age: 8.0
-- Origination score: 64.3
+- Origination score: 61.4
 - Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
@@ -46,9 +46,7 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
 - company status unavailable
-- young company may be outside succession sweet spot
 
 ## Recommended Next Actions
 

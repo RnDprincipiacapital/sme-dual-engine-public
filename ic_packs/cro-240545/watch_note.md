@@ -1,7 +1,7 @@
 # Watch Note: A.E.R. LIMITED
 
 Readiness: blocked
-Score: 36.0
+Score: 23.1
 
 ## Required Before IC
 

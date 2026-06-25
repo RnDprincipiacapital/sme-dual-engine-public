@@ -1,7 +1,7 @@
 # Watch Note: A. O'TOOLE (CONFECTIONERS) LIMITED
 
 Readiness: blocked
-Score: 37.3
+Score: 24.4
 
 ## Required Before IC
 

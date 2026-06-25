@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:profitable commercial nursery for sale in galway:galway",
   "target_name": "Profitable Commercial Nursery for Sale in Galway",
-  "readiness": "ic_ready",
-  "score": 74.2,
+  "readiness": "watch_memo_only",
+  "score": 58.8,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -11,8 +11,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex",
-    "pdf_candidate"
+    "html"
   ]
 }

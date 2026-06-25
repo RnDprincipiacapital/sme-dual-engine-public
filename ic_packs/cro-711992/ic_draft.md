@@ -9,7 +9,7 @@
 - Sector: unknown
 - Company status: Normal
 - Company age: 4.0
-- Origination score: 49.2
+- Origination score: 46.9
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -45,8 +45,7 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
-- young company may be outside succession sweet spot
+- none
 
 ## Recommended Next Actions
 

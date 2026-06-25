@@ -6,14 +6,14 @@
   "multi_source_subsector_count": 14,
   "ranked_target_count": 95,
   "sale_listing_count": 215,
-  "company_count_evidence_total": 471,
+  "company_count_evidence_total": 472,
   "rows": [
     {
       "sector": "Business Services",
       "subsector": "Cleaning & facilities management",
       "ranked_targets": 34,
       "sale_listings": 44,
-      "company_count_evidence": 471,
+      "company_count_evidence": 472,
       "observed_rows": 93,
       "coverage_status": "multi_source_observed"
     },
@@ -945,5 +945,5 @@
       "coverage_status": "not_observed"
     }
   ],
-  "note": "Observed coverage is broader than approved company-universe coverage; director-age thresholds remain gated by approved source rows."
+  "note": "Observed coverage is broader than approved company-universe coverage; company-count evidence and source metadata remain gated by approved source rows."
 }

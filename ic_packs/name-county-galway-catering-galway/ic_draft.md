@@ -9,17 +9,17 @@
 - Sector: Hospitality & Tourism
 - Company status: NORMAL
 - Company age: 17.0
-- Origination score: 59.5
+- Origination score: 51.8
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
-- established company age supports succession screening
 - CRO status appears active
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
 - incorporates existing scraper fit score
 - public text contains founder/succession-style language
+- local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
 

@@ -9,7 +9,7 @@
 - Sector: Automotive
 - Company status: NORMAL
 - Company age: 3.0
-- Origination score: 50.5
+- Origination score: 48.2
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -46,8 +46,6 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
-- young company may be outside succession sweet spot
 - sector not yet mapped to a policy theme
 
 ## Recommended Next Actions

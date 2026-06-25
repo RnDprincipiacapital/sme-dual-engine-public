@@ -2,8 +2,8 @@
   "status": "ready",
   "counts": {
     "market_rows": 0,
-    "company_rows": 108,
-    "total_rows": 108
+    "company_rows": 93,
+    "total_rows": 93
   },
   "files": [
     {
@@ -16,7 +16,7 @@
     {
       "county": "Galway",
       "kind": "company",
-      "rows": 54,
+      "rows": 48,
       "csv": "tmp/public-dashboard-build/collection_packs/galway-company.csv",
       "markdown": "tmp/public-dashboard-build/collection_packs/galway-company.md"
     },
@@ -30,7 +30,7 @@
     {
       "county": "Dublin",
       "kind": "company",
-      "rows": 54,
+      "rows": 45,
       "csv": "tmp/public-dashboard-build/collection_packs/dublin-company.csv",
       "markdown": "tmp/public-dashboard-build/collection_packs/dublin-company.md"
     }

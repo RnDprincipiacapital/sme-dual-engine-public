@@ -1,11 +1,9 @@
 {
   "status": "sample_or_incomplete",
   "readiness_status": "pilot_ready",
-  "readiness_score": 95,
+  "readiness_score": 100,
   "readiness_issues": [],
-  "readiness_warnings": [
-    "some company universe rows are missing director-age threshold counts"
-  ],
+  "readiness_warnings": [],
   "counties": {
     "Galway": {
       "status": "missing_inputs",
@@ -16,7 +14,7 @@
       "review_queue_count": 113,
       "sector_spend_rows": 6,
       "company_universe_rows": 6,
-      "company_universe_total_companies": 43,
+      "company_universe_total_companies": 46,
       "director_age_known_count": 0,
       "director_age_thresholds": {
         "50_plus": 0,
@@ -37,7 +35,7 @@
       "review_queue_count": 96,
       "sector_spend_rows": 6,
       "company_universe_rows": 9,
-      "company_universe_total_companies": 428,
+      "company_universe_total_companies": 426,
       "director_age_known_count": 0,
       "director_age_thresholds": {
         "50_plus": 0,

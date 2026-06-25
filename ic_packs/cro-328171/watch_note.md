@@ -1,7 +1,7 @@
 # Watch Note: A J D DEVELOPMENTS LIMITED
 
 Readiness: blocked
-Score: 33.9
+Score: 21.0
 
 ## Required Before IC
 

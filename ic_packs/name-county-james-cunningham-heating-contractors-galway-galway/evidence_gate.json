@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:james cunningham heating contractors galway:galway",
   "target_name": "James Cunningham Heating Contractors (Galway) Limited",
-  "readiness": "research_memo_ready",
-  "score": 67.9,
+  "readiness": "watch_memo_only",
+  "score": 55.0,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

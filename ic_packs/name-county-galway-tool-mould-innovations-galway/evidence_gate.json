@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:galway tool & mould innovations:galway",
   "target_name": "Galway Tool & Mould Innovations Limited",
-  "readiness": "research_memo_ready",
-  "score": 61.8,
+  "readiness": "watch_memo_only",
+  "score": 54.1,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

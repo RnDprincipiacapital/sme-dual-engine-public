@@ -46,7 +46,6 @@
 
 ## Risks
 
-- company age unavailable; succession signal is incomplete
 - company status unavailable
 - transaction source lacks asking-price data
 - high evidence-gap count; do not advance without enrichment

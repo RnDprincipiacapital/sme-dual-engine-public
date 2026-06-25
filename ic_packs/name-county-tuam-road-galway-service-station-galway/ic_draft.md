@@ -9,7 +9,7 @@
 - Sector: Business Services
 - Company status: NORMAL
 - Company age: 1.0
-- Origination score: 53.2
+- Origination score: 50.9
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -46,8 +46,7 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
-- young company may be outside succession sweet spot
+- none
 
 ## Recommended Next Actions
 

@@ -4,8 +4,8 @@
 - County: `Dublin`
 - Kind: `company`
 - Market rows: 0
-- Company-universe rows: 54
-- Total rows: 54
+- Company-universe rows: 45
+- Total rows: 45
 
 ## How To Use
 

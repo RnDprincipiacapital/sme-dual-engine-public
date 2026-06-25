@@ -1,6 +1,6 @@
 # IC Draft: Iclean Professional Cleaning Services Limited
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
@@ -9,8 +9,8 @@
 - Sector: Business Services
 - Company status: NORMAL
 - Company age: 1.0
-- Origination score: 60.5
-- Next action: research_and_enrich_before_outreach
+- Origination score: 58.2
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
@@ -46,13 +46,12 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
-- young company may be outside succession sweet spot
+- none
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: no asking price or valuation anchor

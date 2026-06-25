@@ -1,7 +1,7 @@
 # Watch Note: A.M. & D. HOLDINGS LIMITED
 
 Readiness: blocked
-Score: 33.9
+Score: 21.0
 
 ## Required Before IC
 

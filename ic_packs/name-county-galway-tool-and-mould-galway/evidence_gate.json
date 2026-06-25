@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:galway tool and mould:galway",
   "target_name": "Galway Tool and Mould Limited",
-  "readiness": "ic_ready",
-  "score": 72.8,
+  "readiness": "watch_memo_only",
+  "score": 59.9,
   "evidence_gap_count": 2,
   "blockers": [],
   "required_before_ic": [
@@ -11,8 +11,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex",
-    "pdf_candidate"
+    "html"
   ]
 }

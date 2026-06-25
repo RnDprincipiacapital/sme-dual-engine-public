@@ -1,7 +1,7 @@
 # Watch Note: (NEW AGE OFFICE FURNITURE LIMITED) TROSCAN OIFIGE NA H'AOISE NUA TEORANTA
 
 Readiness: blocked
-Score: 41.3
+Score: 28.4
 
 ## Required Before IC
 

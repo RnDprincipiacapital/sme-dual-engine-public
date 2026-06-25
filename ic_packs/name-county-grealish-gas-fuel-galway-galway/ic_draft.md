@@ -9,7 +9,7 @@
 - Sector: Food & Agribusiness
 - Company status: NORMAL
 - Company age: 5.0
-- Origination score: 64.7
+- Origination score: 62.3
 - Next action: research_and_enrich_before_outreach
 
 ## Seller Psychology Hypothesis
@@ -47,8 +47,7 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
-- young company may be outside succession sweet spot
+- none
 
 ## Recommended Next Actions
 

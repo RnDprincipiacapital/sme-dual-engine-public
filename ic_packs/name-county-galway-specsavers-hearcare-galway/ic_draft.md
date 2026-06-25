@@ -1,6 +1,6 @@
 # IC Draft: Galway Specsavers Hearcare Limited
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
@@ -9,17 +9,17 @@
 - Sector: Business Services
 - Company status: NORMAL
 - Company age: 19.0
-- Origination score: 62.4
-- Next action: research_and_enrich_before_outreach
+- Origination score: 54.6
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
-- established company age supports succession screening
 - CRO status appears active
 - broker/listing source indicates some transaction intent
 - public contact details support founder outreach
 - incorporates existing scraper fit score
 - public text contains founder/succession-style language
+- local/community language supports compassionate-capital fit
 
 ## Financial Snapshot
 
@@ -51,8 +51,8 @@
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: no asking price or valuation anchor

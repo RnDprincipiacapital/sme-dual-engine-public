@@ -1,6 +1,6 @@
 # IC Draft: Traditional Irish Pub in Galway City
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
@@ -9,8 +9,8 @@
 - Sector: Food & Beverage
 - Company status: unknown
 - Company age: 8.0
-- Origination score: 60.8
-- Next action: research_and_enrich_before_outreach
+- Origination score: 58.5
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
@@ -47,14 +47,12 @@
 
 ## Risks
 
-- younger company may be less likely to be a succession case
 - company status unavailable
-- young company may be outside succession sweet spot
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
 - close evidence gap: CRO/company number not linked
 - close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable

@@ -1,8 +1,8 @@
 {
   "identity_key": "name_county:iclean professional cleaning services:galway",
   "target_name": "Iclean Professional Cleaning Services Limited",
-  "readiness": "research_memo_ready",
-  "score": 60.5,
+  "readiness": "watch_memo_only",
+  "score": 58.2,
   "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
@@ -12,7 +12,6 @@
   ],
   "allowed_exports": [
     "markdown",
-    "html",
-    "latex"
+    "html"
   ]
 }

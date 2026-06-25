@@ -46,7 +46,6 @@
 
 ## Risks
 
-- company age unavailable; succession signal is incomplete
 - company status unavailable
 - sector not yet mapped to a policy theme
 
