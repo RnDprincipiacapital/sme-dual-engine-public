@@ -1,0 +1,73 @@
+{
+  "status": "demo_ready_data_room_required",
+  "headline": "Interactive public demo is live; investment-grade approval still needs director/company evidence.",
+  "readiness_score": 84,
+  "readiness_status": "sample_or_incomplete",
+  "approved_rows": 27,
+  "expected_rows": 120,
+  "approved_pct": 22.5,
+  "gap_count": 108,
+  "ranked_targets": 310,
+  "advertised_sale_listings": 225,
+  "refreshed_sale_listings": 228,
+  "collection_waves": 6,
+  "company_universe_request_rows": 108,
+  "taxonomy_sector_count": 15,
+  "taxonomy_subsector_count": 104,
+  "observed_subsector_count": 35,
+  "decision": {
+    "can_share_with_boss": true,
+    "can_use_for_investment_decisions": false,
+    "why_not_investment_ready": "108 company-universe rows still need approved director-age/company evidence."
+  },
+  "scorecard": [
+    {
+      "area": "Interactive site",
+      "status": "ready",
+      "evidence": "310 ranked public targets are available in the dashboard."
+    },
+    {
+      "area": "Live sale feed",
+      "status": "ready",
+      "evidence": "225 advertised sale listings are published; 228 came from the latest public refresh."
+    },
+    {
+      "area": "Sector taxonomy",
+      "status": "ready",
+      "evidence": "15 sectors and 104 subsectors are configured; 35 subsectors currently have observed targets/listings/evidence."
+    },
+    {
+      "area": "Approved source rows",
+      "status": "blocked",
+      "evidence": "27 of 120 approved source rows are complete (22.5%)."
+    },
+    {
+      "area": "Director-age gate",
+      "status": "blocked",
+      "evidence": "Approved private director/officer export is required before investment decisions."
+    }
+  ],
+  "next_gate": "Fill the director/company data room checklist and rerun validators.",
+  "links": [
+    {
+      "label": "Data room checklist",
+      "href": "data_room_checklist.md"
+    },
+    {
+      "label": "Collection plan",
+      "href": "company_universe_request/company-universe-collection-plan.md"
+    },
+    {
+      "label": "Director data runbook",
+      "href": "director_data_runbook.md"
+    },
+    {
+      "label": "Company export request",
+      "href": "company_universe_request/company-universe-export-request.csv"
+    },
+    {
+      "label": "Director export template",
+      "href": "director_export_template.csv"
+    }
+  ]
+}
