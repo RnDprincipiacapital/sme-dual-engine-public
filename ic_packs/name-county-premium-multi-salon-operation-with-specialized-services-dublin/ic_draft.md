@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 500000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 500000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 793e607428c9fdf9
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/premium-multi-salon-operation-with-specialized-services.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established, multi-location hairdressing and hair-loss business offers an exceptional opportunity to acquire a proven, scalable operation in a rapidly expanding market segment. The company... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established, multi-location hairdressing and hair-loss business offers an exceptional opportunity to acquire a proven, scalable operation in a rapidly expanding market segment. The company... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

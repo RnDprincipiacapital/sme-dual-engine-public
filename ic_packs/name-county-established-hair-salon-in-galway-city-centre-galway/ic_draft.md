@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 30000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 30000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -75,4 +75,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 186b05aa6736bcaf
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/established-hair-salon-in-galway-city-centre.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Established Hair salon for sale. Galway city centre. Car parking. Fully equipped. Big clientele. 10 years trading. 4 staff members. Lease in place. Great location, walk-in clientele and. full record... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Established Hair salon for sale. Galway city centre. Car parking. Fully equipped. Big clientele. 10 years trading. 4 staff members. Lease in place. Great location, walk-in clientele and. full record... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

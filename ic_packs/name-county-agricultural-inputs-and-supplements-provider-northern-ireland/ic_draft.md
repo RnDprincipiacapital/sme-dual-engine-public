@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 8b0e24bd60872900
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/agricultural-inputs-and-supplements-provider-retail-northern-ireland-675432
-- `summary` from business_sale_report (observed, confidence 1.0): This well-established company, based in Northern Ireland, has been a crucial supplier of agricultural inputs for 35 years, serving over 200 customers with a loyal, repeat client base across Northern Ireland and the Republic of Ireland. With three own... Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This well-established company, based in Northern Ireland, has been a crucial supplier of agricultural inputs for 35 years, serving over 200 customers with a loyal, repeat client base across Northern Ireland and the Republic of Ireland. With three own... Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

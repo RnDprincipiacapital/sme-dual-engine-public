@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 3f5484240ccb76f7
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/restaurant-and-cafe-stylish-fit-out-and-strong-brand.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This profitable, full-service restaurant and café presents an exciting opportunity for investors or hospitality operators seeking a well-established, modern dining business. Known for its vibrant... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This profitable, full-service restaurant and café presents an exciting opportunity for investors or hospitality operators seeking a well-established, modern dining business. Known for its vibrant... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/restaurant-and-cafe-stylish-fit-out-and-strong-brand.aspx

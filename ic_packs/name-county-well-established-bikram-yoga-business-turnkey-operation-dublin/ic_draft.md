@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 95000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 95000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): a9fabeef72ffa160
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/well-established-bikram-yoga-business-turnkey-operation.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): A rare opportunity to acquire a well-established and highly regarded hot yoga studio with a loyal membership base, recurring revenue streams, and a strong reputation within the health and wellness... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): A rare opportunity to acquire a well-established and highly regarded hot yoga studio with a loyal membership base, recurring revenue streams, and a strong reputation within the health and wellness... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

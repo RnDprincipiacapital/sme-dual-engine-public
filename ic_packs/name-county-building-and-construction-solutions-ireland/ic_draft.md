@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): d21f9f34a05f9e8f
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/building-and-construction-solutions-building-and-construction-ireland-680366
-- `summary` from business_sale_report (observed, confidence 1.0): An established leader in the Irish construction sector, this business excels in developing apartment blocks, hotels, and office buildings alongside their basements and undercrofts. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): An established leader in the Irish construction sector, this business excels in developing apartment blocks, hotels, and office buildings alongside their basements and undercrofts. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Ireland, IR

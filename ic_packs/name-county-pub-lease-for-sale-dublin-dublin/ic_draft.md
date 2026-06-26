@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 550000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 550000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): a3344042fbe88a12
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/pub-lease-for-sale-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Dealchasers (PTY) are proud to offer for sale by private treaty on Lease re-assignment this well established and successfully run pub and restaurant in Dublin. As this is a confidential sale all... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Dealchasers (PTY) are proud to offer for sale by private treaty on Lease re-assignment this well established and successfully run pub and restaurant in Dublin. As this is a confidential sale all... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

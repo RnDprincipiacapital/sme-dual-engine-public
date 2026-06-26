@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): af4ba265649ff71b
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/industrial-engineering-and-technical-solutions-engineering-ireland-680077
-- `summary` from business_sale_report (observed, confidence 1.0): This is an exceptional opportunity to acquire a well-established industrial engineering and mechanical services company in Dublin, known for its reliability and craftsmanship across diverse sectors. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This is an exceptional opportunity to acquire a well-established industrial engineering and mechanical services company in Dublin, known for its reliability and craftsmanship across diverse sectors. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Ireland, IR

@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Wexford
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 200 K SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 200 K SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False
 - `is_franchise` from smergers (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from smergers (observed, confidence 1.0): c32ebaa35ab2d963
 - `source_section` from smergers (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/fertilizer-company-for-sale-in-wexford-ireland/o9zjp/
-- `summary` from smergers (observed, confidence 1.0): The business is an Irish agri-chemical company located in the south of Ireland, specializing in natural and organic fertilizer and plant care products. - Products are sold under a well-established brand identity, targeting both domestic gardeners and small-scale commercial horticulturalists. - The company has a strong reputation for quality, contributing to its solid market presence throughout Ireland. - Distribution occurs primarily through a single distributor, who supplies the products to numerous garden centres nationwide. - We purchase the base liquid, blend it with commercially sourced chemicals, and then sell the finished product. - The sale only includes the brand name and the assets related to the brand. - The sale does not include the sale of the parent company. SMERGERS public listing card observed 2026-06-25.
+- `summary` from smergers (observed, confidence 1.0): The business is an Irish agri-chemical company located in the south of Ireland, specializing in natural and organic fertilizer and plant care products. - Products are sold under a well-established brand identity, targeting both domestic gardeners and small-scale commercial horticulturalists. - The company has a strong reputation for quality, contributing to its solid market presence throughout Ireland. - Distribution occurs primarily through a single distributor, who supplies the products to numerous garden centres nationwide. - We purchase the base liquid, blend it with commercially sourced chemicals, and then sell the finished product. - The sale only includes the brand name and the assets related to the brand. - The sale does not include the sale of the parent company. SMERGERS public listing card observed 2026-06-26.

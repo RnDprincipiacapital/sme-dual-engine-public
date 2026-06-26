@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Dublin
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 50 K at 12% SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 50 K at 12% SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False
 - `is_franchise` from smergers (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from smergers (observed, confidence 1.0): 26fa68b7556ba748
 - `source_section` from smergers (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/newly-established-mechanical-services-company-seeking-loan-in-dublin-ireland/7j9fa/
-- `summary` from smergers (observed, confidence 1.0): Recently established maintenance and cleaning company in its pre-revenue stage, based in Dublin. - The business operates on a project-based business model, undertaking a diverse range of projects that encompass electrical works, carpentry, and cleaning. - Additionally, the company has simultaneously started working on 3 commercial projects, showcasing its ability to handle multiple projects concurrently. - The company will cater to both commercial and residential clients. - Currently the company has invested in a commercial unit in Dublin city center. Project Plan: - Turn the unit into a salon. - Provide work stations for - 2 barbers, 3 hairdressers, 4 nail technicians, 1 receptionist. SMERGERS public listing card observed 2026-06-25.
+- `summary` from smergers (observed, confidence 1.0): Recently established maintenance and cleaning company in its pre-revenue stage, based in Dublin. - The business operates on a project-based business model, undertaking a diverse range of projects that encompass electrical works, carpentry, and cleaning. - Additionally, the company has simultaneously started working on 3 commercial projects, showcasing its ability to handle multiple projects concurrently. - The company will cater to both commercial and residential clients. - Currently the company has invested in a commercial unit in Dublin city center. Project Plan: - Turn the unit into a salon. - Provide work stations for - 2 barbers, 3 hairdressers, 4 nail technicians, 1 receptionist. SMERGERS public listing card observed 2026-06-26.

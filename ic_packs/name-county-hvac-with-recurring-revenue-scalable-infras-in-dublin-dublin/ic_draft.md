@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 1850000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 1850000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 35cce4c0e354c464
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/hvac-company-with-recurring-revenue-and-scalable-infras-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established HVAC business has built a strong reputation over more than a decade, offering a full suite of heating, ventilation, air conditioning, and air quality solutions to commercial and... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established HVAC business has built a strong reputation over more than a decade, offering a full suite of heating, ventilation, air conditioning, and air quality solutions to commercial and... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

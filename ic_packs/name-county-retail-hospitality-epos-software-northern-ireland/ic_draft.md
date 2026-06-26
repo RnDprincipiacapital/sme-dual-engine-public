@@ -58,7 +58,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £1,200,000 Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £1,200,000 Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -71,5 +71,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 865b6034ba987723
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/retail-hospitality-epos-software-company-technology-northern-ireland-674849
-- `summary` from business_sale_report (observed, confidence 1.0): The company has been a pioneering provider of retail EPOS software for over 25 years, with its proprietary software spanning both the retail and hospitality sectors, and a recent acquisition of cutting-edge hospitality solutions, this opportunity inc... Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): The company has been a pioneering provider of retail EPOS software for over 25 years, with its proprietary software spanning both the retail and hospitality sectors, and a recent acquisition of cutting-edge hospitality solutions, this opportunity inc... Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Belfast, Northern Ireland, UK

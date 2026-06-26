@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 3d65b82d5eb45aa2
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/m-and-a-vault/ireland-construction-1-in-category-highly-profitable-w-growth-opportunity
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Established in 2010, this construction business specialises in large-scale projects across Ireland, working with top contractors. Strong growth potential. BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Established in 2010, this construction business specialises in large-scale projects across Ireland, working with top contractors. Strong growth potential. BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/m-and-a-vault/ireland-construction-1-in-category-highly-profitable-w-growth-opportunity

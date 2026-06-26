@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 390000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 390000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): b6bb35d03815c8ea
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/award-winning-luxury-beauty-salon-absentee-owner.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Award Winning Luxury Beauty Salon w/15 Years Of Excellence. Fifteen years in the business.... Are you ready to step into the world of beauty and personal care with a flourishing business in Dublin 15... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Award Winning Luxury Beauty Salon w/15 Years Of Excellence. Fifteen years in the business.... Are you ready to step into the world of beauty and personal care with a flourishing business in Dublin 15... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

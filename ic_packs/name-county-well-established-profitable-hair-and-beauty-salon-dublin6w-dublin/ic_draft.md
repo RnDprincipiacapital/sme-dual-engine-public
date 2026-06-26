@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 40000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 40000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): cbf2670fab3c1268
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/well-established-profitable-hair-and-beauty-salon-dublin6w.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Well Established and Profitable Hair And Beauty Salon – Dublin 6W – Prime Location – Strong Client Base. An excellent opportunity to acquire a long-established and highly regarded hair and beauty... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Well Established and Profitable Hair And Beauty Salon – Dublin 6W – Prime Location – Strong Client Base. An excellent opportunity to acquire a long-established and highly regarded hair and beauty... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

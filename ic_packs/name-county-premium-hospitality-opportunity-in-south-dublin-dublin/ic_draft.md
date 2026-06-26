@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 1500000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 1500000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): c004a6b8f41c896b
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/premium-hospitality-opportunity-in-south-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): DealChasers (Business Brokers) presents an exceptional opportunity to acquire a well-established and highly reputable restaurant and coffee house located in a prime setting in South Dublin area. This... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): DealChasers (Business Brokers) presents an exceptional opportunity to acquire a well-established and highly reputable restaurant and coffee house located in a prime setting in South Dublin area. This... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

@@ -58,7 +58,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -71,5 +71,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): b61ba2a1352c07f0
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/specialist-chemical-resistant-flooring-provider-services-northern-ireland-679876
-- `summary` from business_sale_report (observed, confidence 1.0): This Northern Ireland-based company stands out in the industry due to its exclusive licensing to install a highly durable chemical-resistant floor coating, catering to the stringent needs of the food and drink production sector. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This Northern Ireland-based company stands out in the industry due to its exclusive licensing to install a highly durable chemical-resistant floor coating, catering to the stringent needs of the food and drink production sector. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

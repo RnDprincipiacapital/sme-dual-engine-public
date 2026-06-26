@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 125000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 125000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 9d75d4f9858c118c
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/established-nail-and-beauty-salon-in-north-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Situated in a thriving, newly developed Shopping Centre surrounded by 4,000 brand-new residential apartments, this well-presented nail and beauty salon represents a compelling turnkey opportunity for... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Situated in a thriving, newly developed Shopping Centre surrounded by 4,000 brand-new residential apartments, this well-presented nail and beauty salon represents a compelling turnkey opportunity for... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

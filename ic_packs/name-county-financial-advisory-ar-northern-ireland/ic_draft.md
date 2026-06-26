@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £1,350,000 Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £1,350,000 Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -74,5 +74,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 8e50a598299bf49c
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/financial-advisory-ar-professional-and-financial-northern-ireland-654460
-- `summary` from business_sale_report (observed, confidence 1.0): Opportunity to acquire a well-established local IFA firm in the vibrant city of Belfast, providing potential for growth in a dynamic financial services market. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): Opportunity to acquire a well-established local IFA firm in the vibrant city of Belfast, providing potential for growth in a dynamic financial services market. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

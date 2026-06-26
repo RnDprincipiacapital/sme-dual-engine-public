@@ -7,7 +7,7 @@ Interactive public demo is live; investment-grade approval still needs company-u
 - Approved source rows: 27 / 120 (22.5%)
 - Company-universe gaps: 93
 - Ranked targets: 310
-- Advertised sale listings: 225
+- Advertised sale listings: 226
 - Collection waves: 5
 
 ## Decision
@@ -21,7 +21,7 @@ Interactive public demo is live; investment-grade approval still needs company-u
 | Area | Status | Evidence |
 | --- | --- | --- |
 | Interactive site | ready | 310 ranked public targets are available in the dashboard. |
-| Live sale feed | ready | 225 advertised sale listings are published; 225 came from the latest public refresh. |
+| Live sale feed | ready | 226 advertised sale listings are published; 226 came from the latest public refresh. |
 | Sector taxonomy | ready | 15 sectors and 104 subsectors are configured; 35 subsectors currently have observed targets/listings/evidence. |
 | Approved source rows | blocked | 27 of 120 approved source rows are complete (22.5%). |
 | Company evidence gate | blocked | Approved company-count evidence and source metadata are required before investment decisions. |

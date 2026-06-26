@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): d672ea8d2dd57677
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/concrete-solutions-and-installation-specialists-building-and-construction-northern-ireland-674845
-- `summary` from business_sale_report (observed, confidence 1.0): This well-established business in Northern Ireland offers a robust foothold in the concrete solutions and groundworks industry, boasting a 75% tender success rate and strong client loyalty built over 55 years. With a comprehensive fleet and expertise... Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This well-established business in Northern Ireland offers a robust foothold in the concrete solutions and groundworks industry, boasting a 75% tender success rate and strong client loyalty built over 55 years. With a comprehensive fleet and expertise... Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

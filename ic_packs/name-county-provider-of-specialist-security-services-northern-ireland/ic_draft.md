@@ -58,7 +58,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -71,5 +71,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 2b2c2a64fa14ef04
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/provider-of-specialist-security-services-services-northern-ireland-679792
-- `summary` from business_sale_report (observed, confidence 1.0): The business’s services encompass manned guarding, CCTV monitoring, vehicle patrol, key holding, event security, and door supervision, all delivered by highly qualified security personnel. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): The business’s services encompass manned guarding, CCTV monitoring, vehicle patrol, key holding, event security, and door supervision, all delivered by highly qualified security personnel. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

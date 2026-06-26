@@ -5,7 +5,7 @@
 - Remaining row gaps: 93
 - Company-universe request rows: 93
 - Collection waves: 5
-- Advertised sale listings: 225
+- Advertised sale listings: 226
 
 ## Summary
 

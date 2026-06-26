@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 992f3fefa076c894
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/established-dental-laboratory-with-strong-reputation.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): An established dental laboratory in Ireland is offered for sale, providing crown and bridge services, including implant-supported restorations, to busy dental surgeries. Operating for over two decades... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): An established dental laboratory in Ireland is offered for sale, providing crown and bridge services, including implant-supported restorations, to busy dental surgeries. Operating for over two decades... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

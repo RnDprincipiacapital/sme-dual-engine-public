@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Tyrone
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 82c3d0b47bc9b8c7
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/legal-services-and-solicitors-firm-professional-and-financial-northern-ireland-671617
-- `summary` from business_sale_report (observed, confidence 1.0): Nestled in County Tyrone, this law firm offers a unique opportunity with its highly profitable practice and well-established reputation. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): Nestled in County Tyrone, this law firm offers a unique opportunity with its highly profitable practice and well-established reputation. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): County Tyrone, Northern Ireland, UK

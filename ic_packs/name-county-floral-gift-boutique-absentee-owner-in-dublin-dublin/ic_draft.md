@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 7ee7d9276aa0f40e
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/floral-and-gift-boutique-absentee-owner-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This is a rare chance to step into a profitable and well-loved floral and gift shop located in a vibrant town setting. The business is known for its beautiful arrangements, creative flair, and... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This is a rare chance to step into a profitable and well-loved floral and gift shop located in a vibrant town setting. The business is known for its beautiful arrangements, creative flair, and... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £300,000 Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £300,000 Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 684ef88fca4ac1d9
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/high-performance-plastics-engineering-solutions-engineering-northern-ireland-659722
-- `summary` from business_sale_report (observed, confidence 1.0): This well-established business, specialising in high-performance plastic components, offers a unique opportunity for growth across multiple industries with its strong production network and loyal customer base. Ideal as a stand-alone venture or as a... Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This well-established business, specialising in high-performance plastic components, offers a unique opportunity for growth across multiple industries with its strong production network and loyal customer base. Ideal as a stand-alone venture or as a... Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, Northern Ireland, UK

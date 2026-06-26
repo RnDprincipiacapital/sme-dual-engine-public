@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 85000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -75,4 +75,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): e8a4c49308b7c2d5
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/well-positioned-beauty-and-aesthetics-clinic-with-growth-potential.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): A well-positioned beauty and aesthetics clinic is available for acquisition in Dublin. Operating successfully for many years, the business has built a loyal, repeat client base and a strong local... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): A well-positioned beauty and aesthetics clinic is available for acquisition in Dublin. Operating successfully for many years, the business has built a loyal, repeat client base and a strong local... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

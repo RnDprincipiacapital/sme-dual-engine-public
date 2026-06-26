@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Galway
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `fit_score` from businessesforsale_ie (inferred, confidence 0.7): 50.0
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False

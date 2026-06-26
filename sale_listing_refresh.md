@@ -1,16 +1,16 @@
 # Public Sale Listing Feed Refresh
 
 - Status: `ok`
-- Observed at: `2026-06-25`
-- Published rows: `225`
-- Refreshed rows: `225`
-- Existing rows considered: `225`
+- Observed at: `2026-06-26`
+- Published rows: `226`
+- Refreshed rows: `226`
+- Existing rows considered: `226`
 - Public output: `galway-live-sale-listings-public.csv`
 
 ## Sources
 
-- businessesforsale_ie: ok; 23 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway
-  - Page: 23 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway
+- businessesforsale_ie: ok; 24 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway
+  - Page: 24 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway
 - businessesforsale_ie: ok; 80 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin
   - Page: 25 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin
   - Page: 25 rows; https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-dublin-2

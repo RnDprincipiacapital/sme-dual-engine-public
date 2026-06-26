@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 135000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 135000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 5647b6a7c22a13fe
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/thriving-urban-barber-shop-with-strong-client-base-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Step into ownership of a well-established and stylish barber shop situated in a high-footfall area of a bustling Irish city. Known for its welcoming atmosphere and quality grooming services, this... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Step into ownership of a well-established and stylish barber shop situated in a high-footfall area of a bustling Irish city. Known for its welcoming atmosphere and quality grooming services, this... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Galway
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 1.8 Mn SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 1.8 Mn SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): target
 - `fit_score` from smergers (inferred, confidence 0.7): 75.0
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False

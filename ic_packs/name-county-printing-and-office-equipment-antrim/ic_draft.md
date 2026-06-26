@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Antrim
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £290,000 Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £290,000 Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 49d786f64be2ecba
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/printing-and-office-equipment-wholesale-northern-ireland-670224
-- `summary` from business_sale_report (observed, confidence 1.0): Presenting to the market a longstanding and profitable independent company that specialises in the supply and distribution of printing, art, and office equipment. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): Presenting to the market a longstanding and profitable independent company that specialises in the supply and distribution of printing, art, and office equipment. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Antrim, Northern Ireland, UK

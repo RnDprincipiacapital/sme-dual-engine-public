@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 1cc11e9c95e995bd
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/sandyford-to-dublin-airport-taxi-service.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Reserve dependable sandyford to dublin airport taxi services with professional drivers and convenient fixed-fare transportation. Wayszo.com offers reliable airport transfer solutions tailored for... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Reserve dependable sandyford to dublin airport taxi services with professional drivers and convenient fixed-fare transportation. Wayszo.com offers reliable airport transfer solutions tailored for... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.ie/irish/sandyford-to-dublin-airport-taxi-service.aspx

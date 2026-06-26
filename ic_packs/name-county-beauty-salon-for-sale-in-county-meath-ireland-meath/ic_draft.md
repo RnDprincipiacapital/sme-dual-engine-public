@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Meath
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 70 K SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 70 K SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False
 - `is_franchise` from smergers (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from smergers (observed, confidence 1.0): 497e9ef327ee8a21
 - `source_section` from smergers (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/beauty-salon-for-sale-in-county-meath-ireland/aupdr/
-- `summary` from smergers (observed, confidence 1.0): Beauty salon located in County Meath Ireland. - Top selling services include skin care treatments, advanced brows, facials, and nail treatments. - Database boasts over 4,000 clients, indicating a loyal localized customer base. - High-end, state-of-the-art salon featuring 5 treatment rooms, 3 nail stations, a brow bar, and a makeup station. - Established over 14 years with free on-street parking, enhancing accessibility for customers. - Annual turnover nearing €200,000, reflecting robust business performance. - Promoter possesses 24 years of industry experience, ensuring expertise and quality service. - Licensed incorporation, ensuring legal compliance and business legitimacy. - Current employee count is sufficient to manage operations effectively. - 5 star reviews. - Award winning salon. SMERGERS public listing card observed 2026-06-25.
+- `summary` from smergers (observed, confidence 1.0): Beauty salon located in County Meath Ireland. - Top selling services include skin care treatments, advanced brows, facials, and nail treatments. - Database boasts over 4,000 clients, indicating a loyal localized customer base. - High-end, state-of-the-art salon featuring 5 treatment rooms, 3 nail stations, a brow bar, and a makeup station. - Established over 14 years with free on-street parking, enhancing accessibility for customers. - Annual turnover nearing €200,000, reflecting robust business performance. - Promoter possesses 24 years of industry experience, ensuring expertise and quality service. - Licensed incorporation, ensuring legal compliance and business legitimacy. - Current employee count is sufficient to manage operations effectively. - 5 star reviews. - Award winning salon. SMERGERS public listing card observed 2026-06-26.

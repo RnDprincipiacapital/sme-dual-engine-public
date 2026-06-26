@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 550000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 550000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): b133974b83dde342
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/turnkey-dental-practice-with-expansion-potential-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established dental and aesthetic clinic offers a full suite of services, including general dentistry, cosmetic procedures, emergency care, and non-invasive facial treatments. Known for its... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This well-established dental and aesthetic clinic offers a full suite of services, including general dentistry, cosmetic procedures, emergency care, and non-invasive facial treatments. Known for its... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

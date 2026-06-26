@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 5519f97aee36821e
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/building-services-engineering-specialist-services-northern-ireland-680348
-- `summary` from business_sale_report (observed, confidence 1.0): This Northern Ireland-based business is a remarkable acquisition opportunity thanks to its long-standing reputation, award-winning services, and a robust base of repeat clients across multiple sectors. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This Northern Ireland-based business is a remarkable acquisition opportunity thanks to its long-standing reputation, award-winning services, and a robust base of repeat clients across multiple sectors. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Northern Ireland, UK

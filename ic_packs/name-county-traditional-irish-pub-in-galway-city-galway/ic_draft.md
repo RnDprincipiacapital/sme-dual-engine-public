@@ -61,7 +61,7 @@
 
 - `company_age_years` from bizbuy_ie (observed, confidence 1.0): 8.0
 - `county` from bizbuy_ie (observed, confidence 1.0): Galway
-- `evidence_text` from bizbuy_ie (observed, confidence 1.0): public advertised-for-sale listing €400K-500K BizBuy.ie public listing card observed 2026-06-25.
+- `evidence_text` from bizbuy_ie (observed, confidence 1.0): public advertised-for-sale listing €400K-500K BizBuy.ie public listing card observed 2026-06-26.
 - `fit_decision` from bizbuy_ie (inferred, confidence 0.7): target
 - `fit_score` from bizbuy_ie (inferred, confidence 0.7): 75.0
 - `is_business_opportunity` from bizbuy_ie (observed, confidence 1.0): False

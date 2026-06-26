@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 2dbb4f095d554b77
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.com/m-and-a-vault/leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Supply premium materials from top manufacturers in Italy, Spain and beyond. Specialising on both wholesale distribution and project-based supply. ​ BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Supply premium materials from top manufacturers in Italy, Spain and beyond. Specialising on both wholesale distribution and project-based supply. ​ BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `website` from local_enrichment (inferred, confidence 0.55): https://www.businessesforsale.com/m-and-a-vault/leading-importer-and-distributor-of-high-quality-natural-stone-and-porcelain-tiles

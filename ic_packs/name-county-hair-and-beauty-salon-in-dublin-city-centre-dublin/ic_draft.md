@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 53000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 53000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): e456fbc7419390d0
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/hair-and-beauty-salon-in-dublin-city-centre.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): RARE OPPORTUNITY. For Sale: Successful Salon in Prime Central Dublin 2 Location. Annual Turnover: €200,000. Asking Price: €53,000 (due to owner expatriation) Summary. Prime location in Wicklow Street... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): RARE OPPORTUNITY. For Sale: Successful Salon in Prime Central Dublin 2 Location. Annual Turnover: €200,000. Asking Price: €53,000 (due to owner expatriation) Summary. Prime location in Wicklow Street... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

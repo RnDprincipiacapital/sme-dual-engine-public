@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 00e8356d78a486e8
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/civil-and-structural-engineering-consultancy-building-and-construction-ireland-680135
-- `summary` from business_sale_report (observed, confidence 1.0): This leading civil and structural engineering consultancy firm in Ireland offers a comprehensive range of services, highlighted by its expertise in medium to large-scale housing developments. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This leading civil and structural engineering consultancy firm in Ireland offers a comprehensive range of services, highlighted by its expertise in medium to large-scale housing developments. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Ireland, IR

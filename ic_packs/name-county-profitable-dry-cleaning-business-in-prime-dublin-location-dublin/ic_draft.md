@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 110000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 110000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 11b3fc6b53fa3934
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/profitable-dry-cleaning-business-in-prime-dublin-location.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): An outstanding opportunity exists to acquire a well-established dry cleaning business perfectly situated at one of Dublin’s busiest crossroads. This business presents an ideal scenario for an... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): An outstanding opportunity exists to acquire a well-established dry cleaning business perfectly situated at one of Dublin’s busiest crossroads. This business presents an ideal scenario for an... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

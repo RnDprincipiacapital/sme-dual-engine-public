@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Dublin
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 10 K SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 10 K SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False
 - `is_franchise` from smergers (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from smergers (observed, confidence 1.0): ceab21d41fb8c237
 - `source_section` from smergers (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/profitable-art-gallery-for-sale-in-dublin-ireland/n853p/
-- `summary` from smergers (observed, confidence 1.0): Digital-first e-commerce business based in Ireland offering stock image collections and creative assets. - Generates revenue through online sales of downloadable image libraries and a Midjourney course for creatives. - Operates on a fully digital model with no inventory, logistics, or physical infrastructure required. - We get 10-12 orders per month. - Serves designers, marketers, and content creators who require commercially usable visual assets. - Includes a ready-to-run Shopify store, complete image library, and established brand identity. - Simple operations with minimal overheads, making it easy to manage remotely from any location. - Growth potential through increased marketing, paid ads, and expansion of digital product offerings. SMERGERS public listing card observed 2026-06-25.
+- `summary` from smergers (observed, confidence 1.0): Digital-first e-commerce business based in Ireland offering stock image collections and creative assets. - Generates revenue through online sales of downloadable image libraries and a Midjourney course for creatives. - Operates on a fully digital model with no inventory, logistics, or physical infrastructure required. - We get 10-12 orders per month. - Serves designers, marketers, and content creators who require commercially usable visual assets. - Includes a ready-to-run Shopify store, complete image library, and established brand identity. - Simple operations with minimal overheads, making it easy to manage remotely from any location. - Growth potential through increased marketing, paid ads, and expansion of digital product offerings. SMERGERS public listing card observed 2026-06-26.

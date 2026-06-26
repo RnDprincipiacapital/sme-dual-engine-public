@@ -58,7 +58,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Cork
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £4,900,000 Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing £4,900,000 Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -71,5 +71,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 6f649f551eade24f
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/luxury-coastal-boutique-hotel-leisure-and-lifestyle-ireland-679433
-- `summary` from business_sale_report (observed, confidence 1.0): This highly successful boutique hotel on the South Coast of Ireland offers stunning seafront views, spacious accommodations, and a renowned bistro, making it a favourite among travellers. Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): This highly successful boutique hotel on the South Coast of Ireland offers stunning seafront views, spacious accommodations, and a renowned bistro, making it a favourite among travellers. Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Cork, Ireland, IR

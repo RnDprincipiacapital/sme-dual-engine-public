@@ -61,7 +61,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 270000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 270000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -75,4 +75,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 48e85c179f285789
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/successful-cafe-in-lucan-village-for-sub-let.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): 1. Long-Established Business will consider evening Sub Let option. Successfully trading for over 20 years, demonstrating strong stability and reputation. Well known within the local community with a... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): 1. Long-Established Business will consider evening Sub Let option. Successfully trading for over 20 years, demonstrating strong stability and reputation. Well known within the local community with a... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

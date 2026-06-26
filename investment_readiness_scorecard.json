@@ -8,8 +8,8 @@
   "approved_pct": 22.5,
   "gap_count": 93,
   "ranked_targets": 310,
-  "advertised_sale_listings": 225,
-  "refreshed_sale_listings": 225,
+  "advertised_sale_listings": 226,
+  "refreshed_sale_listings": 226,
   "collection_waves": 5,
   "company_universe_request_rows": 93,
   "taxonomy_sector_count": 15,
@@ -29,7 +29,7 @@
     {
       "area": "Live sale feed",
       "status": "ready",
-      "evidence": "225 advertised sale listings are published; 225 came from the latest public refresh."
+      "evidence": "226 advertised sale listings are published; 226 came from the latest public refresh."
     },
     {
       "area": "Sector taxonomy",

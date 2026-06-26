@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 180000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 180000 BusinessesForSale.ie JSON-LD listing observed 2026-06-26.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -73,4 +73,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): ec017be5c568783a
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/premier-hair-salon-iconic-brand-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Premier Dublin Hair Salon for Sale – Iconic Brand, Prime Location. This is a rare opportunity to acquire a well-established hair salon with an excellent reputation, situated in a bustling... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Premier Dublin Hair Salon for Sale – Iconic Brand, Prime Location. This is a rare opportunity to acquire a well-established hair salon with an excellent reputation, situated in a bustling... BusinessesForSale.ie JSON-LD listing observed 2026-06-26.

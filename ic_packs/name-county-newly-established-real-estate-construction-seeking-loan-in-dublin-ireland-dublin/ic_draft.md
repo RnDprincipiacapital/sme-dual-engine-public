@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from smergers (observed, confidence 1.0): Dublin
-- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 3.5 Mn at 10% SMERGERS public listing card observed 2026-06-25.
+- `evidence_text` from smergers (observed, confidence 1.0): public advertised-for-sale listing EUR 3.5 Mn at 10% SMERGERS public listing card observed 2026-06-26.
 - `fit_decision` from smergers (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from smergers (observed, confidence 1.0): False
 - `is_franchise` from smergers (observed, confidence 1.0): False
@@ -74,4 +74,4 @@
 - `source_key` from smergers (observed, confidence 1.0): 7cac190c62f6bd08
 - `source_section` from smergers (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from smergers (observed, confidence 1.0): https://www.smergers.com/business/newly-established-real-estate-construction-company-seeking-loan-in-dublin-ireland/r69iv/
-- `summary` from smergers (observed, confidence 1.0): The company aims to establish itself as a key player in the real estate construction sector in Dublin, Ireland. - The company is focused on the construction of frame residential houses, targeting a production capacity of up to 250 units annually. - Strategically positioned for growth in the burgeoning Irish housing market. - Company is poised to contribute to addressing the housing demand in Ireland with sustainable frame housing solutions. - Active discussions are underway with contractors to initiate manufacturing processes, demonstrating proactive project planning. - The business has successfully incorporated and has identified land for facility construction, laying a solid foundation for operations. - The venture presents significant investment potential in a growth-oriented sector, backed by effective strategic planning and execution. SMERGERS public listing card observed 2026-06-25.
+- `summary` from smergers (observed, confidence 1.0): The company aims to establish itself as a key player in the real estate construction sector in Dublin, Ireland. - The company is focused on the construction of frame residential houses, targeting a production capacity of up to 250 units annually. - Strategically positioned for growth in the burgeoning Irish housing market. - Company is poised to contribute to addressing the housing demand in Ireland with sustainable frame housing solutions. - Active discussions are underway with contractors to initiate manufacturing processes, demonstrating proactive project planning. - The business has successfully incorporated and has identified land for facility construction, laying a solid foundation for operations. - The venture presents significant investment potential in a growth-oriented sector, backed by effective strategic planning and execution. SMERGERS public listing card observed 2026-06-26.

@@ -60,7 +60,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Northern Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-26.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -73,5 +73,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 0cea9ae78b232567
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/award-winning-restaurant-group-cafes-restaurants-pubs-northern-ireland-670674
-- `summary` from business_sale_report (observed, confidence 1.0): A turnkey opportunity with established locations in high-traffic areas, complete with a loyal customer base and a reputation for fresh, sustainable Thai cuisine. With a focus on digital innovation, comprehensive support for franchisees, and community... Business Sale Report public listing observed 2026-06-25.
+- `summary` from business_sale_report (observed, confidence 1.0): A turnkey opportunity with established locations in high-traffic areas, complete with a loyal customer base and a reputation for fresh, sustainable Thai cuisine. With a focus on digital innovation, comprehensive support for franchisees, and community... Business Sale Report public listing observed 2026-06-26.
 - `town` from business_sale_report (observed, confidence 1.0): Belfast, Northern Ireland, UK
