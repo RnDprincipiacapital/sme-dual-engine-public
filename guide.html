@@ -20,7 +20,7 @@ main{padding:18px 24px 34px;max-width:1180px;margin:0 auto}.hero{background:var(
 <section class='guide-section'><h2>What This Tool Is</h2><div class='guide-grid'>
 <article><h3>Purpose</h3><p>A public-safe demo of an Irish SME succession origination workflow.</p></article>
 <article><h3>Main job</h3><p>Help a reviewer decide which businesses deserve research, a call, a watchlist note, or no further time.</p></article>
-<article><h3>Private vs public</h3><p>The public site is sanitized. Private notes, credentials, and confidential contact history should stay outside it.</p></article>
+<article><h3>Private vs public</h3><p>The public site is sanitized. Analyst-only notes, credentials, and contact history should stay outside it.</p></article>
 </div></section>
 <section class='guide-section'><h2>What To Test First</h2><div class='guide-grid'>
 <article><h3>Priority Research</h3><p>Open the first 40 operating SME targets ranked ahead of ordinary sale listings.</p></article>
@@ -33,9 +33,16 @@ main{padding:18px 24px 34px;max-width:1180px;margin:0 auto}.hero{background:var(
 <article><h3>Macro Engine</h3><p>Scores outside context: sector demand, policy exposure, public spending, rates, labour, energy, and regulation.</p></article>
 <article><h3>Evidence Gate</h3><p>The control layer that stops weak evidence from looking like an investment-ready opportunity.</p></article>
 <article><h3>Gate-adjusted score</h3><p>The original score after evidence penalties. Weak sources lower the usable score.</p></article>
+<article><h3>Score penalty</h3><p>The deduction applied when a company has weak or incomplete evidence.</p></article>
 <article><h3>Source confidence</h3><p>How strong the public source trail is for the target.</p></article>
 <article><h3>Target universe type</h3><p>Whether the row is an advertised sale listing, operating SME, public-profile target, or weak record.</p></article>
 <article><h3>Entity cluster</h3><p>Rows that appear to describe the same business grouped together.</p></article>
+</div></section>
+<section class='guide-section'><h2>Source Labels</h2><div class='guide-grid'>
+<article><h3>verified profile</h3><p>A public company/profile source gives stronger legal identity or trading-status evidence.</p></article>
+<article><h3>live listing</h3><p>A public broker or marketplace page shows transaction intent, but details still need checking.</p></article>
+<article><h3>public profile</h3><p>A website, phone, email, or public profile suggests a real operating business.</p></article>
+<article><h3>needs verification</h3><p>The row is useful only as a lead until legal identity or trading proof is improved.</p></article>
 </div></section>
 <section class='guide-section'><h2>Evidence Gate Statuses</h2><div class='guide-grid'>
 <article><h3>investment_ready</h3><p>Strong enough for serious IC-style treatment, subject to normal diligence.</p></article>
@@ -46,11 +53,22 @@ main{padding:18px 24px 34px;max-width:1180px;margin:0 auto}.hero{background:var(
 </div></section>
 <section class='guide-section'><h2>Important Downloads</h2><div class='guide-grid'>
 <article><h3>Excel pack</h3><p>Best first file for boss review: one formatted workbook with multiple tabs.</p></article>
+<article><h3>Review Decisions tab</h3><p>Where Dylan or the boss can record advance, watch, decline, contact, meeting, diligence, missing evidence, owner, and notes.</p></article>
+<article><h3>Evidence Gate tab</h3><p>Plain-English count of which targets are ready, need research, belong on a watchlist, or should be ignored.</p></article>
+<article><h3>Source Coverage tab</h3><p>Shows how much public source coverage is loaded and what still needs operator review.</p></article>
 <article><h3>Boss pack</h3><p>Readable browser pages and print-to-PDF views.</p></article>
 <article><h3>Priority research page</h3><p>Best first worklist for Dylan or the boss, rendered as a normal browser table.</p></article>
 <article><h3>Priority research workbook</h3><p>Formatted Excel workbook copy of the priority worklist.</p></article>
 <article><h3>Target table workbook</h3><p>Formatted Excel workbook copy of the public target table.</p></article>
 <article><h3>CSV fallbacks</h3><p>Available for compatibility, but the intended boss files are workbooks.</p></article>
+</div></section>
+<section class='guide-section'><h2>Review Decisions</h2><div class='guide-grid'>
+<article><h3>advance</h3><p>Move toward deeper diligence because the evidence and score both justify more work.</p></article>
+<article><h3>watch</h3><p>Keep the company visible but wait for better evidence or a clearer succession angle.</p></article>
+<article><h3>research_more</h3><p>Assign someone to fill the missing evidence before contact.</p></article>
+<article><h3>contact</h3><p>Prepare a founder-friendly first call or confidential approach.</p></article>
+<article><h3>meeting</h3><p>Track targets where a real discussion is now the next step.</p></article>
+<article><h3>decline</h3><p>Remove from active attention because the evidence, fit, or target type is wrong.</p></article>
 </div></section>
 <section class='guide-section'><h2>Known Limitations</h2><div class='guide-grid'>
 <article><h3>Not investment advice</h3><p>The site is a decision-support demo, not an automatic investment approval tool.</p></article>

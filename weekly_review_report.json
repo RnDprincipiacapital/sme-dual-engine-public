@@ -1904,6 +1904,35 @@
       "owner": "analyst"
     }
   ],
+  "contacted_movement": [
+    {
+      "identity_key": "name_county:nightingale nursing home lowville ahascragh ballinasloe county galway:galway",
+      "name": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
+      "county": "Galway",
+      "sector": "Businesses",
+      "subsector": "advertised_sale_listing",
+      "gate_status": "investment_ready",
+      "score": 76.8,
+      "raw_score": 76.8,
+      "score_penalty": 0.0,
+      "suggested_status": "researching",
+      "suggested_decision": "contact",
+      "next_action": "prioritise_for_manual_origination_review",
+      "missing_evidence": [],
+      "gate_reasons": [
+        "legal or public identity evidence exists",
+        "trading proof is available for manual review",
+        "a public contact or source route is available",
+        "founder/succession-style signal is present",
+        "transaction or succession angle is visible"
+      ],
+      "source_quality": "live_listing",
+      "target_universe_type": "advertised_sale_listing",
+      "owner": "analyst"
+    }
+  ],
+  "meeting_movement": [],
+  "diligence_movement": [],
   "watchlist_targets": [
     {
       "identity_key": "name_county:successful pizza business in north dublin:dublin",

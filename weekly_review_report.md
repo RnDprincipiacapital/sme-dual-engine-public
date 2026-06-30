@@ -32,6 +32,18 @@
 - Lakefront Hospitality Operation | research_needed | score 43.8 | next: keep_on_watchlist
 - Ireland Construction - #1 in Category - Highly Profitable w/ Growth Opportunity | research_needed | score 43.4 | next: keep_on_watchlist
 
+## Contacted Movement
+
+- Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway | investment_ready | score 76.8 | next: prioritise_for_manual_origination_review
+
+## Meeting Movement
+
+- None in this run.
+
+## Diligence Movement
+
+- None in this run.
+
 ## Watchlist Targets
 
 - Successful Pizza Business In North Dublin | watchlist_only | score 19.9 | next: defer_until_new_evidence

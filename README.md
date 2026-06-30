@@ -54,7 +54,7 @@ Do not commit any of the following to this public hosting repo:
 
 - private backend exports;
 - confidential company lists;
-- analyst private notes;
+- analyst-only notes;
 - credentials or tokens;
 - private contact workflow history;
 - non-public source files;
